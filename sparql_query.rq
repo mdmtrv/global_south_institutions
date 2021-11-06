@@ -1,0 +1,55 @@
+PREFIX openbiodiv: <http://openbiodiv.net/>
+
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+
+PREFIX pkm: <http://proton.semanticweb.org/protonkm#>
+
+PREFIX po: <http://www.essepuntato.it/2008/12/pattern#>
+
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+PREFIX frbr: <http://purl.org/vocab/frbr/core#>
+
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+PREFIX prism: <http://prismstandard.org/namespaces/basic/2.0/>
+
+SELECT (COUNT(?treatment) AS ?numTreatments) ?instCode (GROUP_CONCAT(DISTINCT ?label; SEPARATOR=";") AS ?journals) (GROUP_CONCAT(distinct ?doi; SEPARATOR=";") AS ?dois) where {
+
+
+
+?treatment a openbiodiv:Treatment.
+
+?treatment pkm:mentions openbiodiv:TaxonomicDiscovery.
+
+?treatment openbiodiv:describesName ?name.
+
+?name rdfs:label ?taxonLabel.
+
+?treatment openbiodiv:taxonomicStatus ?status.
+
+?treatment dwc:institutionCode|openbiodiv:institutionName ?instCode.
+
+OPTIONAL {?treatment dwc:institutionID ?instID.}
+
+?article po:contains ?treatment;
+
+prism:doi ?doi;
+
+prism:publicationDate ?pubDate.
+
+?journal frbr:part ?article.
+
+?journal skos:prefLabel ?label.
+
+FILTER (str(?label) NOT IN ('African Invertebrates',
+
+'Alpine Entomology',
+
+'Zoologia'))
+
+} GROUP BY ?instCode
