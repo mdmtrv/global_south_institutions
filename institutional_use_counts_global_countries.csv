@@ -1,0 +1,1493 @@
+numTreatments,instCode,journals,dois,country,name,type
+2,NIGP,Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/dez.64.11724;10.3897/zookeys.1005.57629,CN,Naking Institute of Geology and Palaeontology,
+26,TMSA,Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/dez.65.23538;10.3897/dez.65.25747;10.3897/zookeys.879.37721;10.3897/dez.63.7556;10.3897/zookeys.688.13632,ZA,Transvaal Museum,
+85,MfN,Deutsche Entomologische Zeitschrift;Nota Lepidopterologica;ZooKeys;Subterranean Biology,10.3897/dez.65.25747;10.3897/dez.65.26693;10.3897/nl.41.26835;10.3897/dez.63.7556;10.3897/dez.63.10799;10.3897/zookeys.963.53470;10.3897/subtbiol.37.60483;10.3897/dez.68.61819,DE,Museum für Naturkunde,MUSEUM
+271,SMNK,Deutsche Entomologische Zeitschrift;ZooKeys;Nota Lepidopterologica;Zoosystematics and Evolution,10.3897/dez.65.25747;10.3897/zookeys.828.32200;10.3897/zookeys.800.26292;10.3897/nl.40.11184;10.3897/zookeys.556.6126;10.3897/zse.96.55210;10.3897/zookeys.603.7480;10.3897/zookeys.582.7709;10.3897/zookeys.1028.62347,DE,Staatliches Museum fuer Naturkunde Karlsruhe (State Museum of Natural History),
+176,NMPC,Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/dez.65.26261;10.3897/zookeys.837.32057;10.3897/zookeys.889.34690;10.3897/zookeys.800.26292;10.3897/zookeys.796.22517;10.3897/zookeys.796.21536;10.3897/zookeys.736.21628;10.3897/zookeys.715.20497;10.3897/zookeys.715.15913;10.3897/zookeys.706.18081;10.3897/zookeys.853.33311;10.3897/zookeys.656.11676;10.3897/zookeys.912.47719;10.3897/zookeys.577.7301;10.3897/zookeys.963.54714;10.3897/zookeys.681.12522;10.3897/zookeys.974.56059;10.3897/dez.67.50078;10.3897/zookeys.746.23637,CZ,National Museum Prague,
+19,KMNH,Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/dez.65.26261;10.3897/zookeys.933.48771;10.3897/zookeys.646.10701;10.3897/zookeys.638.10329;10.3897/zookeys.620.9924;10.3897/zookeys.520.5943,JP,Kitakyushu Museum of Natural History and Human History,HERBARIUM
+10,IBTP,Deutsche Entomologische Zeitschrift,10.3897/dez.65.26261,,,
+428,BMNH,Deutsche Entomologische Zeitschrift;ZooKeys;Zoosystematics and Evolution;Journal of Hymenoptera Research;Evolutionary Systematics,10.3897/dez.65.26261;10.3897/dez.65.27424;10.3897/zookeys.881.34646;10.3897/zse.94.26859;10.3897/zookeys.806.30051;10.3897/zookeys.800.26292;10.3897/zookeys.796.22517;10.3897/jhr.54.10457;10.3897/jhr.58.12919;10.3897/jhr.62.23559;10.3897/jhr.63.12754;10.3897/jhr.70.34206;10.3897/jhr.72.38908;10.3897/zookeys.789.27022;10.3897/zookeys.785.28006;10.3897/zookeys.766.24523;10.3897/zookeys.753.22366;10.3897/zookeys.748.23856;10.3897/zookeys.736.21628;10.3897/zookeys.715.20497;10.3897/zookeys.704.13304;10.3897/zookeys.878.37403;10.3897/zookeys.861.32594;10.3897/zookeys.853.33311;10.3897/zookeys.803.28903;10.3897/zookeys.700.11784;10.3897/zookeys.693.13012;10.3897/zookeys.669.12608;10.3897/zookeys.664.11881;10.3897/zookeys.681.12522;10.3897/zookeys.674.11435;10.3897/zookeys.658.11569;10.3897/zookeys.974.54536;10.3897/zookeys.982.52363;10.3897/jhr.76.48004;10.3897/jhr.76.38340;10.3897/dez.66.47447;10.3897/zookeys.1023.53404;10.3897/zookeys.1028.61018;10.3897/JHR.50.8220;10.3897/zookeys.787.26948;10.3897/zookeys.767.21105;10.3897/zookeys.521.5995;10.3897/zookeys.522.10294;10.3897/zookeys.758.23019;10.3897/zookeys.746.23637;10.3897/zookeys.541.6297;10.3897/zookeys.551.6168;10.3897/dez.63.7556;10.3897/zookeys.670.11839;10.3897/zookeys.651.10336;10.3897/zookeys.637.9384;10.3897/zookeys.558.6040;10.3897/zookeys.559.6134;10.3897/zookeys.565.7185;10.3897/zookeys.577.7301;10.3897/zookeys.597.7520;10.3897/zookeys.944.49921;10.3897/zookeys.651.11235;10.3897/zookeys.649.10213;10.3897/zookeys.640.10334;10.3897/zookeys.639.10893;10.3897/zookeys.636.10216;10.3897/zookeys.628.9805;10.3897/zookeys.612.7873;10.3897/zookeys.604.8203;10.3897/evolsyst.4.60525;10.3897/zookeys.566.7344;10.3897/zookeys.524.6075,,,
+333,NHMW,Deutsche Entomologische Zeitschrift;ZooKeys;Subterranean Biology,10.3897/dez.65.26261;10.3897/zookeys.837.32057;10.3897/zookeys.835.33231;10.3897/zookeys.833.32413;10.3897/zookeys.800.26292;10.3897/zookeys.796.22517;10.3897/zookeys.795.28384;10.3897/zookeys.786.28270;10.3897/subtbiol.23.14930;10.3897/zookeys.715.15913;10.3897/zookeys.878.37403;10.3897/zookeys.846.31497;10.3897/zookeys.842.33052;10.3897/zookeys.669.12561;10.3897/zookeys.803.28903;10.3897/zookeys.687.13844;10.3897/zookeys.685.13890;10.3897/zookeys.554.6065;10.3897/zookeys.577.7254;10.3897/zookeys.681.12522;10.3897/zookeys.619.9951;10.3897/zookeys.977.57088;10.3897/zookeys.993.53805;10.3897/zookeys.599.8168;10.3897/zookeys.582.7426;10.3897/zookeys.1004.58537;10.3897/zookeys.523.6066;10.3897/zookeys.1010.58759;10.3897/subtbiol.38.64762;10.3897/zookeys.1035.65767;10.3897/zookeys.1037.64038;10.3897/zookeys.769.25258;10.3897/zookeys.761.24214,AT,"Naturhistorisches Museum, Wien",MUSEUM
+92,ZIN,Deutsche Entomologische Zeitschrift;ZooKeys;Nota Lepidopterologica;Journal of Hymenoptera Research,10.3897/dez.65.26261;10.3897/zookeys.837.32057;10.3897/nl.40.13085;10.3897/zookeys.853.33311;10.3897/jhr.75.47006;10.3897/zookeys.914.46652;10.3897/zookeys.953.52282;10.3897/zookeys.662.11267;10.3897/zookeys.974.56059;10.3897/zookeys.995.55981;10.3897/jhr.76.48004;10.3897/jhr.74.39299;10.3897/zookeys.596.8725;10.3897/zookeys.593.8511;10.3897/zookeys.970.54801;10.3897/zookeys.1028.61018,RU,"Russian Academy of Sciences, Zoological Institute, Zoological Museum",MUSEUM
+466,MNHN,Deutsche Entomologische Zeitschrift;ZooKeys;Zoosystematics and Evolution;Journal of Hymenoptera Research;MycoKeys,10.3897/dez.65.26693;10.3897/zookeys.837.32057;10.3897/zookeys.824.31635;10.3897/zookeys.821.29019;10.3897/zse.95.32818;10.3897/zse.93.10802;10.3897/zse.92.9945;10.3897/zookeys.811.29187;10.3897/zookeys.803.28124;10.3897/zookeys.802.26622;10.3897/zookeys.800.26292;10.3897/zookeys.796.22517;10.3897/jhr.55.12209;10.3897/jhr.64.25453;10.3897/jhr.68.30131;10.3897/zookeys.788.26325;10.3897/zookeys.786.28270;10.3897/zookeys.782.27938;10.3897/zookeys.768.24423;10.3897/zookeys.764.25108;10.3897/zookeys.760.24837;10.3897/zookeys.752.23712;10.3897/zookeys.747.24351;10.3897/zookeys.740.21729;10.3897/zookeys.740.20458;10.3897/zookeys.699.12031;10.3897/zookeys.870.36970;10.3897/zookeys.848.32263;10.3897/zookeys.539.6664;10.3897/zookeys.547.9698;10.3897/zookeys.803.28903;10.3897/zookeys.697.13381;10.3897/zookeys.668.11347;10.3897/zookeys.899.47070;10.3897/zookeys.917.39270;10.3897/mycokeys.67.51811;10.3897/zookeys.545.6111;10.3897/zookeys.572.7177;10.3897/zookeys.594.8768;10.3897/zookeys.935.51931;10.3897/zookeys.963.54714;10.3897/zookeys.680.11162;10.3897/zookeys.679.12547;10.3897/zookeys.677.12435;10.3897/zookeys.648.10935;10.3897/zookeys.646.11397;10.3897/zookeys.635.9915;10.3897/zookeys.632.9652;10.3897/zookeys.619.10043;10.3897/zookeys.615.9179;10.3897/zookeys.980.54100;10.3897/zookeys.987.54234;10.3897/zookeys.1001.58447;10.3897/zookeys.600.9345;10.3897/zookeys.592.8118;10.3897/zookeys.578.7994;10.3897/zookeys.566.7344;10.3897/zookeys.566.6982;10.3897/zookeys.561.7137;10.3897/zookeys.554.6120;10.3897/zookeys.554.6069;10.3897/zookeys.523.6066;10.3897/zookeys.1010.58759;10.3897/zookeys.1019.59881;10.3897/zookeys.1023.58733;10.3897/zookeys.1031.56035;10.3897/zookeys.1032.63905;10.3897/zookeys.1039.66493;10.3897/zookeys.838.28634;10.3897/zookeys.765.24395;10.3897/zse.93.10188;10.3897/zookeys.957.52565;10.3897/zookeys.984.53587;10.3897/zookeys.997.52857,FR,Museum National d'Histoire Naturelle,
+101,NHRS,Deutsche Entomologische Zeitschrift;Journal of Hymenoptera Research;ZooKeys,10.3897/dez.65.26693;10.3897/jhr.72.38908;10.3897/zookeys.718.21151;10.3897/zookeys.530.6047;10.3897/zookeys.963.53470;10.3897/zookeys.677.12435;10.3897/zookeys.632.10483;10.3897/zookeys.984.53587;10.3897/zookeys.604.9049;10.3897/jhr.72.39339,SE,"Swedish Museum of Natural History, Entomology Collections",
+83,MSNG,Deutsche Entomologische Zeitschrift;Journal of Hymenoptera Research;ZooKeys,10.3897/dez.65.26693;10.3897/jhr.71.35754;10.3897/zookeys.524.5990;10.3897/zookeys.651.10336;10.3897/zookeys.547.9375;10.3897/zookeys.572.7177;10.3897/zookeys.680.12135;10.3897/zookeys.679.11967;10.3897/zookeys.559.6281;10.3897/zookeys.553.5999;10.3897/zookeys.670.11839,IT,Museo Civico di Storia Naturale di Genova 'Giacomo Doria',
+42,MRT,Deutsche Entomologische Zeitschrift,10.3897/dez.65.26693,,,
+111,RBINS,Deutsche Entomologische Zeitschrift;ZooKeys;Journal of Hymenoptera Research,10.3897/dez.65.26693;10.3897/zookeys.798.28107;10.3897/jhr.51.9830;10.3897/jhr.53.9902;10.3897/zookeys.743.22696;10.3897/zookeys.723.21817;10.3897/zookeys.870.36970;10.3897/zookeys.675.12453;10.3897/zookeys.592.8118;10.3897/zookeys.559.6281;10.3897/zookeys.1019.61496;10.3897/zookeys.1018.61033;10.3897/zookeys.1039.66493,BE,Royal Belgian Institute of Natural Sciences,MUSEUM
+356,ANIC,Deutsche Entomologische Zeitschrift;ZooKeys;Journal of Hymenoptera Research,10.3897/dez.65.27424;10.3897/zookeys.830.32463;10.3897/zookeys.818.32061;10.3897/zookeys.805.28757;10.3897/jhr.57.12892;10.3897/jhr.64.24282;10.3897/jhr.64.25219;10.3897/jhr.73.38383;10.3897/zookeys.793.24790;10.3897/zookeys.517.10187;10.3897/zookeys.521.5995;10.3897/zookeys.718.21151;10.3897/zookeys.707.12649;10.3897/zookeys.695.19906;10.3897/zookeys.530.6047;10.3897/zookeys.541.6643;10.3897/zookeys.803.28903;10.3897/zookeys.700.11784;10.3897/zookeys.549.6939;10.3897/zookeys.556.6126;10.3897/zookeys.653.11177;10.3897/zookeys.638.10883;10.3897/zookeys.618.8059;10.3897/zookeys.586.6774;10.3897/zookeys.582.7709,AU,Australian National Insect Collection,
+173,CUIC,Deutsche Entomologische Zeitschrift;Journal of Hymenoptera Research;ZooKeys,10.3897/dez.65.27424;10.3897/jhr.71.35754;10.3897/zookeys.537.6115;10.3897/zookeys.544.6074;10.3897/zookeys.611.9058;10.3897/zookeys.982.52363;10.3897/zookeys.566.7344;10.3897/zookeys.566.6982,US,Cornell University Insect Collection,UNIVERSITY_COLLEGE
+165,FMNH,Deutsche Entomologische Zeitschrift;ZooKeys;Subterranean Biology;Zoosystematics and Evolution,10.3897/dez.65.27424;10.3897/dez.66.38022;10.3897/zookeys.882.35532;10.3897/subtbiol.26.25605;10.3897/zookeys.863.34662;10.3897/zookeys.854.35133;10.3897/zookeys.846.33200;10.3897/zookeys.695.19906;10.3897/zookeys.688.19867;10.3897/zookeys.537.6115;10.3897/zookeys.685.13811;10.3897/zookeys.640.9690;10.3897/zookeys.663.11320;10.3897/zookeys.632.10483;10.3897/zookeys.1001.58447;10.3897/zookeys.572.7823;10.3897/zookeys.557.7087;10.3897/zse.97.59143;10.3897/zookeys.1030.62544;10.3897/zookeys.639.10893,US,Field Museum of Natural History,MUSEUM
+328,MCZ,Deutsche Entomologische Zeitschrift;Zoosystematics and Evolution;ZooKeys;Journal of Hymenoptera Research,10.3897/dez.65.27424;10.3897/dez.66.38022;10.3897/zse.95.34958;10.3897/zookeys.891.38563;10.3897/jhr.53.9902;10.3897/zookeys.766.24523;10.3897/zookeys.737.20639;10.3897/zse.95.33880;10.3897/zookeys.857.34938;10.3897/zookeys.840.33878;10.3897/zookeys.700.11784;10.3897/zookeys.646.10787;10.3897/zookeys.625.9891;10.3897/zookeys.674.11435;10.3897/zookeys.639.10893;10.3897/zookeys.618.9692;10.3897/zookeys.979.56863;10.3897/zookeys.586.6774;10.3897/zookeys.562.6052;10.3897/zookeys.1007.60012;10.3897/zookeys.1027.54888;10.3897/zookeys.1031.59102;10.3897/zse.97.61351;10.3897/zookeys.767.21105;10.3897/zookeys.670.11839,US,"Harvard University, Museum of Comparative Zoology",MUSEUM
+1,QMB,Deutsche Entomologische Zeitschrift,10.3897/dez.65.27424,,,
+43,EMUS,Deutsche Entomologische Zeitschrift;Journal of Hymenoptera Research;ZooKeys,10.3897/dez.66.34683;10.3897/jhr.68.30131;10.3897/jhr.55.11452;10.3897/jhr.55.5322;10.3897/zookeys.990.55542,,,
+303,CAS,Deutsche Entomologische Zeitschrift;ZooKeys;Journal of Hymenoptera Research;PhytoKeys;Zoosystematics and Evolution,10.3897/dez.66.38022;10.3897/zookeys.838.30910;10.3897/zookeys.835.27528;10.3897/zookeys.896.36493;10.3897/jhr.64.25453;10.3897/jhr.73.33876;10.3897/zookeys.786.28421;10.3897/zookeys.786.27382;10.3897/zookeys.780.25859;10.3897/phytokeys.74.10159;10.3897/phytokeys.69.9466;10.3897/zookeys.521.5995;10.3897/zookeys.755.23939;10.3897/zookeys.730.21846;10.3897/zookeys.727.20222;10.3897/zookeys.710.14902;10.3897/zookeys.867.36139;10.3897/zookeys.863.33778;10.3897/zookeys.851.31802;10.3897/zookeys.848.32263;10.3897/zookeys.526.6037;10.3897/zookeys.528.6001;10.3897/dez.63.6615;10.3897/zookeys.536.5982;10.3897/zookeys.544.6074;10.3897/zookeys.632.10576;10.3897/zookeys.944.49921;10.3897/zookeys.680.11162;10.3897/zookeys.675.12061;10.3897/zookeys.674.11435;10.3897/zookeys.626.10033;10.3897/zookeys.614.10200;10.3897/zookeys.614.6156;10.3897/zookeys.989.57087;10.3897/zookeys.987.55317;10.3897/zookeys.606.8590;10.3897/zookeys.605.8060;10.3897/zookeys.586.7832;10.3897/zookeys.568.7125;10.3897/zookeys.562.6124;10.3897/zookeys.561.7263;10.3897/zookeys.1007.60012;10.3897/zookeys.1009.61515;10.3897/zse.97.61351;10.3897/zookeys.1034.60411;10.3897/phytokeys.94.21553;10.3897/zookeys.734.21153;10.3897/zookeys.914.46652;10.3897/phytokeys.161.53010;10.3897/jhr.79.55832,US,California Academy of Sciences,MUSEUM
+92,EMEC,Deutsche Entomologische Zeitschrift;ZooKeys;Journal of Hymenoptera Research,10.3897/dez.66.38022;10.3897/zookeys.803.28124;10.3897/jhr.54.10457;10.3897/jhr.55.12209;10.3897/zookeys.765.24144;10.3897/zookeys.755.23939;10.3897/zookeys.863.33183;10.3897/zookeys.528.6001;10.3897/zookeys.674.11435;10.3897/zookeys.646.11411;10.3897/jhr.76.48004;10.3897/zookeys.1007.60012,US,Essig Museum of Entomology,UNIVERSITY_COLLEGE
+103,CMNH,Deutsche Entomologische Zeitschrift;ZooKeys;Journal of Hymenoptera Research,10.3897/dez.66.38022;10.3897/zookeys.893.47059;10.3897/jhr.71.35754;10.3897/zookeys.690.13751;10.3897/zookeys.660.11228;10.3897/zookeys.648.10935;10.3897/zookeys.626.10033;10.3897/zookeys.611.9058;10.3897/zookeys.982.52363;10.3897/zookeys.532.6587;10.3897/zookeys.566.6982;10.3897/zookeys.533.6004;10.3897/zookeys.1016.61397;10.3897/zookeys.1040.62309,,,
+11,NDSU,Deutsche Entomologische Zeitschrift,10.3897/dez.66.38022,US,North Dakota State University,
+47,OSAC,Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/dez.66.38022;10.3897/zookeys.788.26282;10.3897/zookeys.788.26480;10.3897/zookeys.625.9891;10.3897/zookeys.1007.60012,US,Oregon State Arthropod Collection,UNIVERSITY_COLLEGE
+260,FSCA,Deutsche Entomologische Zeitschrift;ZooKeys;Journal of Hymenoptera Research,10.3897/dez.66.38022;10.3897/zookeys.893.47059;10.3897/zookeys.796.22517;10.3897/jhr.55.12209;10.3897/jhr.73.38025;10.3897/zookeys.787.26948;10.3897/zookeys.778.25775;10.3897/zookeys.755.23939;10.3897/zookeys.747.22731;10.3897/zookeys.736.21628;10.3897/zookeys.702.14728;10.3897/zookeys.863.33183;10.3897/zookeys.527.6087;10.3897/zookeys.532.6587;10.3897/zookeys.690.13751;10.3897/zookeys.637.11001;10.3897/zookeys.580.8153;10.3897/zookeys.935.50492;10.3897/zookeys.959.53415;10.3897/zookeys.681.12522;10.3897/zookeys.674.11435;10.3897/zookeys.648.10935;10.3897/zookeys.974.54536;10.3897/zookeys.626.10033;10.3897/zookeys.617.9178;10.3897/zookeys.984.53587;10.3897/zookeys.995.55981;10.3897/zookeys.1001.58447;10.3897/zookeys.566.6982;10.3897/zookeys.557.7087;10.3897/zookeys.533.6004;10.3897/jhr.80.59466;10.3897/zookeys.1024.56927;10.3897/jhr.55.5322,US,"Florida State Collection of Arthropods, The Museum of Entomology",MUSEUM
+206,WAM,Evolutionary Systematics;Journal of Hymenoptera Research;Subterranean Biology;ZooKeys,10.3897/evolsyst.1.14665;10.3897/evolsyst.1.14847;10.3897/evolsyst.2.30778;10.3897/jhr.64.25219;10.3897/subtbiol.20.10389;10.3897/zookeys.864.34521;10.3897/zookeys.695.19906;10.3897/zookeys.700.11784;10.3897/zookeys.618.8059;10.3897/zookeys.581.8044;10.3897/zookeys.1012.57172;10.3897/zookeys.756.24397;10.3897/zookeys.520.6185,AU,Western Australian Museum,MUSEUM
+149,QM,Evolutionary Systematics;ZooKeys,10.3897/evolsyst.1.14847;10.3897/evolsyst.1.15735;10.3897/evolsyst.2.30778;10.3897/evolsyst.3.34496;10.3897/zookeys.818.32061;10.3897/zookeys.700.11784;10.3897/zookeys.697.13381;10.3897/zookeys.647.11455;10.3897/zookeys.598.9229;10.3897/zookeys.646.10912;10.3897/zookeys.638.10883;10.3897/zookeys.618.8059;10.3897/zookeys.984.53587;10.3897/zookeys.586.6774;10.3897/zookeys.554.6120;10.3897/zookeys.1012.57172,US,U.S. Army Natick Research and Development Center,HERBARIUM
+42,SAM,Evolutionary Systematics;ZooKeys,10.3897/evolsyst.1.14847;10.3897/evolsyst.2.29172;10.3897/zookeys.756.24397;10.3897/zookeys.703.20986;10.3897/zookeys.685.13890;10.3897/zookeys.657.11623;10.3897/zookeys.640.10334;10.3897/evolsyst.5.64922,ZA,South African Museum,
+68,AM,Evolutionary Systematics;ZooKeys,10.3897/evolsyst.1.14847;10.3897/evolsyst.2.30778;10.3897/zookeys.796.21429;10.3897/zookeys.517.10187;10.3897/zookeys.522.6056;10.3897/zookeys.947.53906;10.3897/zookeys.662.11454;10.3897/zookeys.657.11623;10.3897/zookeys.622.9420;10.3897/zookeys.615.9530;10.3897/zookeys.581.8044;10.3897/zookeys.571.7356;10.3897/zookeys.1008.58854;10.3897/zookeys.1012.57172;10.3897/zookeys.838.28634,AU,Australian Museum,MUSEUM
+9,NMV,Evolutionary Systematics;ZooKeys,10.3897/evolsyst.1.14847;10.3897/zookeys.818.32061,AU,Museum Victoria,MUSEUM
+16,TMAG,Evolutionary Systematics;ZooKeys,10.3897/evolsyst.1.14847;10.3897/zookeys.827.32969;10.3897/zookeys.652.12035;10.3897/zookeys.1012.57172,AU,Tasmanian Museum & Art Gallery,
+69,ZMB,Evolutionary Systematics;ZooKeys;Zoosystematics and Evolution;Deutsche Entomologische Zeitschrift,10.3897/evolsyst.3.35737;10.3897/zookeys.881.36744;10.3897/zse.95.31488;10.3897/zse.93.11576;10.3897/zse.92.7629;10.3897/zookeys.521.5995;10.3897/zookeys.522.10294;10.3897/zookeys.870.36970;10.3897/zookeys.840.33878;10.3897/dez.63.7556;10.3897/zookeys.568.6872;10.3897/zookeys.1009.54303;10.3897/zse.97.57202;10.3897/zookeys.1017.60990;10.3897/zse.97.61351;10.3897/zookeys.771.25534;10.3897/zookeys.764.24581,DE,Museum für Naturkunde Berlin (Zoological Collections),MUSEUM
+56,ZMBN,Evolutionary Systematics;ZooKeys;Nota Lepidopterologica,10.3897/evolsyst.3.35737;10.3897/zookeys.749.24199;10.3897/zookeys.746.14885;10.3897/zookeys.710.14902;10.3897/zookeys.863.33183;10.3897/zookeys.845.32428;10.3897/zookeys.992.55977;10.3897/nl.39.9090;10.3897/zookeys.1033.60686,NO,"Museum of Zoology at the University of Bergen, Invertebrate Collection",
+59,NMW,ZooKeys,10.3897/zookeys.838.33086;10.3897/zookeys.765.24366;10.3897/zookeys.754.24276;10.3897/zookeys.723.21817;10.3897/zookeys.688.11261;10.3897/zookeys.664.11881;10.3897/zookeys.933.48771;10.3897/zookeys.621.9725;10.3897/zookeys.1003.55541;10.3897/zookeys.855.35677;10.3897/zookeys.623.10052,AT,"Naturhistorisches Museum, Wien",
+191,ZFMK,ZooKeys;Journal of Hymenoptera Research;Nota Lepidopterologica;Zoosystematics and Evolution;Evolutionary Systematics,10.3897/zookeys.837.32057;10.3897/zookeys.829.29708;10.3897/zookeys.896.36493;10.3897/jhr.63.12754;10.3897/zookeys.772.25320;10.3897/zookeys.746.14885;10.3897/zookeys.721.13918;10.3897/zookeys.525.6057;10.3897/zookeys.693.13012;10.3897/nl.40.10440;10.3897/zookeys.577.7825;10.3897/zookeys.679.12547;10.3897/zookeys.660.11780;10.3897/zookeys.635.9915;10.3897/zookeys.609.8288;10.3897/zookeys.568.6872;10.3897/zse.97.57297;10.3897/zookeys.1026.63749;10.3897/evolsyst.3.33417;10.3897/zookeys.811.29725,DE,Zoologisches Forschungsmuseum Alexander Koenig,MUSEUM
+78,NHMB,ZooKeys,10.3897/zookeys.837.32057;10.3897/zookeys.789.27022;10.3897/zookeys.753.22366;10.3897/zookeys.699.12031;10.3897/zookeys.536.5982;10.3897/zookeys.912.47719;10.3897/zookeys.615.9179;10.3897/zookeys.980.56807;10.3897/zookeys.596.8725,,Natural History Museum Bucharest,
+302,HNHM,ZooKeys;Journal of Hymenoptera Research;Subterranean Biology;Zoosystematics and Evolution;Deutsche Entomologische Zeitschrift,10.3897/zookeys.837.32057;10.3897/zookeys.825.31663;10.3897/JHR.48.7094;10.3897/zookeys.808.29433;10.3897/zookeys.796.21515;10.3897/zookeys.796.22517;10.3897/jhr.68.30131;10.3897/subtbiol.29.32779;10.3897/subtbiol.25.23463;10.3897/subtbiol.23.14930;10.3897/zookeys.523.6114;10.3897/zookeys.706.18081;10.3897/zookeys.529.6139;10.3897/zookeys.912.47719;10.3897/zookeys.565.6877;10.3897/zookeys.587.7961;10.3897/zookeys.944.49921;10.3897/zookeys.678.13059;10.3897/zookeys.632.10483;10.3897/zookeys.999.58747;10.3897/zookeys.599.8168;10.3897/zookeys.592.8118;10.3897/zse.97.59143;10.3897/dez.68.60193;10.3897/subtbiol.38.64762;10.3897/zookeys.1037.64038;10.3897/jhr.72.39339;10.3897/zookeys.769.25258,HU,Hungarian Natural History Museum (Termeszettudomanyi Muzeum),
+46,VNMN,ZooKeys;PhytoKeys,10.3897/zookeys.837.32057;10.3897/zookeys.797.29138;10.3897/zookeys.524.6158;10.3897/zookeys.551.6168;10.3897/phytokeys.146.49731;10.3897/zookeys.996.56562;10.3897/zookeys.1018.61033;10.3897/zookeys.1036.56919,VN,Vietnam National Museum of Nature,
+10,NME,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.837.32057;10.3897/zookeys.796.20736;10.3897/zookeys.772.25320;10.3897/zse.91.5411,ET,"National Museum of Ethiopia in Addis Ababa, Ethiopia",MUSEUM
+10,MZUF,ZooKeys;Subterranean Biology,10.3897/zookeys.837.32057;10.3897/subtbiol.32.37509;10.3897/zookeys.662.11908,IT,"Museo Zoologico La Specola, Universita di Firenze",
+24,ISNB,ZooKeys,10.3897/zookeys.837.32057;10.3897/zookeys.963.54714;10.3897/zookeys.848.34207,,,
+483,NHMUK,ZooKeys;Zoosystematics and Evolution;Journal of Hymenoptera Research;Subterranean Biology;Nota Lepidopterologica;Deutsche Entomologische Zeitschrift,10.3897/zookeys.837.32057;10.3897/zse.93.10995;10.3897/zookeys.896.36493;10.3897/zookeys.806.21916;10.3897/zookeys.796.23076;10.3897/jhr.68.30131;10.3897/jhr.73.33876;10.3897/jhr.73.38383;10.3897/zookeys.795.28384;10.3897/zookeys.793.25005;10.3897/zookeys.790.26130;10.3897/zookeys.782.27938;10.3897/zookeys.777.23212;10.3897/zookeys.773.24878;10.3897/subtbiol.25.23463;10.3897/zookeys.755.23939;10.3897/zookeys.718.13700;10.3897/zookeys.705.19815;10.3897/zse.95.33880;10.3897/zookeys.867.28728;10.3897/zookeys.857.34938;10.3897/zookeys.854.35133;10.3897/zookeys.842.29243;10.3897/zookeys.529.6139;10.3897/zookeys.899.47070;10.3897/zookeys.912.47719;10.3897/zookeys.911.38496;10.3897/zookeys.907.36563;10.3897/nl.43.50430;10.3897/zookeys.564.6560;10.3897/jhr.78.53064;10.3897/zookeys.684.13383;10.3897/zookeys.677.12435;10.3897/zookeys.672.10212;10.3897/zookeys.646.10897;10.3897/zookeys.611.9058;10.3897/zookeys.976.53859;10.3897/zookeys.990.55542;10.3897/zookeys.995.55981;10.3897/zookeys.1001.58447;10.3897/dez.67.51332;10.3897/zookeys.592.8118;10.3897/zookeys.589.7933;10.3897/zookeys.590.7950;10.3897/zookeys.566.6982;10.3897/zookeys.1007.55543;10.3897/zookeys.1007.60012;10.3897/zse.97.52354;10.3897/subtbiol.37.55376;10.3897/zookeys.1012.54779;10.3897/zookeys.1019.60364;10.3897/zookeys.1028.56784;10.3897/zookeys.1031.62391;10.3897/jhr.82.64657;10.3897/zookeys.1037.64038;10.3897/zookeys.520.6006;10.3897/zookeys.761.24214;10.3897/zookeys.710.13941;10.3897/nl.40.14528,GB,"Natural History Museum, London",MUSEUM
+13,QSBG,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.837.32057;10.3897/jhr.57.12892;10.3897/jhr.57.12462;10.3897/zookeys.829.28718;10.3897/jhr.54.11662;10.3897/jhr.62.20888;10.3897/jhr.70.34206;10.3897/zookeys.725.20777,,,
+1,UMIC,ZooKeys,10.3897/zookeys.837.32057,US,University of Mississippi,
+294,RMNH,ZooKeys;Journal of Hymenoptera Research;Nota Lepidopterologica,10.3897/zookeys.837.32057;10.3897/zookeys.835.33231;10.3897/JHR.46.5763;10.3897/zookeys.896.36493;10.3897/zookeys.800.26292;10.3897/jhr.52.9806;10.3897/jhr.64.25453;10.3897/jhr.66.28881;10.3897/jhr.71.35754;10.3897/jhr.72.39333;10.3897/zookeys.780.26388;10.3897/zookeys.777.23212;10.3897/zookeys.773.24878;10.3897/nl.40.12674;10.3897/zookeys.522.10294;10.3897/zookeys.723.21668;10.3897/zookeys.842.33052;10.3897/zookeys.840.33878;10.3897/zookeys.524.6158;10.3897/zookeys.531.6097;10.3897/zookeys.537.6592;10.3897/zookeys.663.11874;10.3897/zookeys.647.11247;10.3897/zookeys.623.10045;10.3897/zookeys.712.14955;10.3897/zookeys.652.11252;10.3897/zookeys.651.11235;10.3897/zookeys.646.11397;10.3897/zookeys.639.10893;10.3897/zookeys.629.10167;10.3897/zookeys.628.9805;10.3897/zookeys.619.10043;10.3897/zookeys.612.9751;10.3897/zookeys.606.9656;10.3897/zookeys.606.9310;10.3897/zookeys.604.8976;10.3897/zookeys.594.5954;10.3897/zookeys.589.8361;10.3897/zookeys.587.8188;10.3897/zookeys.588.7906;10.3897/zookeys.581.8044;10.3897/zookeys.581.7455;10.3897/zookeys.576.8177;10.3897/zookeys.567.7212;10.3897/zookeys.562.6181;10.3897/zookeys.557.6298;10.3897/zookeys.539.6529;10.3897/zookeys.1014.60426;10.3897/zookeys.1038.64978;10.3897/jhr.65.27626;10.3897/zookeys.771.24165;10.3897/zookeys.736.20739;10.3897/nl.40.14528;10.3897/nl.43.48404;10.3897/zookeys.926.47270,NL,"Naturalis Biodiversity Center, Zoology Collections",MUSEUM
+5,MSNM,ZooKeys,10.3897/zookeys.837.32057;10.3897/zookeys.999.53130,IT,Museo di Storia Naturale di Milano,HERBARIUM
+7,SMTD,ZooKeys,10.3897/zookeys.837.32057;10.3897/zookeys.679.12547,,,
+327,ZSM,ZooKeys;Zoosystematics and Evolution;Journal of Hymenoptera Research;Nota Lepidopterologica;Evolutionary Systematics,10.3897/zookeys.837.32057;10.3897/zookeys.832.30851;10.3897/zookeys.828.32200;10.3897/zse.95.32818;10.3897/zse.94.21037;10.3897/zse.92.9945;10.3897/zookeys.897.38148;10.3897/zookeys.806.30051;10.3897/zookeys.800.26292;10.3897/jhr.67.28810;10.3897/zookeys.788.26325;10.3897/nl.40.11184;10.3897/nl.41.22840;10.3897/nl.41.26835;10.3897/zookeys.717.21885;10.3897/zookeys.715.15913;10.3897/zse.93.14906;10.3897/zookeys.878.37403;10.3897/zookeys.803.28903;10.3897/zookeys.665.11609;10.3897/zookeys.912.47719;10.3897/nl.40.10440;10.3897/zookeys.554.6065;10.3897/zookeys.577.7301;10.3897/zookeys.577.7254;10.3897/zse.96.51372;10.3897/zookeys.963.53470;10.3897/zookeys.684.13383;10.3897/zookeys.626.10033;10.3897/zookeys.619.9951;10.3897/zookeys.992.53975;10.3897/nl.41.25099;10.3897/nl.39.9090;10.3897/zookeys.1002.58017;10.3897/zookeys.582.7709;10.3897/zookeys.1023.53404;10.3897/zookeys.1033.60686;10.3897/jhr.82.64657;10.3897/evolsyst.3.33417;10.3897/zookeys.537.6090,,,
+878,USNM,ZooKeys;Journal of Hymenoptera Research;Zoosystematics and Evolution;Subterranean Biology;Journal of Orthoptera Research;Deutsche Entomologische Zeitschrift,10.3897/zookeys.837.32057;10.3897/zookeys.835.32562;10.3897/zookeys.835.27528;10.3897/zookeys.818.30974;10.3897/zookeys.884.36154;10.3897/zookeys.881.34646;10.3897/JHR.47.5730;10.3897/JHR.49.7714;10.3897/zse.92.5789;10.3897/zse.91.5715;10.3897/zookeys.896.36493;10.3897/zookeys.809.29280;10.3897/zookeys.803.28124;10.3897/zookeys.796.22517;10.3897/zookeys.796.21431;10.3897/zookeys.796.21432;10.3897/zookeys.796.21429;10.3897/zookeys.796.21285;10.3897/zookeys.796.22058;10.3897/zookeys.796.21054;10.3897/jhr.51.9830;10.3897/jhr.53.10369;10.3897/jhr.53.9890;10.3897/jhr.53.9902;10.3897/jhr.53.11027;10.3897/jhr.54.10457;10.3897/jhr.54.10096;10.3897/jhr.56.10158;10.3897/jhr.61.13466;10.3897/jhr.63.12754;10.3897/jhr.72.38908;10.3897/jhr.73.38025;10.3897/zookeys.795.27070;10.3897/zookeys.794.26789;10.3897/zookeys.792.28034;10.3897/zookeys.788.26282;10.3897/zookeys.788.26885;10.3897/zookeys.787.26948;10.3897/zookeys.786.28421;10.3897/zookeys.786.27382;10.3897/zookeys.785.28006;10.3897/zookeys.778.25775;10.3897/zookeys.775.26893;10.3897/zookeys.768.24423;10.3897/zookeys.766.24523;10.3897/subtbiol.30.36273;10.3897/zookeys.755.23939;10.3897/zookeys.752.23712;10.3897/zookeys.744.22766;10.3897/zookeys.729.21779;10.3897/zookeys.727.20222;10.3897/zookeys.720.12715;10.3897/zookeys.711.17766;10.3897/zookeys.707.12649;10.3897/zse.95.33880;10.3897/zookeys.869.34166;10.3897/zookeys.867.28728;10.3897/zookeys.863.33183;10.3897/zookeys.857.34465;10.3897/zookeys.854.35133;10.3897/zookeys.842.33609;10.3897/zookeys.527.6087;10.3897/zookeys.528.6001;10.3897/zookeys.530.6155;10.3897/zookeys.532.6587;10.3897/zookeys.534.6019;10.3897/zookeys.537.6115;10.3897/zookeys.690.13751;10.3897/zookeys.679.12805;10.3897/zookeys.679.13472;10.3897/zookeys.676.12987;10.3897/zookeys.655.11339;10.3897/zookeys.646.11132;10.3897/zookeys.912.47719;10.3897/zookeys.907.36563;10.3897/jor.29.51328;10.3897/zookeys.546.6344;10.3897/zookeys.557.5939;10.3897/zookeys.565.7185;10.3897/zookeys.580.8153;10.3897/zookeys.596.8217;10.3897/zookeys.597.7520;10.3897/zookeys.825.32271;10.3897/zookeys.955.53644;10.3897/zookeys.959.53415;10.3897/zookeys.712.14955;10.3897/zookeys.677.12435;10.3897/zookeys.674.11435;10.3897/zookeys.671.12052;10.3897/zookeys.669.11773;10.3897/zookeys.668.12203;10.3897/zookeys.667.6080;10.3897/zookeys.661.11251;10.3897/zookeys.651.11235;10.3897/zookeys.648.10935;10.3897/zookeys.641.11500;10.3897/zookeys.635.10535;10.3897/zookeys.631.10718;10.3897/zookeys.630.9298;10.3897/zookeys.623.10018;10.3897/zookeys.623.10272;10.3897/zookeys.618.9692;10.3897/zookeys.617.9178;10.3897/zookeys.615.9530;10.3897/zookeys.614.10200;10.3897/zookeys.980.56807;10.3897/zookeys.982.52363;10.3897/zookeys.995.55981;10.3897/zookeys.1001.58447;10.3897/jhr.76.48004;10.3897/jhr.76.38340;10.3897/jhr.74.39299;10.3897/dez.66.47447;10.3897/zookeys.606.8590;10.3897/zookeys.605.8060;10.3897/zookeys.603.7480;10.3897/zookeys.601.9040;10.3897/zookeys.594.7750;10.3897/zookeys.592.8180;10.3897/zookeys.572.7823;10.3897/zookeys.571.7440;10.3897/zookeys.566.7344;10.3897/zookeys.566.6982;10.3897/zookeys.562.6181;10.3897/zookeys.562.7310;10.3897/zookeys.561.7263;10.3897/zookeys.552.6475;10.3897/zookeys.533.6004;10.3897/zookeys.1008.60704;10.3897/zookeys.1007.60012;10.3897/jhr.80.59466;10.3897/zookeys.970.54801;10.3897/zookeys.1019.59881;10.3897/zookeys.1028.61018;10.3897/subtbiol.38.61787;10.3897/zookeys.817.29406;10.3897/JHR.45.5442;10.3897/zookeys.782.27938;10.3897/zookeys.770.24281;10.3897/zookeys.765.24144;10.3897/zookeys.537.6090;10.3897/zookeys.670.11839;10.3897/zookeys.661.9728,US,"Smithsonian Institution, National Museum of Natural History",MUSEUM
+6,BLKU,ZooKeys,10.3897/zookeys.836.32634;10.3897/zookeys.1000.55021;10.3897/zookeys.651.10336,,,
+17,UCRC,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.836.32634;10.3897/jhr.57.12892;10.3897/zookeys.736.20883;10.3897/zookeys.544.6074;10.3897/zookeys.658.11569;10.3897/zookeys.648.10935;10.3897/jhr.76.48004,,,
+188,BPBM,ZooKeys;Zoosystematics and Evolution;Deutsche Entomologische Zeitschrift,10.3897/zookeys.835.32562;10.3897/zookeys.835.27528;10.3897/zookeys.818.32061;10.3897/zse.92.7629;10.3897/zse.92.5581;10.3897/zookeys.796.21293;10.3897/zookeys.796.21054;10.3897/zookeys.786.28421;10.3897/zookeys.786.27382;10.3897/zookeys.778.25775;10.3897/zookeys.773.21690;10.3897/zookeys.730.21846;10.3897/zookeys.547.9698;10.3897/zookeys.912.47719;10.3897/zookeys.544.6074;10.3897/zookeys.559.6134;10.3897/zookeys.641.11500;10.3897/zookeys.635.9915;10.3897/zookeys.614.10200;10.3897/zookeys.984.53587;10.3897/zookeys.605.8060;10.3897/zookeys.562.6052;10.3897/dez.68.63635;10.3897/zookeys.1037.56303,US,Bernice Pauahi Bishop Museum,MUSEUM
+438,CNC,ZooKeys;Journal of Hymenoptera Research;Deutsche Entomologische Zeitschrift,10.3897/zookeys.835.33440;10.3897/zookeys.884.36154;10.3897/zookeys.881.34646;10.3897/zookeys.896.36493;10.3897/zookeys.796.21432;10.3897/zookeys.796.21429;10.3897/zookeys.796.21285;10.3897/JHR.50.8220;10.3897/jhr.53.9902;10.3897/jhr.54.10457;10.3897/jhr.54.11662;10.3897/jhr.57.12892;10.3897/jhr.61.21015;10.3897/jhr.63.12754;10.3897/jhr.64.25453;10.3897/jhr.70.35555;10.3897/zookeys.788.26282;10.3897/zookeys.788.26068;10.3897/zookeys.788.26480;10.3897/zookeys.788.26484;10.3897/zookeys.788.26310;10.3897/zookeys.788.26048;10.3897/zookeys.788.26885;10.3897/zookeys.755.23939;10.3897/zookeys.736.20883;10.3897/zookeys.730.22869;10.3897/zookeys.724.21415;10.3897/zookeys.721.21747;10.3897/zookeys.718.21151;10.3897/zookeys.701.13261;10.3897/zookeys.584.8319;10.3897/zookeys.841.33549;10.3897/zookeys.527.6087;10.3897/zookeys.527.9771;10.3897/dez.63.8977;10.3897/zookeys.664.11881;10.3897/zookeys.646.10787;10.3897/zookeys.559.6134;10.3897/zookeys.572.6763;10.3897/zookeys.573.7878;10.3897/zookeys.621.10115;10.3897/zookeys.681.12522;10.3897/zookeys.658.11569;10.3897/zookeys.626.10033;10.3897/zookeys.618.8059;10.3897/zookeys.610.9361;10.3897/jhr.79.56162;10.3897/zookeys.990.55542;10.3897/zookeys.595.8752;10.3897/zookeys.582.7684;10.3897/zookeys.573.7830;10.3897/zookeys.573.7016;10.3897/zookeys.566.6982;10.3897/zookeys.533.6004;10.3897/zookeys.1007.60012;10.3897/dez.68.59641;10.3897/zookeys.1024.60393;10.3897/zookeys.1028.56784;10.3897/zookeys.1039.66493;10.3897/zookeys.984.53587,CA,"Canadian National Collection of Insects, Arachnids, and Nematodes",
+152,MHNG,ZooKeys;Journal of Hymenoptera Research;Deutsche Entomologische Zeitschrift,10.3897/zookeys.835.33231;10.3897/jhr.71.35754;10.3897/zookeys.777.23212;10.3897/zookeys.775.26893;10.3897/zookeys.766.24523;10.3897/zookeys.706.14807;10.3897/zookeys.842.33609;10.3897/zookeys.525.6057;10.3897/dez.63.8344;10.3897/dez.63.8386;10.3897/zookeys.664.11881;10.3897/zookeys.906.47978;10.3897/zookeys.556.7011;10.3897/zookeys.572.7177;10.3897/zookeys.949.51269;10.3897/zookeys.595.8752;10.3897/zookeys.1009.59205;10.3897/zookeys.1010.58348;10.3897/zookeys.1035.65767;10.3897/zookeys.767.21105;10.3897/zookeys.670.11839;10.3897/zookeys.680.13213,,Muséum d'histoire naturelle de la Ville de Genève,MUSEUM
+2,MSNV,ZooKeys,10.3897/zookeys.835.33166;10.3897/zookeys.736.20739,IT,Museo Civico di Storia Naturale di Venezia,
+53,PNM,ZooKeys,10.3897/zookeys.835.27528;10.3897/zookeys.675.12061;10.3897/zookeys.1002.58017;10.3897/zookeys.763.21252,PH,Philippine National Museum,
+11,CBEE,ZooKeys,10.3897/zookeys.833.32736;10.3897/zookeys.940.50764;10.3897/zookeys.879.35110;10.3897/zookeys.888.34494;10.3897/zookeys.882.38811,,,
+210,ZMUC,ZooKeys;Nota Lepidopterologica;Deutsche Entomologische Zeitschrift;Zoosystematics and Evolution,10.3897/zookeys.833.32413;10.3897/zookeys.827.32969;10.3897/zookeys.800.26292;10.3897/zookeys.786.28270;10.3897/nl.40.11184;10.3897/nl.41.23395;10.3897/zookeys.522.10294;10.3897/zookeys.752.23712;10.3897/dez.63.10799;10.3897/nl.42.33412;10.3897/zookeys.687.13844;10.3897/zookeys.664.11881;10.3897/zookeys.571.6897;10.3897/zookeys.594.8623;10.3897/zse.96.48431;10.3897/zookeys.963.54842;10.3897/zookeys.684.13383;10.3897/zookeys.681.12522;10.3897/zookeys.669.12398;10.3897/zookeys.651.11235;10.3897/zookeys.628.9805;10.3897/zookeys.619.10043;10.3897/nl.43.54916;10.3897/zookeys.587.8188;10.3897/zookeys.568.6872;10.3897/zookeys.761.24214;10.3897/zookeys.753.22366;10.3897/nl.43.48404,,,
+8,NHML,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.833.32413;10.3897/zookeys.788.26282;10.3897/dez.63.10799,LY,"Natural History Museum, Tripoli",
+156,CUMZ,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.833.32413;10.3897/zookeys.760.24837;10.3897/zookeys.725.22014;10.3897/zookeys.722.21192;10.3897/zookeys.870.36970;10.3897/zookeys.684.12558;10.3897/zookeys.672.10212;10.3897/zookeys.976.53859;10.3897/zookeys.996.57411;10.3897/zookeys.589.7933;10.3897/zookeys.590.7950;10.3897/zse.97.59143;10.3897/zookeys.761.24214;10.3897/zookeys.1040.66209,,"Carleton University, Museum of Zoology",
+5,MZUC-UCCC,ZooKeys,10.3897/zookeys.832.30851,,,
+239,CNCI,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.830.32463;10.3897/JHR.49.7714;10.3897/jhr.53.10217;10.3897/jhr.56.10158;10.3897/jhr.61.13466;10.3897/jhr.73.33876;10.3897/jhr.73.38383;10.3897/jhr.73.34262;10.3897/jhr.73.38025;10.3897/zookeys.787.26948;10.3897/zookeys.783.26872;10.3897/zookeys.778.25775;10.3897/zookeys.730.21846;10.3897/zookeys.663.11554;10.3897/zookeys.565.7185;10.3897/zookeys.648.10935,CA,Canadian National Collection Insects,
+219,OSUC,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.830.32463;10.3897/JHR.47.5730;10.3897/jhr.56.10158;10.3897/jhr.56.10388;10.3897/jhr.73.33876;10.3897/jhr.73.38383;10.3897/zookeys.778.25775;10.3897/zookeys.730.21846;10.3897/zookeys.537.6115;10.3897/zookeys.565.7185;10.3897/zookeys.648.10935;10.3897/zookeys.811.29725;10.3897/zookeys.663.11554,,,
+13,ICN,ZooKeys,10.3897/zookeys.830.31433;10.3897/zookeys.541.6297;10.3897/zookeys.665.11371;10.3897/zookeys.601.7704,CO,"Instituto de Ciencias Naturales, Museo de Historia Natural",
+1,FC-My,ZooKeys,10.3897/zookeys.830.31433,,,
+353,IZCAS,ZooKeys;Zoosystematics and Evolution;Journal of Hymenoptera Research;Deutsche Entomologische Zeitschrift,10.3897/zookeys.829.29708;10.3897/zookeys.881.34646;10.3897/zookeys.880.34712;10.3897/zse.94.26859;10.3897/jhr.65.24872;10.3897/jhr.68.30784;10.3897/zookeys.794.29156;10.3897/zookeys.784.27758;10.3897/zookeys.749.23165;10.3897/zookeys.747.21999;10.3897/zookeys.725.15059;10.3897/zookeys.722.12362;10.3897/zookeys.720.12715;10.3897/zookeys.709.14755;10.3897/zookeys.869.35546;10.3897/zookeys.862.33078;10.3897/zookeys.857.34465;10.3897/zookeys.855.34383;10.3897/zookeys.853.33311;10.3897/zookeys.615.9964;10.3897/zookeys.647.11247;10.3897/zookeys.917.48924;10.3897/zookeys.913.48650;10.3897/zookeys.911.38761;10.3897/zookeys.909.47137;10.3897/jhr.76.50794;10.3897/zookeys.549.6046;10.3897/zookeys.931.49638;10.3897/zookeys.960.54053;10.3897/zookeys.961.53058;10.3897/zookeys.968.55047;10.3897/zookeys.679.12547;10.3897/zookeys.647.11192;10.3897/zookeys.974.56059;10.3897/zookeys.635.10487;10.3897/zookeys.630.8466;10.3897/zookeys.975.53472;10.3897/zookeys.627.8629;10.3897/jhr.79.57276;10.3897/zookeys.988.56188;10.3897/zookeys.993.53805;10.3897/zookeys.993.57676;10.3897/zookeys.596.8332;10.3897/zookeys.587.7207;10.3897/zookeys.569.6921;10.3897/zookeys.1009.59693;10.3897/zookeys.1012.59854;10.3897/zookeys.1034.59413;10.3897/zookeys.1034.60411;10.3897/zookeys.1036.60319;10.3897/zookeys.1037.65481;10.3897/dez.68.66200;10.3897/zookeys.1038.55258;10.3897/zookeys.771.23158;10.3897/zookeys.519.8784;10.3897/zookeys.902.38967;10.3897/zookeys.936.48577;10.3897/zookeys.996.55002;10.3897/zookeys.553.6153,CN,"Institute of Zoology, Chinese Academy of Sciences",
+2,TFRI,ZooKeys,10.3897/zookeys.829.29708,TW,Taiwan Fisheries Research Institute,
+2,SKS,ZooKeys,10.3897/zookeys.829.28718;10.3897/zookeys.725.20777,,,
+17,INHS,ZooKeys;Subterranean Biology,10.3897/zookeys.829.28718;10.3897/subtbiol.17.7660;10.3897/zookeys.736.20883;10.3897/zookeys.725.20777;10.3897/zookeys.679.12805;10.3897/zookeys.562.7478;10.3897/zookeys.646.10912,US,Illinois Natural History Survey,OTHER_TYPE_RESEARCH_INSTITUTION_BIOREPOSITORY
+303,MZB,ZooKeys;Zoosystematics and Evolution;Journal of Hymenoptera Research,10.3897/zookeys.828.32200;10.3897/zse.94.22120;10.3897/zookeys.897.38148;10.3897/zookeys.805.24834;10.3897/jhr.70.34206;10.3897/zookeys.781.27354;10.3897/zookeys.715.15913;10.3897/zse.91.5411;10.3897/zookeys.878.37403;10.3897/zookeys.803.28903;10.3897/zookeys.665.11609;10.3897/zookeys.554.6306;10.3897/zookeys.554.6065;10.3897/zookeys.947.53906;10.3897/zookeys.960.55007;10.3897/zookeys.660.11847;10.3897/zookeys.995.55981;10.3897/zookeys.562.6052;10.3897/zookeys.1007.59351;10.3897/zookeys.1009.54303;10.3897/zookeys.1026.61554,ID,Museum Zoologicum Bogoriense,MUSEUM
+11,QVMAG,ZooKeys;Evolutionary Systematics,10.3897/zookeys.827.32969;10.3897/evolsyst.1.14847;10.3897/zookeys.846.35028,,,
+2,NMNU,ZooKeys,10.3897/zookeys.825.29029,,,
+19,ZMUT,ZooKeys,10.3897/zookeys.825.29029;10.3897/zookeys.878.37845;10.3897/zookeys.906.47978;10.3897/zookeys.935.50492;10.3897/zookeys.661.10677;10.3897/zookeys.568.6872;10.3897/zookeys.1004.58537,JP,"University of Tokyo, Department of Zoology",
+6,NHM-PSU,ZooKeys,10.3897/zookeys.824.31635;10.3897/zookeys.987.54234,,,
+1,IGA-CAS,ZooKeys,10.3897/zookeys.822.30880,,,
+1,ISEA-PAS,ZooKeys,10.3897/zookeys.822.30880,,,
+73,SCAU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.822.32341;10.3897/zookeys.793.24790;10.3897/zookeys.772.25803;10.3897/zookeys.742.23471;10.3897/zookeys.710.20025;10.3897/zookeys.706.18081;10.3897/zookeys.692.12062;10.3897/zookeys.669.12334;10.3897/jhr.74.39570;10.3897/zookeys.669.12398;10.3897/zookeys.1008.61040;10.3897/zookeys.1021.59927;10.3897/jhr.82.62148;10.3897/zookeys.1038.64978;10.3897/jhr.54.11675;10.3897/zookeys.714.20644;10.3897/zookeys.678.11862;10.3897/zookeys.644.10491;10.3897/zookeys.644.9825;10.3897/zookeys.545.6111;10.3897/zookeys.577.7825;10.3897/zookeys.594.8768;10.3897/zookeys.671.11275;10.3897/zookeys.643.11050;10.3897/zookeys.636.10706;10.3897/zookeys.625.9846;10.3897/zookeys.623.10191;10.3897/zookeys.615.9179;10.3897/zookeys.612.9781;10.3897/zookeys.609.8288;10.3897/zookeys.564.6819;10.3897/zookeys.552.6167,,,
+9,USMB,ZooKeys,10.3897/zookeys.821.29019;10.3897/zookeys.1009.59205;10.3897/zookeys.577.7301,,,
+68,NSMT,ZooKeys;Zoosystematics and Evolution;Nota Lepidopterologica;Journal of Hymenoptera Research,10.3897/zookeys.820.31527;10.3897/zse.95.39214;10.3897/zookeys.794.25243;10.3897/nl.39.9603;10.3897/zookeys.760.24778;10.3897/zookeys.738.22927;10.3897/zookeys.738.13277;10.3897/zookeys.525.5958;10.3897/zookeys.530.6063;10.3897/zookeys.637.9384;10.3897/zookeys.965.51749;10.3897/zookeys.677.11308;10.3897/zookeys.668.12181;10.3897/zookeys.616.9442;10.3897/zookeys.615.8125;10.3897/zookeys.614.8346;10.3897/zookeys.609.9327;10.3897/zookeys.990.55542;10.3897/zookeys.987.53648;10.3897/jhr.74.39299;10.3897/zookeys.607.9379;10.3897/zookeys.606.9310;10.3897/zookeys.562.6181;10.3897/zookeys.559.6751;10.3897/JHR.45.5442;10.3897/zookeys.897.37061;10.3897/zookeys.1023.60934;10.3897/zse.97.64473;10.3897/zookeys.1040.62309,JP,National Science Museum (Natural History),
+22,EUMJ,ZooKeys;Deutsche Entomologische Zeitschrift;Journal of Hymenoptera Research,10.3897/zookeys.820.31527;10.3897/zookeys.805.28757;10.3897/zookeys.855.35677;10.3897/dez.63.8386;10.3897/zookeys.553.6576;10.3897/zookeys.933.48771;10.3897/zookeys.938.51614;10.3897/zookeys.568.7125;10.3897/jhr.80.56178;10.3897/JHR.45.5301,JP,Ehime University,
+75,ZMH,ZooKeys;Zoosystematics and Evolution;Evolutionary Systematics,10.3897/zookeys.820.29363;10.3897/zse.94.22120;10.3897/zookeys.522.6056;10.3897/zookeys.731.19948;10.3897/zookeys.845.32428;10.3897/evolsyst.1.14969;10.3897/zookeys.672.10212;10.3897/zookeys.615.9530;10.3897/zookeys.1031.62391;10.3897/zse.97.64766;10.3897/evolsyst.1.14652;10.3897/evolsyst.3.34496;10.3897/zookeys.790.27193;10.3897/evolsyst.4.60525,DE,Zoologisches Museum Hamburg,MUSEUM
+355,AMNH,ZooKeys;Journal of Hymenoptera Research;Evolutionary Systematics,10.3897/zookeys.820.32167;10.3897/zookeys.893.47059;10.3897/zookeys.891.38563;10.3897/zookeys.796.21429;10.3897/zookeys.796.21285;10.3897/zookeys.796.21240;10.3897/jhr.55.12209;10.3897/jhr.71.35754;10.3897/jhr.72.37691;10.3897/zookeys.778.25775;10.3897/zookeys.755.23939;10.3897/zookeys.867.28728;10.3897/zookeys.524.6158;10.3897/zookeys.537.6115;10.3897/zookeys.541.6297;10.3897/zookeys.646.10787;10.3897/zookeys.645.11117;10.3897/evolsyst.1.14969;10.3897/zookeys.625.9891;10.3897/jhr.77.53307;10.3897/zookeys.667.11369;10.3897/zookeys.661.11251;10.3897/zookeys.973.51435;10.3897/zookeys.626.10033;10.3897/zookeys.611.9058;10.3897/zookeys.996.56562;10.3897/zookeys.591.7731;10.3897/zookeys.584.6026;10.3897/zookeys.568.6872;10.3897/zookeys.566.6982;10.3897/zookeys.562.6124;10.3897/zookeys.562.6052;10.3897/zookeys.560.6264;10.3897/zookeys.1015.59683;10.3897/zookeys.1012.57172;10.3897/zookeys.1027.54888;10.3897/zookeys.1031.59102;10.3897/zookeys.766.24523,US,American Museum of Natural History,
+3,DEI,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.820.32167;10.3897/dez.67.54002,,,
+7,NHMD,ZooKeys;Journal of Hymenoptera Research;MycoKeys,10.3897/zookeys.820.30139;10.3897/zookeys.904.48592;10.3897/jhr.51.9075;10.3897/zookeys.771.25534;10.3897/zookeys.899.38892;10.3897/mycokeys.67.51811,DK,Natural History Museum of Denmark,MUSEUM
+8,ASCU,ZooKeys,10.3897/zookeys.818.32061,AU,Agricultural Scientific Collections Unit,MUSEUM
+10,QDPC,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.818.32061;10.3897/jhr.57.12892,AU,Queensland Primary Industries Insect Collection,OTHER_TYPE_RESEARCH_INSTITUTION_BIOREPOSITORY
+234,SMF,ZooKeys;Subterranean Biology;Zoosystematics and Evolution,10.3897/zookeys.818.30587;10.3897/zookeys.811.29187;10.3897/zookeys.795.29339;10.3897/zookeys.784.26521;10.3897/zookeys.777.24917;10.3897/subtbiol.24.20985;10.3897/zookeys.523.6114;10.3897/zookeys.747.23468;10.3897/zse.94.21754;10.3897/zookeys.869.35546;10.3897/zookeys.845.32428;10.3897/zookeys.842.33052;10.3897/zookeys.577.7848;10.3897/zookeys.944.49921;10.3897/zookeys.675.12453;10.3897/zookeys.660.11780;10.3897/zookeys.976.53859;10.3897/zookeys.605.8060;10.3897/zookeys.599.8168;10.3897/zookeys.592.8118;10.3897/zookeys.589.7933;10.3897/zookeys.1006.59732;10.3897/zse.97.59143;10.3897/zookeys.1010.58759;10.3897/zookeys.1027.54888;10.3897/zookeys.769.25258;10.3897/zookeys.519.8784,DE,Forschungsinstitut und Natur-Museum Senckenberg,
+40,NCHU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.816.29738;10.3897/jhr.53.9890;10.3897/zookeys.584.6320,TW,National Chung Hsing University,
+69,NMNS,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.816.29738;10.3897/jhr.53.9890;10.3897/zookeys.795.28958;10.3897/zookeys.705.10296;10.3897/zookeys.912.47719;10.3897/zookeys.987.53648;10.3897/zookeys.1028.61018;10.3897/zookeys.744.23318;10.3897/zookeys.944.53099;10.3897/zookeys.995.55981,TW,National Museum of Natural Science,
+4,LEM,ZooKeys,10.3897/zookeys.884.36154,,,
+26,INBio,ZooKeys;Journal of Hymenoptera Research;PhytoKeys,10.3897/zookeys.884.36154;10.3897/JHR.50.8220;10.3897/phytokeys.76.10298;10.3897/zookeys.667.6080;10.3897/zookeys.750.23536,CR,"National Biodiversity Institute, Costa Rica",
+19,DEBU,ZooKeys,10.3897/zookeys.884.36154;10.3897/zookeys.896.36493;10.3897/zookeys.755.23939,CA,"Ontario Insect Collection, University of Guelph",
+132,CMNC,ZooKeys,10.3897/zookeys.884.39322;10.3897/zookeys.787.26948;10.3897/zookeys.785.26674;10.3897/zookeys.744.22766;10.3897/zookeys.699.12031;10.3897/zookeys.863.33183;10.3897/zookeys.690.13751;10.3897/zookeys.679.12805;10.3897/zookeys.1001.58447;10.3897/zookeys.747.22731;10.3897/zookeys.528.6001;10.3897/zookeys.617.9178,,,
+1,MZUFPA,ZooKeys,10.3897/zookeys.884.39322,,,
+2,PIN,ZooKeys,10.3897/zookeys.886.38828;10.3897/zookeys.973.53940,RU,"Paleontological Institute, Russian Academy of Sciences",
+3,TCWC,ZooKeys,10.3897/zookeys.883.37586;10.3897/zookeys.740.22712,US,Texas Cooperative Wildlife Collection,UNIVERSITY_COLLEGE
+21,UMMZ,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.883.37586;10.3897/zse.95.32818;10.3897/zookeys.660.11394;10.3897/zookeys.615.8125;10.3897/zookeys.546.6533;10.3897/zse.97.59143,US,University of Michigan Museum of Zoology,UNIVERSITY_COLLEGE
+2,CNP-IBUNAM,ZooKeys,10.3897/zookeys.883.37586,,,
+2,CEBUMAG-ENT,ZooKeys,10.3897/zookeys.882.35532,,,
+90,MZSP,ZooKeys;Zoosystematics and Evolution;Deutsche Entomologische Zeitschrift;Journal of Hymenoptera Research,10.3897/zookeys.880.35482;10.3897/zse.93.10995;10.3897/zookeys.753.20805;10.3897/zookeys.726.19778;10.3897/zookeys.699.12031;10.3897/zookeys.530.6155;10.3897/zookeys.537.6073;10.3897/dez.63.6615;10.3897/zookeys.589.7951;10.3897/zookeys.648.10935;10.3897/zookeys.603.7335;10.3897/zookeys.566.7344;10.3897/jhr.81.60048;10.3897/zookeys.1033.60686;10.3897/zookeys.771.24921;10.3897/zookeys.670.11839,BR,"Sao Paulo, Museu de Zoologia da Universidade de Sao Paulo",MUSEUM
+46,MNRJ,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.880.35482;10.3897/zookeys.794.26789;10.3897/zookeys.724.20680;10.3897/zookeys.714.11503;10.3897/zookeys.702.13981;10.3897/zookeys.699.12031;10.3897/zookeys.867.34034;10.3897/zookeys.848.32263;10.3897/zookeys.526.6077;10.3897/zookeys.526.6154;10.3897/zookeys.541.6022;10.3897/zookeys.600.8580;10.3897/zookeys.667.11369;10.3897/zookeys.632.9337;10.3897/zookeys.621.9980;10.3897/zse.96.56097;10.3897/zse.94.22685;10.3897/zookeys.771.24921,BR,Museu Nacional/Universidade Federal do Rio de Janeiro,MUSEUM
+21,DCBU,Journal of Hymenoptera Research;ZooKeys,10.3897/JHR.46.6661;10.3897/JHR.49.7862;10.3897/jhr.68.30131;10.3897/zookeys.976.56751;10.3897/jhr.82.62345,BR,Universidade Federal de Sao Carlos,
+15,NMKE,Journal of Hymenoptera Research;ZooKeys,10.3897/JHR.49.7714;10.3897/zookeys.693.13012;10.3897/zookeys.565.7185;10.3897/zookeys.585.7503,KE,National Museum of Kenya,
+5,IITA,Journal of Hymenoptera Research;ZooKeys,10.3897/JHR.49.7714;10.3897/zookeys.565.7185,NG,International Institute of Tropical Agriculture,
+81,MZUSP,Journal of Hymenoptera Research;Zoosystematics and Evolution;ZooKeys;Subterranean Biology,10.3897/JHR.49.7862;10.3897/zse.92.10049;10.3897/zookeys.806.27404;10.3897/zookeys.794.26789;10.3897/zookeys.786.27382;10.3897/zookeys.776.26308;10.3897/subtbiol.23.20963;10.3897/zookeys.724.20680;10.3897/zookeys.714.11503;10.3897/zookeys.867.34034;10.3897/zookeys.534.6169;10.3897/zookeys.537.6073;10.3897/zookeys.541.6022;10.3897/zookeys.668.11350;10.3897/zookeys.643.11093;10.3897/zookeys.552.5956;10.3897/zookeys.825.32271;10.3897/zookeys.634.9917;10.3897/zookeys.631.10718;10.3897/zookeys.626.10033;10.3897/zookeys.595.8626;10.3897/zookeys.546.6175;10.3897/zookeys.1016.59617,BR,Museu de Zoologia da Universidade de Sao Paulo,
+80,ZRC,Zoosystematics and Evolution;ZooKeys,10.3897/zse.95.39214;10.3897/zookeys.811.29187;10.3897/zookeys.747.23468;10.3897/zookeys.738.23708;10.3897/zookeys.716.21349;10.3897/zookeys.858.35198;10.3897/zookeys.694.14871;10.3897/zookeys.662.11908;10.3897/zookeys.647.11455;10.3897/zookeys.672.10212;10.3897/zookeys.976.53859;10.3897/zookeys.994.56810;10.3897/zookeys.1031.63134;10.3897/zookeys.817.29332;10.3897/zookeys.769.26152;10.3897/zookeys.760.24787,,,
+9,PSUZC,Zoosystematics and Evolution;ZooKeys,10.3897/zse.95.39214;10.3897/zookeys.795.28384;10.3897/zookeys.695.13771;10.3897/zookeys.635.10454,TH,"Princess Maha Chakri Sirindhorn Natural History Museum (PSU Museum, Prince of Songkla University, Thailand)",MUSEUM
+3,PMBC,Zoosystematics and Evolution,10.3897/zse.95.39214,TH,Phuket Marine Biological Centre,
+13,MACN,Zoosystematics and Evolution;Journal of Hymenoptera Research;ZooKeys,10.3897/zse.95.34958;10.3897/jhr.61.20742;10.3897/zookeys.532.6078;10.3897/zookeys.628.9805;10.3897/zookeys.589.8291;10.3897/zookeys.546.6175,AR,Museo Argentino de Ciencias Naturales Bernardino Rivadavia,MUSEUM
+5,MCTP,Zoosystematics and Evolution;ZooKeys,10.3897/zse.95.34958;10.3897/zookeys.915.47563;10.3897/zookeys.771.24921,BR,Museu de Ciencias,
+18,IRSNB,Zoosystematics and Evolution;ZooKeys,10.3897/zse.95.31488;10.3897/zookeys.664.11881;10.3897/zookeys.656.8914;10.3897/zookeys.615.9179,,,
+1,MSNS,Zoosystematics and Evolution,10.3897/zse.95.31488,,,
+23,UFRJ,Zoosystematics and Evolution;ZooKeys,10.3897/zse.94.29872;10.3897/zse.94.28085;10.3897/zse.94.21321;10.3897/zse.93.20906;10.3897/zse.94.22106;10.3897/zookeys.645.10920;10.3897/zookeys.640.9690;10.3897/zse.96.46509;10.3897/zse.96.48952;10.3897/zse.94.22685;10.3897/zookeys.771.24921;10.3897/zse.97.61006,BR,Universidade Federal Rural do Rio de Janeiro,HERBARIUM
+1,UFRGS,Zoosystematics and Evolution,10.3897/zse.94.29115,BR,Universidade Federale do Rio Grande do Sul,
+1,ZVC-P,Zoosystematics and Evolution,10.3897/zse.94.29115,,,
+1,UDCC,Zoosystematics and Evolution,10.3897/zse.94.26859,US,University of Delaware,UNIVERSITY_COLLEGE
+15,NKU,Zoosystematics and Evolution;ZooKeys,10.3897/zse.94.25460;10.3897/zookeys.840.30434;10.3897/zookeys.686.13680;10.3897/zookeys.1036.63814;10.3897/zookeys.1040.66527,CN,Nankai University,HERBARIUM
+5,SDNU,Zoosystematics and Evolution;ZooKeys,10.3897/zse.94.25460;10.3897/zookeys.744.22421;10.3897/zookeys.686.13680,CN,Shandong Normal University,HERBARIUM
+13,UADBA,Zoosystematics and Evolution,10.3897/zse.94.21037;10.3897/zse.92.9945;10.3897/zse.93.10188,MG,"University dAntananarivo, Department de Biologie Animale",
+4,UTA,Zoosystematics and Evolution,10.3897/zse.94.22120,US,University of Texas at Arlington,
+39,CAU,Zoosystematics and Evolution;ZooKeys,10.3897/zse.94.21651;10.3897/zookeys.789.26165;10.3897/zookeys.760.22595;10.3897/zookeys.750.23382;10.3897/zookeys.724.21057;10.3897/zookeys.716.13916;10.3897/zookeys.867.36247;10.3897/zookeys.843.31885;10.3897/zookeys.931.49671;10.3897/zookeys.971.35875;10.3897/zookeys.973.46384;10.3897/zookeys.637.10310;10.3897/zookeys.982.49781;10.3897/zookeys.604.8377;10.3897/zookeys.589.7320;10.3897/zookeys.1015.57451;10.3897/zookeys.917.46887,CN,China Agricultural University,
+56,SAMA,Zoosystematics and Evolution;ZooKeys,10.3897/zse.93.11576;10.3897/zse.92.7629;10.3897/zookeys.846.33200;10.3897/zookeys.700.11784;10.3897/zookeys.598.9229;10.3897/zookeys.653.11177;10.3897/zookeys.562.6052;10.3897/zookeys.1012.57172;10.3897/zookeys.658.11227;10.3897/zookeys.520.6185,US,"DOI/NPS, Salem Maritime National Historic Site",
+16,PNGNM,Zoosystematics and Evolution,10.3897/zse.93.11576;10.3897/zse.92.7629,,,
+23,SMNH,Zoosystematics and Evolution;ZooKeys,10.3897/zse.93.11314;10.3897/zookeys.724.21415;10.3897/zookeys.840.33878;10.3897/zookeys.915.47563;10.3897/zookeys.876.36743;10.3897/zookeys.1010.58759,JP,Saitama Museum of Natural History,
+37,MRAC,Zoosystematics and Evolution;ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zse.93.11041;10.3897/zookeys.944.49921;10.3897/zookeys.963.54714;10.3897/dez.68.60193;10.3897/zookeys.785.27422;10.3897/zookeys.708.14072;10.3897/zookeys.657.11076,,,
+114,INPA,Zoosystematics and Evolution;ZooKeys;Journal of Hymenoptera Research;PhytoKeys,10.3897/zse.92.10049;10.3897/zookeys.896.36493;10.3897/jhr.51.9634;10.3897/jhr.71.35754;10.3897/zookeys.768.24423;10.3897/zookeys.714.11503;10.3897/zookeys.699.12031;10.3897/phytokeys.63.7368;10.3897/phytokeys.134.37979;10.3897/zookeys.526.6128;10.3897/zookeys.678.5978;10.3897/zookeys.553.5988;10.3897/zookeys.558.6671;10.3897/zookeys.631.10718;10.3897/zookeys.612.7851;10.3897/zookeys.603.7335;10.3897/zookeys.571.5983;10.3897/zookeys.1019.59881;10.3897/jhr.81.60048;10.3897/zookeys.1025.60442;10.3897/zookeys.1033.60686;10.3897/phytokeys.169.57996,BR,Instituto Nacional de Pesquisas da Amazonia,
+17,KUZ,Zoosystematics and Evolution;ZooKeys,10.3897/zse.91.7616;10.3897/zookeys.668.12181;10.3897/zookeys.553.6723;10.3897/zse.97.64473,JP,Zoological Collection of the Kyoto University,
+3,NOAA,Zoosystematics and Evolution;ZooKeys,10.3897/zse.92.5789;10.3897/zookeys.641.11500,US,National Oceanic and Atmospheric Administration,OTHER_INSTITUTIONAL_TYPE
+6,GCRL,Zoosystematics and Evolution;ZooKeys,10.3897/zse.92.5789;10.3897/zse.92.5581;10.3897/zookeys.571.7440,US,Gulf Coast Research Laboratory,
+22,KSMA,ZooKeys;Journal of Hymenoptera Research;Deutsche Entomologische Zeitschrift,10.3897/zookeys.898.37531;10.3897/jhr.69.32561;10.3897/zookeys.742.22854;10.3897/zookeys.716.21150;10.3897/zookeys.979.52059;10.3897/zookeys.977.56314;10.3897/jhr.76.38340;10.3897/dez.67.46662;10.3897/zookeys.1029.63940;10.3897/jhr.82.65252;10.3897/zookeys.771.24165;10.3897/zookeys.545.6308;10.3897/jhr.76.50193,,,
+3,WMLC,ZooKeys,10.3897/zookeys.898.37531;10.3897/zookeys.545.6308,,,
+194,CASC,ZooKeys,10.3897/zookeys.898.37531;10.3897/zookeys.798.28606;10.3897/zookeys.724.21057;10.3897/zookeys.863.33183;10.3897/zookeys.690.13751;10.3897/zookeys.905.39592;10.3897/zookeys.949.51269;10.3897/zookeys.681.13187;10.3897/zookeys.1001.58447;10.3897/zookeys.770.24908;10.3897/zookeys.767.21105;10.3897/zookeys.670.11839;10.3897/zookeys.572.7177;10.3897/zookeys.627.8629;10.3897/zookeys.616.9532,,,
+27,SMNS,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.898.47118;10.3897/zookeys.853.33311;10.3897/zookeys.901.39432;10.3897/jhr.79.55899;10.3897/zookeys.562.6124;10.3897/zookeys.1036.66435,DE,Staatliches Museum fuer Naturkund Stuttgart,
+1,MNHK,ZooKeys,10.3897/zookeys.898.47118,,,
+16,ELKU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.897.38529;10.3897/jhr.63.23671;10.3897/zookeys.668.11896;10.3897/jhr.80.56178;10.3897/zookeys.775.24945;10.3897/zookeys.736.20739;10.3897/zookeys.651.10336;10.3897/zookeys.958.54300;10.3897/zookeys.656.8914;10.3897/zookeys.571.7780,,,
+2,KGU,ZooKeys,10.3897/zookeys.897.38529,RU,Geology and Mineralogy Museum,
+4,OPU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.897.38529;10.3897/jhr.79.56162;10.3897/zookeys.736.20739;10.3897/zookeys.601.7782,,,
+60,CSCA,ZooKeys,10.3897/zookeys.896.36493;10.3897/zookeys.778.25775;10.3897/zookeys.528.6001;10.3897/zookeys.541.6643;10.3897/zookeys.618.8059;10.3897/zookeys.1001.58447;10.3897/zookeys.594.7750;10.3897/zookeys.1007.60012;10.3897/zookeys.984.53587,US,California State Collection of Arthropods,MUSEUM
+63,LACM,ZooKeys;Journal of Orthoptera Research,10.3897/zookeys.896.36493;10.3897/zookeys.755.23939;10.3897/zookeys.667.6080;10.3897/zookeys.622.9411;10.3897/zookeys.614.8843;10.3897/zookeys.562.6124;10.3897/zookeys.546.6175;10.3897/jor.28.30143,US,Natural History Museum of Los Angeles County,MUSEUM
+4,UFPR,ZooKeys,10.3897/zookeys.896.36493;10.3897/zookeys.980.56807,,,
+23,NHMSU,ZooKeys,10.3897/zookeys.894.38327;10.3897/zookeys.790.25793;10.3897/zookeys.777.24917;10.3897/zookeys.661.10677;10.3897/zookeys.988.56188,,,
+6,TAMUIC,ZooKeys,10.3897/zookeys.893.47059;10.3897/zookeys.711.17766,US,Texas A&M University Insect Collection,UNIVERSITY_COLLEGE
+20,ECOSUR,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.893.39594;10.3897/jhr.55.12209;10.3897/zookeys.671.12052;10.3897/zookeys.546.6175;10.3897/zookeys.1016.55071,MX,El Colegio de la Frontera Sur (Mexico),MUSEUM
+5,UANL,ZooKeys,10.3897/zookeys.893.39594;10.3897/zookeys.530.6064;10.3897/zookeys.614.8843,MX,Universidad Autonoma de Nuevo Leon,
+1,UNM,ZooKeys,10.3897/zookeys.892.38868,US,University of New Mexico,HERBARIUM
+8,BNHS,ZooKeys;Zoosystematics and Evolution;Evolutionary Systematics,10.3897/zookeys.892.39524;10.3897/zookeys.577.7848;10.3897/zse.96.48431;10.3897/evolsyst.5.61667;10.3897/evolsyst.5.62929,IO,Bombay Natural History Society,
+1,USMMC,ZooKeys,10.3897/zookeys.892.39524,,,
+13,SYSU,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.889.34690;10.3897/zookeys.738.21711;10.3897/dez.67.50078;10.3897/dez.68.66200,TW,National Sun Yat-Sen University,HERBARIUM
+4,GZNULS,ZooKeys,10.3897/zookeys.889.38909;10.3897/zookeys.889.38296;10.3897/zookeys.809.31162;10.3897/zookeys.722.13265,,,
+5,ZDAMU,ZooKeys,10.3897/zookeys.889.34942;10.3897/zookeys.889.36436,,,
+74,SAMC,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.889.38638;10.3897/zookeys.798.28606;10.3897/zookeys.796.21429;10.3897/jhr.63.12754;10.3897/jhr.73.33876;10.3897/zookeys.783.26872;10.3897/zookeys.746.14885;10.3897/zookeys.841.32364;10.3897/zookeys.676.12987;10.3897/zookeys.565.7185;10.3897/zookeys.667.11414;10.3897/zookeys.657.11623;10.3897/zookeys.640.10334;10.3897/zookeys.636.10216;10.3897/jhr.79.56042;10.3897/zookeys.539.6529;10.3897/zookeys.1007.55543;10.3897/zookeys.585.7503,ZA,Iziko Museums of Cape Town,MUSEUM
+35,MNCN,ZooKeys;Journal of Hymenoptera Research;Subterranean Biology;Nota Lepidopterologica,10.3897/zookeys.888.37816;10.3897/zookeys.800.26292;10.3897/jhr.52.10067;10.3897/zookeys.782.26797;10.3897/zookeys.779.26944;10.3897/subtbiol.25.23364;10.3897/zookeys.759.22981;10.3897/zookeys.740.14640;10.3897/zookeys.709.14877;10.3897/zookeys.688.11261;10.3897/zookeys.539.6157;10.3897/zookeys.987.51366;10.3897/zookeys.601.8241;10.3897/jhr.82.64657;10.3897/nl.40.14528;10.3897/zookeys.957.52565;10.3897/subtbiol.38.66254,ES,Museo Nacional de Ciencias Naturales,MUSEUM
+15,UFMG,ZooKeys;Subterranean Biology;Journal of Hymenoptera Research,10.3897/zookeys.814.29906;10.3897/zookeys.724.20680;10.3897/zookeys.589.7951;10.3897/zookeys.622.8682;10.3897/subtbiol.36.54034;10.3897/jhr.81.60048,,,
+11,ZSI,ZooKeys,10.3897/zookeys.811.29187;10.3897/zookeys.1040.64280;10.3897/zookeys.783.25225;10.3897/zookeys.864.33678;10.3897/zookeys.604.8203,,,
+5,MGE,ZooKeys,10.3897/zookeys.811.29187,,,
+2,MNCNM,ZooKeys,10.3897/zookeys.810.26910,,,
+2,UW,ZooKeys,10.3897/zookeys.809.29280,US,University of Washington Fish Collection,MUSEUM
+138,TAMU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.809.30647;10.3897/zookeys.796.21285;10.3897/jhr.54.10457;10.3897/zookeys.787.26948;10.3897/zookeys.778.25775;10.3897/zookeys.747.22731;10.3897/zookeys.702.14728;10.3897/zookeys.528.6001;10.3897/zookeys.1001.58447;10.3897/zookeys.1027.54888,,Texas A&M University,HERBARIUM
+6,HIST,ZooKeys,10.3897/zookeys.808.29433;10.3897/zookeys.825.31663,,,
+8,CAUC,ZooKeys,10.3897/zookeys.808.29433;10.3897/zookeys.725.21267;10.3897/zookeys.520.9558,,,
+72,IZAS,ZooKeys,10.3897/zookeys.806.30051;10.3897/zookeys.738.19884;10.3897/zookeys.721.13918;10.3897/zookeys.647.11247;10.3897/zookeys.953.52282;10.3897/zookeys.997.58125;10.3897/zookeys.604.9049;10.3897/zookeys.1017.61383;10.3897/zookeys.881.34821;10.3897/zookeys.799.28834;10.3897/zookeys.758.24169;10.3897/zookeys.536.5982;10.3897/zookeys.552.6096;10.3897/zookeys.635.9915;10.3897/zookeys.614.6156;10.3897/zookeys.1009.61515,,Institut Zoologii Akademii Nauk Ukraini - Institute of Zoology of the Academy of Sciences of Ukraine,
+3,UNTAD,ZooKeys,10.3897/zookeys.805.24834,,,
+53,MUSM,ZooKeys,10.3897/zookeys.803.28124;10.3897/zookeys.788.26325;10.3897/zookeys.707.20759;10.3897/zookeys.673.13050;10.3897/zookeys.660.11394;10.3897/zookeys.994.56277;10.3897/zookeys.1001.58447;10.3897/zookeys.774.25332;10.3897/zookeys.766.24523;10.3897/zookeys.541.6297;10.3897/zookeys.935.50492;10.3897/zookeys.645.11221;10.3897/zookeys.996.53958,,,
+20,MALUZ,ZooKeys,10.3897/zookeys.803.28124;10.3897/zookeys.768.24423;10.3897/zookeys.669.11773;10.3897/zookeys.1019.59881,,,
+57,ZMMU,ZooKeys,10.3897/zookeys.802.30236;10.3897/zookeys.791.28775;10.3897/zookeys.717.21885;10.3897/zookeys.906.47978;10.3897/zookeys.675.13252;10.3897/zookeys.672.10624;10.3897/zookeys.635.10487;10.3897/zookeys.632.10130;10.3897/zookeys.630.10397;10.3897/zookeys.993.59932;10.3897/zookeys.558.6521;10.3897/zookeys.1019.61496;10.3897/zookeys.1035.65767,RU,"Zoological Museum, Moscow Lomonosov State University",MUSEUM
+5,ZMUI,ZooKeys;Subterranean Biology,10.3897/zookeys.802.30236;10.3897/subtbiol.24.20985,TR,"Zoological Museum, University of Istanbul",
+4,ZUTC,ZooKeys,10.3897/zookeys.801.23340;10.3897/zookeys.522.6056;10.3897/zookeys.582.7199,,,
+2,IRIPP,ZooKeys,10.3897/zookeys.801.23340;10.3897/zookeys.582.7199,IR,Iranian Research Institute of Plant Protection; Agricultural Zoology Museum of Iran,MUSEUM
+136,TLMF,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.800.26292;10.3897/nl.40.11184;10.3897/nl.42.33412;10.3897/nl.38.5058;10.3897/nl.43.50430;10.3897/zookeys.963.54842;10.3897/zookeys.684.13383;10.3897/nl.43.54916;10.3897/zookeys.992.53975;10.3897/nl.39.9090;10.3897/zookeys.596.8725;10.3897/zookeys.586.8375;10.3897/nl.43.38538,AT,Tiroler Landesmuseum Ferdinandeum,
+9,ZMHU,ZooKeys,10.3897/zookeys.800.26292,DE,Zoologisches Museum der Humboldt Universitaet,
+3,BFUS,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.800.26292;10.3897/nl.39.6760,BG,"University of Sofia, Biology Faculty",UNIVERSITY_COLLEGE
+19,MZH,ZooKeys;Journal of Hymenoptera Research;Nota Lepidopterologica,10.3897/zookeys.800.26292;10.3897/jhr.67.28810;10.3897/nl.41.23395;10.3897/zookeys.584.8171;10.3897/nl.43.54916;10.3897/zookeys.992.53975,FI,Finnish Museum of Natural History,MUSEUM
+8,LMK,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.800.26292;10.3897/dez.63.7556;10.3897/zookeys.963.54842,,,
+3,MHNT,ZooKeys,10.3897/zookeys.800.26292,FR,Museum d'Histoire Naturelle Toulouse,
+21,USDA,ZooKeys;PhytoKeys,10.3897/zookeys.797.29138;10.3897/phytokeys.115.31704;10.3897/zookeys.527.6087;10.3897/zookeys.532.6587;10.3897/zookeys.591.7731;10.3897/zookeys.546.6443,US,United States Department of Agriculture,
+15,UHIM,ZooKeys,10.3897/zookeys.797.29138;10.3897/zookeys.876.38096;10.3897/zookeys.973.55327,US,The University of Hawaii Insect Museum,MUSEUM
+4,CTAHR,ZooKeys,10.3897/zookeys.797.29138,,,
+14,WFBM,ZooKeys,10.3897/zookeys.797.29138;10.3897/zookeys.876.38096,US,W.F. Barr Entomological Collection,
+33,INBIO,ZooKeys;Journal of Orthoptera Research,10.3897/zookeys.796.22517;10.3897/zookeys.853.30317;10.3897/jor.29.51328;10.3897/zookeys.1001.58447;10.3897/zookeys.557.7087,CR,"National Biodiversity Institute, Costa Rica",
+8,MMBC,ZooKeys,10.3897/zookeys.796.22517;10.3897/zookeys.796.24540,CZ,Moravske Muzeum [Moravian Museum],
+42,UNAM,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.796.20702;10.3897/jhr.55.12209;10.3897/jhr.58.12919;10.3897/zookeys.788.26885;10.3897/zookeys.747.24351;10.3897/zookeys.569.5984;10.3897/zookeys.671.12052;10.3897/zookeys.974.54536;10.3897/zookeys.987.51366;10.3897/jhr.63.24491,MX,Universidad Nacional Autonoma de Mexico,
+27,UCR,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.796.20702;10.3897/zookeys.796.21432;10.3897/zookeys.755.23939;10.3897/zookeys.646.11411;10.3897/zookeys.974.54536;10.3897/zookeys.629.10828;10.3897/jhr.76.48004,CR,"Universidad de Costa Rica, Museo de Zoologia",
+81,ZISP,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.796.21432;10.3897/zookeys.796.21429;10.3897/zookeys.796.21877;10.3897/jhr.52.10067;10.3897/jhr.58.12919;10.3897/jhr.62.21858;10.3897/zookeys.747.24351;10.3897/zookeys.723.21668;10.3897/zookeys.946.51780;10.3897/zookeys.672.10624;10.3897/zookeys.651.11235;10.3897/zookeys.974.54536;10.3897/zookeys.615.9311;10.3897/jhr.79.56481;10.3897/jhr.79.56839;10.3897/jhr.79.57887;10.3897/zookeys.999.58747;10.3897/zookeys.582.7426;10.3897/jhr.80.58737;10.3897/zookeys.1036.56919;10.3897/JHR.45.5313,RU,"Zoological Institute, Russian Academy of Sciences",
+23,KU,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.796.21432;10.3897/zookeys.766.24523;10.3897/zse.93.10188,CN,Kwangsi University,HERBARIUM
+6,UCB,ZooKeys,10.3897/zookeys.796.21432,US,University of California at Berkeley,
+6,UCD,ZooKeys,10.3897/zookeys.796.21432,US,"University of California, Davis",
+8,PPRI,ZooKeys,10.3897/zookeys.796.21429,ZA,"ARC-Plant Protection Research Institute, National Collection of Fungi: Culture Collection",
+8,UNSW,ZooKeys,10.3897/zookeys.796.21429,AU,John T. Waterhouse Herbarium,
+26,IBUNAM,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.796.21285;10.3897/zookeys.646.10787;10.3897/jhr.82.62345,MX,"Instituto de BiIología, Universidad Nacional Autónoma de México",UNIVERSITY_COLLEGE
+1,MPUJ_ENT,ZooKeys,10.3897/zookeys.796.22058,,,
+1,UFVB,ZooKeys,10.3897/zookeys.796.20801,BR,"Vicosa, Universidade Federal de Vicosa, Museum of Entomology",
+50,US,ZooKeys;PhytoKeys,10.3897/zookeys.796.21293;10.3897/phytokeys.77.11190;10.3897/phytokeys.76.11637;10.3897/phytokeys.76.10808;10.3897/phytokeys.75.10015;10.3897/phytokeys.74.10380;10.3897/phytokeys.74.9835;10.3897/phytokeys.74.10159;10.3897/phytokeys.69.9292;10.3897/phytokeys.69.8844;10.3897/phytokeys.65.7024;10.3897/phytokeys.63.8198;10.3897/phytokeys.58.5292;10.3897/phytokeys.57.6489;10.3897/phytokeys.57.5784;10.3897/phytokeys.75.10328;10.3897/zookeys.647.10960;10.3897/phytokeys.169.58107,ZA,University of Stellenbosch,
+31,OMNH,ZooKeys;Journal of Hymenoptera Research;Deutsche Entomologische Zeitschrift,10.3897/zookeys.796.21353;10.3897/jhr.62.23559;10.3897/zookeys.636.10592;10.3897/zookeys.990.55542;10.3897/zookeys.1006.58874;10.3897/dez.68.59641,US,Sam Noble Oklahoma Museum of Natural History,MUSEUM
+134,NMNH,Journal of Hymenoptera Research;ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/JHR.50.8220;10.3897/jhr.53.10369;10.3897/zookeys.793.26712;10.3897/zookeys.780.26977;10.3897/zookeys.742.22900;10.3897/zookeys.742.21819;10.3897/zookeys.714.15113;10.3897/zookeys.841.29570;10.3897/dez.63.8977;10.3897/zookeys.544.6074;10.3897/zookeys.927.49584;10.3897/zookeys.635.10535;10.3897/zookeys.626.10033;10.3897/zookeys.625.8729;10.3897/zookeys.615.9530;10.3897/zookeys.604.9049;10.3897/zookeys.533.6004;10.3897/zookeys.1017.50619;10.3897/zookeys.1016.61397;10.3897/zookeys.1040.64280,,,
+37,CNIN,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.51.9634;10.3897/zookeys.747.22731;10.3897/zookeys.736.21628;10.3897/zookeys.702.14728;10.3897/zookeys.681.12522;10.3897/zookeys.993.49434;10.3897/zookeys.589.8291,MX,"Coleccion Nacional de Insectos, Universidad Nacional Autonoma de Mexico",
+8,TAMU-ENTO,Journal of Hymenoptera Research,10.3897/jhr.54.10457,,,
+4,CNC HYMEN,Journal of Hymenoptera Research,10.3897/jhr.54.10457,,,
+6,MLP,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.54.10096;10.3897/zookeys.610.9465;10.3897/zookeys.796.21431,AR,Museo de La Plata,
+48,BBSL,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.55.12209;10.3897/zookeys.755.23939;10.3897/zookeys.591.7731,US,"USDA/ARS, Pollinating Insects, Biology, Management and Systematics Research",MUSEUM
+205,SEMC,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.55.12209;10.3897/jhr.61.20345;10.3897/jhr.69.32561;10.3897/zookeys.768.24423;10.3897/zookeys.716.21150;10.3897/zookeys.705.19815;10.3897/zookeys.537.6115;10.3897/zookeys.601.9499;10.3897/zookeys.664.11881;10.3897/zookeys.904.48592;10.3897/zookeys.622.9155;10.3897/zookeys.669.11773;10.3897/zookeys.973.54026;10.3897/zookeys.617.9178;10.3897/zookeys.1001.58447;10.3897/zookeys.557.7087;10.3897/zookeys.714.15113;10.3897/zookeys.1019.59881;10.3897/zookeys.1025.60442,US,University of Kansas - Biodiversity Institute,MUSEUM
+7,CNU,Journal of Hymenoptera Research,10.3897/jhr.56.10388;10.3897/jhr.73.32256,CN,"Capital Normal University, College of Life Sciences",
+34,NZAC,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.57.12892;10.3897/zookeys.707.12649;10.3897/zookeys.554.6120;10.3897/zookeys.879.37684,NZ,New Zealand Arthropod Collection,OTHER_INSTITUTIONAL_TYPE
+31,QMBA,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.57.12892;10.3897/zookeys.556.6126,,,
+28,ROM,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.57.12892;10.3897/jhr.70.34206;10.3897/zookeys.759.24742;10.3897/zookeys.551.6168;10.3897/zookeys.691.13595;10.3897/zookeys.594.8295;10.3897/zookeys.562.6124,CA,Royal Ontario Museum,MUSEUM
+18,NWUX,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.57.11766;10.3897/jhr.62.23196;10.3897/zookeys.663.11874;10.3897/zookeys.926.47270;10.3897/zookeys.1038.64978;10.3897/JHR.45.5069;10.3897/jhr.52.9806;10.3897/zookeys.537.6592;10.3897/zookeys.612.9751,,,
+14,UAT,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.58.12919;10.3897/zookeys.974.54536;10.3897/jhr.55.11452,MX,Universidad Autónoma de Tamaulipas,HERBARIUM
+8,NMK,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.61.21015;10.3897/zookeys.725.15059;10.3897/zookeys.963.53470,KE,National Museums of Kenya,MUSEUM
+7,ELMU,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.63.23671;10.3897/jhr.80.56178;10.3897/zookeys.990.55542,,,
+65,NMBE,Journal of Hymenoptera Research;ZooKeys;Subterranean Biology,10.3897/jhr.63.12754;10.3897/zookeys.795.29339;10.3897/zookeys.529.6139;10.3897/zookeys.675.12453;10.3897/subtbiol.36.58977;10.3897/zookeys.769.25258,CH,Naturhistorisches Museum der Burgergemeinde Bern,MUSEUM
+20,NMP,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.63.12754;10.3897/zookeys.753.22366;10.3897/zookeys.615.9179;10.3897/zookeys.1024.56927;10.3897/zookeys.1035.65767,CZ,National Museum (Prague),
+11,UCFC,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.64.24282;10.3897/zookeys.787.26948,US,University of Central Florida,
+63,NHM,Journal of Hymenoptera Research;ZooKeys;Nota Lepidopterologica;Zoosystematics and Evolution;Deutsche Entomologische Zeitschrift,10.3897/jhr.67.28810;10.3897/zookeys.777.24729;10.3897/zookeys.707.12649;10.3897/nl.40.10440;10.3897/zookeys.935.50492;10.3897/zookeys.679.12547;10.3897/zookeys.675.13252;10.3897/zookeys.1008.60704;10.3897/zse.97.59143;10.3897/zookeys.1025.60442;10.3897/JHR.46.5155;10.3897/dez.63.8386;10.3897/zookeys.623.10205;10.3897/zookeys.592.8118;10.3897/zookeys.571.7356,GB,University of Nottingham,HERBARIUM
+71,MZLU,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.67.28810;10.3897/zookeys.778.25775;10.3897/zookeys.565.7185;10.3897/zookeys.963.53470;10.3897/zookeys.648.10935;10.3897/zookeys.579.7716;10.3897/zookeys.1019.60364,,,
+16,RPSP,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.67.29733;10.3897/zookeys.539.6529;10.3897/jhr.81.60048,BR,Universidade de Sao Paulo,
+6,NBCN,Journal of Hymenoptera Research,10.3897/jhr.68.30131,,,
+2,GXNU,Journal of Hymenoptera Research,10.3897/jhr.68.30784,,,
+14,BME,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.70.34206;10.3897/jhr.81.60048;10.3897/zookeys.851.31802,,,
+8,MSNVE,Journal of Hymenoptera Research,10.3897/jhr.71.35754,,,
+17,MNHNPY,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.71.35754;10.3897/zookeys.648.10935,,,
+2,CNUB,Journal of Hymenoptera Research,10.3897/jhr.72.35502;10.3897/jhr.81.57792,,,
+29,ZJUH,Journal of Hymenoptera Research;Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/jhr.72.39333;10.3897/dez.67.57668;10.3897/zookeys.1038.55258;10.3897/zookeys.1038.64978;10.3897/JHR.45.5069;10.3897/zookeys.722.14799;10.3897/zookeys.639.10893;10.3897/zookeys.629.10167,,,
+2,LP,Journal of Hymenoptera Research,10.3897/jhr.72.38908,RU,Laboratory of Palaeontology,
+10,MZUCR,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.72.38908;10.3897/zookeys.1019.60364;10.3897/zookeys.629.10828;10.3897/zookeys.628.9805;10.3897/zookeys.1032.63431,,"Universidad de Costa Rica, Museo de Zoologia",
+4,ZSIC,Journal of Hymenoptera Research,10.3897/jhr.73.34262,IO,Zoological Survey of India,
+4,CEAM,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.73.38025;10.3897/zookeys.579.7716,MX,Centro de Entomologica y Acarologia,
+6,MNNC,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.795.27070;10.3897/nl.41.28570;10.3897/nl.42.38341;10.3897/nl.43.57965,CL,"Museo Nacional de Historia Natural, Santiago",
+35,ANSP,ZooKeys;Zoosystematics and Evolution;Journal of Orthoptera Research,10.3897/zookeys.795.29339;10.3897/zookeys.794.26789;10.3897/zse.95.33880;10.3897/zookeys.675.12453;10.3897/zookeys.601.9040;10.3897/zookeys.594.7750;10.3897/jor.28.30143,US,Academy of Natural Sciences,HERBARIUM
+49,UF,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.795.29339;10.3897/zookeys.794.26789;10.3897/zookeys.790.28134;10.3897/zookeys.780.25859;10.3897/zookeys.780.26388;10.3897/zookeys.842.33052;10.3897/zookeys.614.8807;10.3897/zookeys.675.12453;10.3897/zookeys.617.10040;10.3897/zookeys.595.8626;10.3897/zse.97.59143,US,"Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",MUSEUM
+38,CM,ZooKeys,10.3897/zookeys.795.29339;10.3897/zookeys.675.12453;10.3897/zookeys.562.6124,CN,Chongqing Museum,
+6,MUPADI,ZooKeys,10.3897/zookeys.795.29339,,,
+25,DHMECN,ZooKeys,10.3897/zookeys.794.26936;10.3897/zookeys.852.24557;10.3897/zookeys.766.24523;10.3897/zookeys.751.20541,,,
+59,QCAZ,ZooKeys;Evolutionary Systematics,10.3897/zookeys.794.26936;10.3897/zookeys.777.26017;10.3897/zookeys.766.24523;10.3897/zookeys.726.13864;10.3897/zookeys.673.12108;10.3897/evolsyst.1.14969;10.3897/zookeys.593.8063;10.3897/zookeys.993.53559;10.3897/zookeys.606.9121;10.3897/zookeys.546.6533,EC,"Museo de Zoologia, Pontificia Universidad Catolica del Ecuador",MUSEUM
+2,UVC,ZooKeys,10.3897/zookeys.794.26936,CO,"Coleccion de Anfibios y Reptiles, Universidad del Valle, Cali",
+28,ZUEC,ZooKeys,10.3897/zookeys.794.26789;10.3897/zookeys.786.27382;10.3897/zookeys.571.5983;10.3897/zookeys.561.7263;10.3897/zookeys.546.6175,BR,Museu de Zoologia da Universidade Estadual de Campinas,
+18,MECN,ZooKeys,10.3897/zookeys.793.26712;10.3897/zookeys.780.26977;10.3897/zookeys.707.20759;10.3897/zookeys.593.8063;10.3897/zookeys.640.10344;10.3897/zookeys.594.8295,EC,Museo Ecuadoriano de Ciencias Naturales,
+18,UMSP,ZooKeys,10.3897/zookeys.793.26712;10.3897/zookeys.780.26977;10.3897/zookeys.640.10344;10.3897/zookeys.984.53587,US,University of Minnesota Insect Collection,UNIVERSITY_COLLEGE
+39,ZMUM,ZooKeys,10.3897/zookeys.793.29221;10.3897/zookeys.742.23471;10.3897/zookeys.725.22014;10.3897/zookeys.669.12561;10.3897/zookeys.693.14769;10.3897/zookeys.577.7825;10.3897/zookeys.833.32413;10.3897/zookeys.898.39265;10.3897/zookeys.761.24214;10.3897/zookeys.760.24837;10.3897/zookeys.722.21192;10.3897/zookeys.625.8711;10.3897/zookeys.1040.66209,CN,"Zoological Museum, University of Amoy",
+2,PSU,ZooKeys,10.3897/zookeys.793.29221;10.3897/zookeys.693.14769,TH,Prince of Songkla University,HERBARIUM
+59,MNCR,ZooKeys,10.3897/zookeys.792.28034;10.3897/zookeys.863.33183;10.3897/zookeys.668.11350;10.3897/zookeys.631.10718;10.3897/zookeys.617.9178;10.3897/zookeys.1001.58447;10.3897/zookeys.1024.56927,CR,Museo Nacional de Costa Rica,
+61,MPEG,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.790.24745;10.3897/zookeys.778.25775;10.3897/zookeys.753.20805;10.3897/zookeys.726.19778;10.3897/zookeys.589.7951;10.3897/zookeys.648.10935;10.3897/zookeys.622.8682;10.3897/zookeys.571.5983;10.3897/zookeys.1031.56035;10.3897/zookeys.1031.62181;10.3897/jhr.81.60048,BR,Museu Paraense Emilio Goeldi,
+4,DBET,ZooKeys,10.3897/zookeys.789.27022;10.3897/zookeys.523.6103;10.3897/zookeys.899.46933,,,
+2,NHMC,ZooKeys,10.3897/zookeys.789.27022,MM,"Natural History Museum, Rangoon",
+3,EMIH,ZooKeys,10.3897/zookeys.789.26165,,,
+7,MSU,ZooKeys;MycoKeys,10.3897/zookeys.788.26282;10.3897/mycokeys.30.22887;10.3897/zookeys.1027.54888,PH,"Mindanao State University, Tawi-Tawi College of Technology and Oceanography",
+2,SDMC,ZooKeys,10.3897/zookeys.788.26282,,,
+1,CSUC,ZooKeys,10.3897/zookeys.788.26282,,"California State University, Chico, Vertebrate Museum",
+1,DNHC,ZooKeys,10.3897/zookeys.788.26282,,,
+25,UAIC,ZooKeys,10.3897/zookeys.788.26885;10.3897/zookeys.1007.60012,,"University of Alabama, Ichthyological Collection",
+32,CUAC,ZooKeys,10.3897/zookeys.787.26948;10.3897/zookeys.688.19867;10.3897/zookeys.685.13811;10.3897/zookeys.656.10738,US,Clemson University Arthropod Collection,UNIVERSITY_COLLEGE
+97,LSAM,ZooKeys,10.3897/zookeys.787.26948;10.3897/zookeys.685.13811;10.3897/zookeys.1001.58447;10.3897/zookeys.1016.61397,US,Louisiana State Arthropod Museum,
+18,TMMC,ZooKeys,10.3897/zookeys.787.26948,US,Texas Memorial Museum,
+17,ASUIC,ZooKeys,10.3897/zookeys.787.26948,,,
+5,UAAM,ZooKeys,10.3897/zookeys.787.26948,US,"The Arthropod Museum, University of Arkansas",
+2,PSUNHM,ZooKeys,10.3897/zookeys.787.28098,,,
+32,AMS,ZooKeys,10.3897/zookeys.786.28539;10.3897/zookeys.756.24397;10.3897/zookeys.864.34521;10.3897/zookeys.521.5995;10.3897/zookeys.740.22712;10.3897/zookeys.638.10883;10.3897/zookeys.562.6052,,,
+2,AIM,ZooKeys,10.3897/zookeys.786.28539,NZ,Auckland Institute and Museum,
+3,NMNZ,ZooKeys,10.3897/zookeys.786.28539;10.3897/zookeys.740.22712,NZ,Museum of New Zealand Te Papa Tongarewa,MUSEUM
+1,USC,ZooKeys,10.3897/zookeys.786.26553,US,University of Southern California,HERBARIUM
+7,NMNHS,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.786.28386;10.3897/zookeys.687.13844;10.3897/zookeys.1004.58537;10.3897/nl.39.6760;10.3897/nl.43.54508,,,
+1,IZB,ZooKeys,10.3897/zookeys.786.28386,,,
+54,VMNH,ZooKeys,10.3897/zookeys.786.27631;10.3897/zookeys.1027.54888;10.3897/zookeys.1030.62544,US,Virginia Museum of Natural History,
+1,DZUS,ZooKeys,10.3897/zookeys.785.28006,,,
+1,ENMU,ZooKeys,10.3897/zookeys.785.26674,US,Eastern New Mexico University Natural History Museum,
+5,QCAZ-I,ZooKeys,10.3897/zookeys.781.22841,,,
+1,BFUC,ZooKeys,10.3897/zookeys.781.25713,,,
+22,KIZ,ZooKeys,10.3897/zookeys.781.27354;10.3897/zookeys.744.21742;10.3897/zookeys.665.11609;10.3897/zookeys.646.11049;10.3897/zookeys.968.56677;10.3897/zookeys.1009.59693;10.3897/zookeys.1018.61033;10.3897/zookeys.734.21153,CN,"Kunming Institute of Zoology, Chinese Academy of Sciences",
+34,SEHU,ZooKeys;Deutsche Entomologische Zeitschrift;Journal of Hymenoptera Research,10.3897/zookeys.781.27354;10.3897/zookeys.665.11609;10.3897/zookeys.912.47719;10.3897/dez.68.59641;10.3897/jhr.53.11027;10.3897/zookeys.990.55542,JP,"Laboratory of Systematic Entomology, The Hokkaido University Museum, Hokkaido University, Sapporo, Japan",
+5,KPSP,ZooKeys,10.3897/zookeys.781.27354;10.3897/zookeys.665.11609,,,
+1,ITBC,ZooKeys,10.3897/zookeys.781.27354,,,
+3,MUHNAC,ZooKeys,10.3897/zookeys.780.25859,,,
+3,UASC,ZooKeys,10.3897/zookeys.780.26977,BO,"Museo de Historia Natural ""Noel Kempff Mercado""",
+46,AEIC,ZooKeys,10.3897/zookeys.778.25775,US,American Entomological Institute,
+22,UCDC,ZooKeys,10.3897/zookeys.778.25775;10.3897/zookeys.528.6001,US,R. M. Bohart Museum of Entomology,MUSEUM
+101,MIZA,ZooKeys,10.3897/zookeys.778.25775;10.3897/zookeys.768.24423;10.3897/zookeys.705.19815;10.3897/zookeys.658.10928;10.3897/zookeys.580.8153;10.3897/zookeys.622.9155;10.3897/zookeys.669.11773;10.3897/zookeys.744.22766;10.3897/zookeys.1019.59881,VE,Museo del Instituto de Zoologia Agricola Francisco Fernandez Yepez,MUSEUM
+63,IAVH,ZooKeys,10.3897/zookeys.778.25775;10.3897/zookeys.648.10935,CO,Instituto de Ivestigacion de los Recursos Biologicos Alexander von Humboldt,
+16,NECJU,ZooKeys,10.3897/zookeys.777.24729;10.3897/zookeys.935.49843,,,
+21,BORN,ZooKeys,10.3897/zookeys.777.23212;10.3897/zookeys.907.36563,MY,"Institute for Tropical Biology and Conservation, Borneensis",
+1,AZMI,ZooKeys,10.3897/zookeys.777.26745,,,
+18,MMUE,ZooKeys,10.3897/zookeys.777.26745;10.3897/zookeys.906.47978;10.3897/zookeys.1035.65767,GB,Museum of Manchester University,
+1,ZUCT,ZooKeys,10.3897/zookeys.777.26745,,,
+10,SYS,ZooKeys;PhytoKeys,10.3897/zookeys.776.22925;10.3897/zookeys.986.47989;10.3897/zookeys.991.54935;10.3897/zookeys.995.55939;10.3897/phytokeys.146.50728;10.3897/phytokeys.176.65443,CN,Zhongshan (Sun Yatsen) University,HERBARIUM
+14,CIB,ZooKeys,10.3897/zookeys.776.22925;10.3897/zookeys.1025.62305;10.3897/zookeys.1036.56919;10.3897/zookeys.594.8768;10.3897/zookeys.615.9179,CN,Chengdu Institute of Biology,
+4,KSU,ZooKeys,10.3897/zookeys.774.25273,SA,King Saud University,HERBARIUM
+7,MZU,ZooKeys,10.3897/zookeys.773.24878;10.3897/zookeys.643.11093,,,
+31,NZCS,ZooKeys,10.3897/zookeys.768.24423;10.3897/zookeys.705.19815;10.3897/zookeys.580.8153;10.3897/zookeys.669.11773;10.3897/zookeys.1019.59881,SR,"University, National Zoological Collection of Suriname",
+7,PUCE,ZooKeys,10.3897/zookeys.768.24423;10.3897/zookeys.838.33086;10.3897/zookeys.788.26325,,,
+12,CBDG,ZooKeys,10.3897/zookeys.768.24423;10.3897/zookeys.705.19815;10.3897/zookeys.669.11773;10.3897/zookeys.1019.59881,,,
+21,ZSFQ,ZooKeys,10.3897/zookeys.766.24523;10.3897/zookeys.673.12108,,,
+17,MZUA,ZooKeys,10.3897/zookeys.766.24523;10.3897/zookeys.751.20541,,,
+33,CORBIDI,ZooKeys;Evolutionary Systematics,10.3897/zookeys.766.24523;10.3897/zookeys.726.13864;10.3897/zookeys.630.9298;10.3897/zookeys.610.8507;10.3897/evolsyst.4.57578;10.3897/zookeys.594.8295;10.3897/zookeys.546.6533;10.3897/evolsyst.5.63674,PE,Centro de Ornitologia y Biodiversidad,
+24,LSUMZ,ZooKeys,10.3897/zookeys.766.24523;10.3897/zookeys.562.6124,US,"Louisiana State University, Musuem of Zoology",
+9,EPN,ZooKeys,10.3897/zookeys.766.24523,EC,Escuela Polytecnica Nacional,
+5,QMOR,ZooKeys,10.3897/zookeys.765.24144,CA,Ouellet-Robert Entomological Collection,UNIVERSITY_COLLEGE
+3,CPUFMA,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.765.23157;10.3897/zse.94.22106,,,
+4,IAECAS,ZooKeys,10.3897/zookeys.765.24366,,,
+2,ANDA,MycoKeys,10.3897/mycokeys.17.10153,ID,Andalas University,HERBARIUM
+1,LY,MycoKeys,10.3897/mycokeys.17.10153,FR,Laboratoire de Mycologie associe au CNRS,
+1,TRTC,MycoKeys,10.3897/mycokeys.17.10153,CA,Royal Ontario Museum,HERBARIUM
+5,MSUT,MycoKeys,10.3897/mycokeys.17.10512,AL,"Museum of Natural History, Tirane",
+1,RAMK,MycoKeys,10.3897/mycokeys.17.10512,TH,Ramkhamhaeng University,HERBARIUM
+6,WTU,MycoKeys,10.3897/mycokeys.18.10007,US,University of Washington,HERBARIUM
+8,TENN,MycoKeys,10.3897/mycokeys.18.10007,US,University of Tennessee,HERBARIUM
+1,AL,MycoKeys,10.3897/mycokeys.18.10007,DZ,Université d'Alger,HERBARIUM
+1,OH,MycoKeys,10.3897/mycokeys.18.10007,CZ,Agricultural Museum of Praha,HERBARIUM
+1,PA,MycoKeys,10.3897/mycokeys.18.10007,BR,Universidade Federal do Oeste do Pará,HERBARIUM
+1,VA,MycoKeys,10.3897/mycokeys.18.10007,US,Department of Veterans Affairs,BIOMEDICAL_RESEARCH_INSTITUTE
+3,GSMNP,MycoKeys,10.3897/mycokeys.18.10007,US,Great Smoky Mountains National Park,HERBARIUM
+2,SFSU,MycoKeys,10.3897/mycokeys.18.10007,US,San Francisco State University,HERBARIUM
+1,USAM,MycoKeys,10.3897/mycokeys.18.10007,US,University of South Alabama,HERBARIUM
+1,GRM,MycoKeys,10.3897/mycokeys.18.10007,FR,Muséum d'Histoire Naturelle de Grenoble,MUSEUM
+4,MICH,MycoKeys;PhytoKeys,10.3897/mycokeys.18.10007;10.3897/phytokeys.75.9198,US,University of Michigan,HERBARIUM
+1,NYS,MycoKeys,10.3897/mycokeys.18.10007,,,
+35,UBC,MycoKeys;ZooKeys,10.3897/mycokeys.18.10007;10.3897/zookeys.646.10787;10.3897/zookeys.625.9891,CA,University of British Columbia,HERBARIUM
+52,HMAS,MycoKeys,10.3897/mycokeys.19.11174;10.3897/mycokeys.34.24221;10.3897/mycokeys.67.50068;10.3897/mycokeys.71.55009;10.3897/mycokeys.70.54149;10.3897/mycokeys.60.38186;10.3897/mycokeys.57.36628;10.3897/mycokeys.80.63816;10.3897/mycokeys.26.14506;10.3897/mycokeys.47.30740;10.3897/mycokeys.73.51424;10.3897/mycokeys.73.56905;10.3897/mycokeys.58.36723;10.3897/mycokeys.55.34527;10.3897/mycokeys.55.35015,CN,Chinese Academy of Sciences,HERBARIUM
+80,BJFC,MycoKeys,10.3897/mycokeys.20.11754;10.3897/mycokeys.22.12380;10.3897/mycokeys.29.21250;10.3897/mycokeys.30.23109;10.3897/mycokeys.37.25901;10.3897/mycokeys.56.36079;10.3897/mycokeys.40.28700;10.3897/mycokeys.50.32517;10.3897/mycokeys.52.34066;10.3897/mycokeys.69.54012;10.3897/mycokeys.72.51872;10.3897/mycokeys.68.53561;10.3897/mycokeys.62.47425;10.3897/mycokeys.61.46799;10.3897/mycokeys.60.46395;10.3897/mycokeys.57.38035;10.3897/mycokeys.56.35554;10.3897/mycokeys.48.31956;10.3897/mycokeys.39.26914;10.3897/mycokeys.77.59999;10.3897/mycokeys.79.65221;10.3897/mycokeys.80.63997;10.3897/mycokeys.32.23641;10.3897/mycokeys.34.22593;10.3897/mycokeys.48.31715,CN,Beijing Forestry University,HERBARIUM
+101,MFLU,MycoKeys;ZooKeys,10.3897/mycokeys.20.11754;10.3897/mycokeys.33.23670;10.3897/mycokeys.34.25124;10.3897/mycokeys.40.26918;10.3897/zookeys.556.6002;10.3897/mycokeys.70.54231;10.3897/mycokeys.70.53674;10.3897/mycokeys.70.52043;10.3897/mycokeys.65.49769;10.3897/mycokeys.61.47056;10.3897/mycokeys.46.32458;10.3897/mycokeys.43.29365;10.3897/mycokeys.38.28011;10.3897/mycokeys.76.58465;10.3897/mycokeys.78.61836;10.3897/mycokeys.79.60662;10.3897/mycokeys.51.32272,TH,Mae Fah Laung University Herbarium,
+8,TNM,MycoKeys,10.3897/mycokeys.20.11754;10.3897/mycokeys.52.34066,TW,National Museum of Natural Science,HERBARIUM
+3,PRM,MycoKeys,10.3897/mycokeys.22.12380;10.3897/mycokeys.79.63908,CZ,National Museum,HERBARIUM
+1,DSMZ,MycoKeys,10.3897/mycokeys.27.21254,DE,Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH,
+4,GDGM,MycoKeys,10.3897/mycokeys.28.21029;10.3897/mycokeys.51.32775;10.3897/mycokeys.61.47520,CN,"Guangdong Institute of Microbiology, Guangdong Academy of Sciences.",HERBARIUM
+5,SWFC,MycoKeys,10.3897/mycokeys.29.22086;10.3897/mycokeys.65.48660,CN,Southwest Forestry College,HERBARIUM
+11,BBH,MycoKeys,10.3897/mycokeys.33.23341;10.3897/mycokeys.72.55088;10.3897/mycokeys.71.55126;10.3897/mycokeys.58.36307,TH,National Science and Technology Development Agency,HERBARIUM
+3,BCC,MycoKeys,10.3897/mycokeys.33.23341,TH,BIOTEC Culture Collection,LIVING_ORGANISM_COLLECTION
+67,MFLUCC,MycoKeys,10.3897/mycokeys.33.23670;10.3897/mycokeys.34.25124;10.3897/mycokeys.70.54231;10.3897/mycokeys.70.53674;10.3897/mycokeys.70.52043;10.3897/mycokeys.63.49264;10.3897/mycokeys.46.32458;10.3897/mycokeys.43.29365;10.3897/mycokeys.43.25081;10.3897/mycokeys.38.28011,TH,Mae Fah Luang University Culture Collection,
+51,CGMCC,MycoKeys,10.3897/mycokeys.34.24221;10.3897/mycokeys.47.30740;10.3897/mycokeys.40.23828;10.3897/mycokeys.73.51424;10.3897/mycokeys.73.56905;10.3897/mycokeys.68.52092;10.3897/mycokeys.57.36628;10.3897/mycokeys.55.35015;10.3897/mycokeys.48.32147;10.3897/mycokeys.44.30295;10.3897/mycokeys.76.57410;10.3897/mycokeys.26.14688;10.3897/mycokeys.26.14919;10.3897/mycokeys.47.29180;10.3897/mycokeys.43.25081,CN,"China General Microbiological Culture Collection Center, Chinese Academy of Sciences",
+21,HKAS,MycoKeys,10.3897/mycokeys.34.25124;10.3897/mycokeys.59.36823;10.3897/mycokeys.70.54149;10.3897/mycokeys.62.36633;10.3897/mycokeys.79.60662,CN,Cryptogamic Herbarium of Kunming Institute of Botany,
+22,ICMP,MycoKeys,10.3897/mycokeys.34.25124;10.3897/mycokeys.38.28011,NZ,International Collection of Micro-organisms from Plants,
+111,CBS,MycoKeys,10.3897/mycokeys.47.30740;10.3897/mycokeys.60.39069;10.3897/mycokeys.74.57824;10.3897/mycokeys.68.50035;10.3897/mycokeys.63.46836;10.3897/mycokeys.49.31904;10.3897/mycokeys.44.29742;10.3897/mycokeys.76.58406;10.3897/mycokeys.77.60862;10.3897/mycokeys.77.60077;10.3897/mycokeys.78.60063;10.3897/mycokeys.19.11161;10.3897/mycokeys.32.23754;10.3897/mycokeys.34.25974;10.3897/mycokeys.40.28636;10.3897/mycokeys.74.53433;10.3897/mycokeys.75.57192;10.3897/mycokeys.68.51667;10.3897/mycokeys.59.37966,NL,"Centraalbureau voor Schimmelcultures, Fungal and Yeast Collection",
+1,KR,MycoKeys,10.3897/mycokeys.48.30350,DE,Staatliches Museum für Naturkunde Karlsruhe,HERBARIUM
+27,PREM,MycoKeys,10.3897/mycokeys.60.39069;10.3897/mycokeys.76.58406,ZA,Plant Protection Research Institute,HERBARIUM
+11,NHMO,Nota Lepidopterologica;ZooKeys,10.3897/nl.40.11184;10.3897/nl.39.9090;10.3897/zookeys.992.55977,NO,"Natural History Museum, University of Oslo",MUSEUM
+13,ZMKU,Nota Lepidopterologica;ZooKeys,10.3897/nl.40.13085;10.3897/nl.41.23395;10.3897/zookeys.846.33200;10.3897/zookeys.1023.61081;10.3897/zookeys.1036.64880,UA,Kiev Zoological Museum,
+1,MCVR,Nota Lepidopterologica,10.3897/nl.41.22840,,,
+4,NF,PhytoKeys,10.3897/phytokeys.109.27566;10.3897/phytokeys.119.32148,CN,Nanjing Forestry University,HERBARIUM
+6,PE,PhytoKeys,10.3897/phytokeys.109.27566;10.3897/phytokeys.79.11215;10.3897/phytokeys.148.48510;10.3897/phytokeys.161.53010,CN,"Institute of Botany, Chinese Academy of Sciences",HERBARIUM
+21,KUN,PhytoKeys;MycoKeys;ZooKeys,10.3897/phytokeys.109.27566;10.3897/phytokeys.130.35047;10.3897/phytokeys.130.34153;10.3897/phytokeys.157.32729;10.3897/phytokeys.166.58831;10.3897/phytokeys.157.50246;10.3897/phytokeys.156.49137;10.3897/mycokeys.67.51020;10.3897/zookeys.568.7733;10.3897/phytokeys.171.59562;10.3897/phytokeys.177.63346,CN,"Kunming Institute of Botany, Chinese Academy of Sciences",HERBARIUM
+3,SIFS,PhytoKeys,10.3897/phytokeys.109.27566,CN,Sichuan Forestry School,HERBARIUM
+12,SING,PhytoKeys,10.3897/phytokeys.110.25846;10.3897/phytokeys.89.20875;10.3897/phytokeys.73.9737;10.3897/phytokeys.68.8803;10.3897/phytokeys.62.8101;10.3897/phytokeys.174.62023,SG,Singapore Botanic Gardens,HERBARIUM
+11,XTBG,PhytoKeys;ZooKeys,10.3897/phytokeys.110.28673;10.3897/zookeys.1021.56599;10.3897/phytokeys.83.12869;10.3897/phytokeys.138.38995;10.3897/zookeys.1034.59413,,,
+2,TNS,PhytoKeys,10.3897/phytokeys.113.29103;10.3897/phytokeys.148.48957,JP,National Museum of Nature and Science,HERBARIUM
+4,IBK,PhytoKeys,10.3897/phytokeys.117.28281;10.3897/phytokeys.159.56109;10.3897/phytokeys.153.52796,CN,Guangxi Institute of Botany,HERBARIUM
+3,DUH,PhytoKeys,10.3897/phytokeys.124.33453;10.3897/phytokeys.68.9975,IN,University of Delhi,HERBARIUM
+4,CALI,PhytoKeys,10.3897/phytokeys.124.33453;10.3897/phytokeys.62.7623,IN,University of Calicut,HERBARIUM
+1,MHNS,Subterranean Biology,10.3897/subtbiol.25.23364,,,
+22,OSUM,Subterranean Biology,10.3897/subtbiol.25.23463,,"Ohio State University, Museum of Biological Diversity",
+10,CDRS,Subterranean Biology;ZooKeys,10.3897/subtbiol.17.7660;10.3897/zookeys.729.21779,EC,Invertebrate Collection,
+1,LZU,PhytoKeys,10.3897/phytokeys.98.23639,CN,Lanzhou University,HERBARIUM
+19,KH,PhytoKeys;ZooKeys,10.3897/phytokeys.89.21004;10.3897/phytokeys.161.53019;10.3897/zookeys.619.10043,KR,Korea National Arboretum,HERBARIUM
+4,HITBC,PhytoKeys,10.3897/phytokeys.88.19861;10.3897/phytokeys.171.59562,CN,"Xishuangbanna Tropical Botanical Garden, Academia Sinica",HERBARIUM
+5,JXAU,PhytoKeys;ZooKeys,10.3897/phytokeys.85.13804;10.3897/zookeys.1028.61018,CN,Jiangxi Agricultural University,HERBARIUM
+97,MO,PhytoKeys,10.3897/phytokeys.77.11190;10.3897/phytokeys.76.11637;10.3897/phytokeys.76.10298;10.3897/phytokeys.74.10380;10.3897/phytokeys.74.10371;10.3897/phytokeys.74.10159;10.3897/phytokeys.69.9292;10.3897/phytokeys.65.7024;10.3897/phytokeys.64.6864;10.3897/phytokeys.63.8198;10.3897/phytokeys.63.6262;10.3897/phytokeys.58.6973;10.3897/phytokeys.57.5784;10.3897/phytokeys.57.5339;10.3897/phytokeys.56.5306;10.3897/phytokeys.134.37979;10.3897/phytokeys.67.6703,US,Missouri Botanical Garden,HERBARIUM
+6,SEL,PhytoKeys;ZooKeys,10.3897/phytokeys.77.11190;10.3897/zookeys.955.53644,US,Marie Selby Botanical Gardens,HERBARIUM
+13,PMA,PhytoKeys,10.3897/phytokeys.77.11190;10.3897/phytokeys.57.6489,CA,Provincial Museum of Alberta,
+3,UCH,PhytoKeys,10.3897/phytokeys.77.11190,PA,Universidad Autónoma de Chiriquí,HERBARIUM
+42,NY,PhytoKeys,10.3897/phytokeys.76.11637;10.3897/phytokeys.76.10298;10.3897/phytokeys.75.10015;10.3897/phytokeys.75.10759;10.3897/phytokeys.74.10380;10.3897/phytokeys.74.10159;10.3897/phytokeys.69.9292;10.3897/phytokeys.64.6864;10.3897/phytokeys.63.8895;10.3897/phytokeys.58.6973;10.3897/phytokeys.58.5292;10.3897/phytokeys.57.6489;10.3897/phytokeys.57.5784;10.3897/phytokeys.67.6703,US,The New York Botanical Garden,HERBARIUM
+8,BISH,PhytoKeys,10.3897/phytokeys.76.11637;10.3897/phytokeys.69.8844;10.3897/phytokeys.60.6465;10.3897/phytokeys.58.5292,,,
+3,UC,PhytoKeys,10.3897/phytokeys.76.11637,,Human Evolution Research Center,
+6,PTBG,PhytoKeys,10.3897/phytokeys.76.11637;10.3897/phytokeys.69.8844;10.3897/phytokeys.60.6465;10.3897/phytokeys.169.58107,US,National Tropical Botanical Garden,HERBARIUM
+4,HALE,PhytoKeys;ZooKeys,10.3897/phytokeys.76.11637;10.3897/zookeys.544.6074,US,"DOI/NPS, Haleakala National Park",
+31,CR,PhytoKeys,10.3897/phytokeys.76.10298;10.3897/phytokeys.61.7295;10.3897/phytokeys.134.37979,CR,Museo Nacional de Costa Rica,HERBARIUM
+9,USJ,PhytoKeys,10.3897/phytokeys.76.10298,CR,Universidad de Costa Rica,UNIVERSITY_COLLEGE
+9,INB,PhytoKeys,10.3897/phytokeys.76.10298,CR,Instituto Nacional de Biodiversidad,HERBARIUM
+8,GH,PhytoKeys;ZooKeys,10.3897/phytokeys.76.10298;10.3897/phytokeys.58.6973;10.3897/zookeys.572.6763,US,Harvard University,HERBARIUM
+5,LSCR,PhytoKeys,10.3897/phytokeys.76.10298,CR,"La Selva Biological Station, Organization for Tropical Studies",HERBARIUM
+5,LOC,PhytoKeys,10.3897/phytokeys.76.10298,US,Occidental College,HERBARIUM
+25,MEXU,PhytoKeys,10.3897/phytokeys.76.10921;10.3897/phytokeys.75.9198;10.3897/phytokeys.74.10159;10.3897/phytokeys.62.7953;10.3897/phytokeys.134.37979,MX,Universidad Nacional Autónoma de México,HERBARIUM
+1,FCME,PhytoKeys,10.3897/phytokeys.76.10921,MX,"Universidad Nacional Autónoma de México, Ciudad Universitaria",HERBARIUM
+5,COL,PhytoKeys,10.3897/phytokeys.76.11220;10.3897/phytokeys.64.6864;10.3897/phytokeys.162.55891,CO,Universidad Nacional de Colombia,HERBARIUM
+3,MOL,PhytoKeys,10.3897/phytokeys.75.10759;10.3897/phytokeys.64.6864,PE,Universidad Nacional Agraria La Molina,HERBARIUM
+1,HOXA,PhytoKeys,10.3897/phytokeys.75.10759,PE,Herbario Selva Central Oxapampa - estación biológica del Jardín Botánico de Missouri,HERBARIUM
+9,WU,PhytoKeys;MycoKeys,10.3897/phytokeys.75.10244;10.3897/mycokeys.66.48389;10.3897/mycokeys.63.49054;10.3897/mycokeys.59.37966,US,Wayland University,
+8,ANK,PhytoKeys,10.3897/phytokeys.75.10244;10.3897/phytokeys.69.8360;10.3897/phytokeys.61.7082;10.3897/phytokeys.56.5755;10.3897/phytokeys.65.8571,TR,Ankara Üniversitesi,HERBARIUM
+4,EGE,PhytoKeys,10.3897/phytokeys.75.10244;10.3897/phytokeys.69.9302,TR,Ege University,HERBARIUM
+6,NGBB,PhytoKeys,10.3897/phytokeys.75.10244;10.3897/phytokeys.69.9302;10.3897/phytokeys.65.8571,TR,Ali Nihat Gokyigit Foundation,HERBARIUM
+3,ENCB,PhytoKeys,10.3897/phytokeys.75.9198,MX,Universidad de Autonoma de Baja California,
+3,EBUM,PhytoKeys,10.3897/phytokeys.75.9198,MX,Universidad Michoacana de San Nicolás de Hidalgo,HERBARIUM
+3,DAO,PhytoKeys,10.3897/phytokeys.75.9198,CA,Agriculture and Agri-Food Canada,HERBARIUM
+3,FAA,PhytoKeys,10.3897/phytokeys.75.9198,AR,Universidad Nacional del Centro de la Provincia de Buenos Aires,HERBARIUM
+3,CIMI,PhytoKeys,10.3897/phytokeys.75.9198,MX,"Centro Interdisciplinario de Investigación para el Desarrollo Integral Regional, Unidad Michoacán",HERBARIUM
+3,IEB,PhytoKeys,10.3897/phytokeys.75.9198,MX,"Instituto de Ecología, A.C.",HERBARIUM
+3,WLU,PhytoKeys,10.3897/phytokeys.75.9198,CA,Wilfrid Laurier University,HERBARIUM
+2,ATH,PhytoKeys,10.3897/phytokeys.74.10381,GR,Goulandris Natural History Museum,HERBARIUM
+2,ATHU,PhytoKeys,10.3897/phytokeys.74.10381,GR,National and Kapodistrian University of Athens,HERBARIUM
+7,GB,PhytoKeys,10.3897/phytokeys.74.10381;10.3897/phytokeys.58.6973;10.3897/phytokeys.56.5306,SE,University of Gothenburg,HERBARIUM
+2,USMS,PhytoKeys,10.3897/phytokeys.74.10380,US,University of Southern Mississippi,HERBARIUM
+2,ODU,PhytoKeys,10.3897/phytokeys.74.10380,US,Old Dominion University,HERBARIUM
+2,MMNS,PhytoKeys,10.3897/phytokeys.74.10380,US,Mississippi Museum of Natural Science,HERBARIUM
+5,XAL,PhytoKeys;MycoKeys,10.3897/phytokeys.74.10371;10.3897/phytokeys.65.8454;10.3897/mycokeys.59.38359,MX,"Instituto de Ecología, A.C.",HERBARIUM
+3,HEM,PhytoKeys,10.3897/phytokeys.74.10371;10.3897/phytokeys.65.8454,MX,Universidad de Ciencias y Artes de Chiapas,HERBARIUM
+5,IBGE,PhytoKeys,10.3897/phytokeys.74.9835,BR,Instituto Brasileiro de Geografia e Estatística - IBGE,HERBARIUM
+10,MBM,PhytoKeys;ZooKeys,10.3897/phytokeys.74.9835;10.3897/phytokeys.57.5784;10.3897/zookeys.603.9125;10.3897/zookeys.683.12272,,"San Jose State University, Museum of Birds and Mammals",
+5,UEC,PhytoKeys,10.3897/phytokeys.74.9835,BR,Universidade Estadual de Campinas,HERBARIUM
+5,HURB,PhytoKeys,10.3897/phytokeys.74.9835,BR,Universidade Federal do Recôncavo da Bahia,HERBARIUM
+8,RB,PhytoKeys,10.3897/phytokeys.74.9835;10.3897/phytokeys.57.6489;10.3897/phytokeys.57.5784;10.3897/phytokeys.71.9203,BR,Jardim Botânico do Rio de Janeiro,HERBARIUM
+5,UFMT,PhytoKeys,10.3897/phytokeys.74.9835,BR,Universidade Federal de Mato Grosso,HERBARIUM
+5,CH,PhytoKeys,10.3897/phytokeys.74.9835,PA,Circulo Herpetologico de Panama,
+5,HERBAM,PhytoKeys,10.3897/phytokeys.74.9835,BR,Universidade do Estado de Mato Grosso,HERBARIUM
+5,ULM,PhytoKeys,10.3897/phytokeys.74.9835,DE,Universität Ulm,HERBARIUM
+5,CPAP,PhytoKeys,10.3897/phytokeys.74.9835,BR,Centro de Pesquisas Agropecuarias do Tropico Umido,
+14,BM,PhytoKeys;ZooKeys,10.3897/phytokeys.74.10159;10.3897/phytokeys.73.10365;10.3897/phytokeys.61.7258;10.3897/phytokeys.57.6489;10.3897/phytokeys.57.5784;10.3897/zookeys.562.7310,GB,Bristol Museum,
+10,NSW,PhytoKeys;ZooKeys,10.3897/phytokeys.74.10159;10.3897/phytokeys.151.51909;10.3897/zookeys.517.10187,AU,Royal Botanic Gardens & Domain Trust,HERBARIUM
+6,NE,PhytoKeys,10.3897/phytokeys.74.10159;10.3897/phytokeys.57.5784,AU,University of New England,HERBARIUM
+5,CORD,PhytoKeys,10.3897/phytokeys.74.10159,AR,Herbario CORD,HERBARIUM
+6,SI,PhytoKeys,10.3897/phytokeys.74.10159;10.3897/phytokeys.65.7024,AR,Instituto de Botánica Darwinion,HERBARIUM
+8,LPB,PhytoKeys,10.3897/phytokeys.74.10159;10.3897/phytokeys.58.6973,BO,"Herbario Nacional de Bolivia, Universidad Mayor de San Andrés",HERBARIUM
+5,WIS,PhytoKeys,10.3897/phytokeys.74.10159,US,University of Wisconsin,UNIVERSITY_COLLEGE
+7,USZ,PhytoKeys,10.3897/phytokeys.74.10159;10.3897/phytokeys.58.6973,BO,"Herbario del Oriente Boliviano (USZ), Museo de Historia Natural Noel Kempff Mercado, UAGRM",HERBARIUM
+5,UT,PhytoKeys,10.3897/phytokeys.74.10159,,"University of Texas at Austin, Non-vertebrate Paleontology Lab",
+27,KYO,PhytoKeys;ZooKeys,10.3897/phytokeys.73.10019;10.3897/phytokeys.69.9821;10.3897/phytokeys.62.7974;10.3897/phytokeys.65.8792;10.3897/phytokeys.65.7403;10.3897/phytokeys.65.6726;10.3897/zookeys.568.6721;10.3897/phytokeys.57.6347,JP,Kyoto University,HERBARIUM
+2,OSA,PhytoKeys,10.3897/phytokeys.73.10019,JP,Osaka Museum of Natural History,HERBARIUM
+4,FRI,PhytoKeys,10.3897/phytokeys.73.9737,JP,"Food Research Institute, Ministry of Agriculture, Forestry and Fisheries",
+8,KEP,PhytoKeys,10.3897/phytokeys.73.9737;10.3897/phytokeys.110.25846;10.3897/phytokeys.98.23903;10.3897/phytokeys.172.59336;10.3897/phytokeys.174.62023,MY,Forest Research Institute Malaysia,HERBARIUM
+4,SAN,PhytoKeys,10.3897/phytokeys.73.9737,MY,Forest Research Centre,HERBARIUM
+4,KLU,PhytoKeys,10.3897/phytokeys.73.9737,MY,University of Malaya,HERBARIUM
+7,PNH,PhytoKeys,10.3897/phytokeys.73.10055;10.3897/phytokeys.69.9466;10.3897/phytokeys.61.7295,PH,National Museum,HERBARIUM
+2,CAHUP,PhytoKeys,10.3897/phytokeys.73.10055,PH,University of the Philippines Los Baños,HERBARIUM
+2,BPL,PhytoKeys,10.3897/phytokeys.73.10055,GB,Museum of Barnstaple & North Devon,HERBARIUM
+2,UPLB,PhytoKeys,10.3897/phytokeys.73.10055,PH,"Museum of Natural History, University of the Philippines",
+9,FLAS,PhytoKeys;MycoKeys,10.3897/phytokeys.72.9355;10.3897/phytokeys.67.6703;10.3897/mycokeys.80.64435;10.3897/mycokeys.30.22887;10.3897/phytokeys.86.11249;10.3897/mycokeys.56.30280,,,
+26,WAG,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.68.9576;10.3897/phytokeys.63.6262,NL,Naturalis,HERBARIUM
+20,BR,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.133.38694,BR,Embrapa Agrobiology Diazothrophic Microbial Culture Collection,
+1,GC,PhytoKeys,10.3897/phytokeys.69.9292,,Goucher College,
+13,YA,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.61.7017,CM,National Herbarium of Cameroon,HERBARIUM
+17,EA,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.63.6262,,,
+3,UPS,PhytoKeys,10.3897/phytokeys.69.9292,SE,Museum of Evolution,HERBARIUM
+3,TAN,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.167.58538,MG,Parc Botanique et Zoologique de Tsimbazaza (PBZT),HERBARIUM
+7,BRLU,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.61.7017,,,
+9,LBV,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.68.9576;10.3897/phytokeys.61.7017,GA,CENAREST,HERBARIUM
+6,MA,PhytoKeys,10.3897/phytokeys.69.9292,ES,Real Jardín Botánico,HERBARIUM
+11,LISC,PhytoKeys,10.3897/phytokeys.69.9292,PT,Instituto de Investigação Científica Tropical,OTHER_TYPE_RESEARCH_INSTITUTION_BIOREPOSITORY
+6,LMU,PhytoKeys,10.3897/phytokeys.69.9292,MZ,Eduardo Mondlane University,HERBARIUM
+11,PRE,PhytoKeys,10.3897/phytokeys.69.9292,ZA,South African National Biodiversity Institute,HERBARIUM
+8,HBG,PhytoKeys,10.3897/phytokeys.69.9292,DE,University of Hamburg,HERBARIUM
+6,PH,PhytoKeys,10.3897/phytokeys.69.9292,US,Academy of Natural Sciences,HERBARIUM
+9,SRGH,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.133.38694,ZW,Botanic Garden,HERBARIUM
+7,FHO,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.71.9203,GB,University of Oxford,HERBARIUM
+6,NU,PhytoKeys,10.3897/phytokeys.69.9292,TH,"Department of Microbiology, Faculty of Science",
+9,LMA,PhytoKeys,10.3897/phytokeys.69.9292;10.3897/phytokeys.133.38694,MZ,Institute for Agricultural Research of Mozambique,HERBARIUM
+1,AIBU,PhytoKeys,10.3897/phytokeys.69.9302,TR,Abant Izzet Baysal Üniversitesi,HERBARIUM
+5,WM,PhytoKeys;ZooKeys,10.3897/phytokeys.69.8844;10.3897/zookeys.529.6139,SD,Gezira Research Station,HERBARIUM
+5,CANB,PhytoKeys,10.3897/phytokeys.69.8844;10.3897/phytokeys.63.7743;10.3897/phytokeys.151.51909,AU,Australian National Herbarium,HERBARIUM
+1,EM,PhytoKeys,10.3897/phytokeys.69.8844,,,
+7,GAZI,PhytoKeys,10.3897/phytokeys.69.8360;10.3897/phytokeys.68.9089;10.3897/phytokeys.61.7082;10.3897/phytokeys.56.5755;10.3897/phytokeys.65.8571,TR,Gazi University,HERBARIUM
+25,FU,PhytoKeys;ZooKeys,10.3897/phytokeys.69.9821;10.3897/phytokeys.62.7974;10.3897/phytokeys.58.5292;10.3897/zookeys.938.51614;10.3897/phytokeys.65.8792;10.3897/phytokeys.65.7403;10.3897/phytokeys.65.6726;10.3897/phytokeys.58.6816;10.3897/phytokeys.57.6347;10.3897/zookeys.1028.63822,CN,"Fudan University, Department of Biology",
+11,HN,PhytoKeys,10.3897/phytokeys.69.9821;10.3897/phytokeys.69.9272;10.3897/phytokeys.62.7974;10.3897/phytokeys.149.51710;10.3897/phytokeys.166.55731,VN,Vietnam Academy of Science and Technology (VAST),HERBARIUM
+14,VNM,PhytoKeys,10.3897/phytokeys.69.9821;10.3897/phytokeys.62.7974;10.3897/phytokeys.149.51710;10.3897/phytokeys.65.6726;10.3897/phytokeys.57.6347,VN,Institute of Tropical Biology,HERBARIUM
+1,CAL,PhytoKeys,10.3897/phytokeys.68.9975,IN,Botanical Survey of India,HERBARIUM
+1,BSD,PhytoKeys,10.3897/phytokeys.68.9975,IN,"Botanical Survey of India, Northern Regional Centre",HERBARIUM
+1,VANF,PhytoKeys,10.3897/phytokeys.68.8745,TR,Van Flora Application and Research Center,HERBARIUM
+1,JAUM,PhytoKeys,10.3897/phytokeys.65.8674,CO,Fundación Jardín Botánico Joaquín Antonio Uribe,HERBARIUM
+1,UGDA,PhytoKeys,10.3897/phytokeys.65.8674,PL,Gdansk University,HERBARIUM
+1,NOCC,PhytoKeys,10.3897/phytokeys.65.8254,CN,The National Orchid Conservation Center,HERBARIUM
+11,USM,PhytoKeys;ZooKeys,10.3897/phytokeys.65.7024;10.3897/phytokeys.64.6864;10.3897/zookeys.545.6415,MY,Universiti Sains Malaysia,
+3,CUZ,PhytoKeys,10.3897/phytokeys.65.7024;10.3897/phytokeys.64.6864,PE,Universidad Nacional de San Antonio Abad del Cusco,HERBARIUM
+1,UJAT,PhytoKeys,10.3897/phytokeys.65.8454,MX,Universidad Juárez Autónoma de Tabasco,HERBARIUM
+3,HUT,PhytoKeys,10.3897/phytokeys.64.6864,JP,HUT Culture Collection,
+2,AMAZ,PhytoKeys,10.3897/phytokeys.64.6864,PE,Universidad Nacional de la Amazónia Peruana,HERBARIUM
+2,HAO,PhytoKeys,10.3897/phytokeys.64.6864;10.3897/phytokeys.63.8895,PE,Universidad Privada Antenor Orrego,HERBARIUM
+1,RHS,PhytoKeys,10.3897/phytokeys.63.8895,GB,"Plant Pathology, The Royal Horticultural Society",
+1,FTG,PhytoKeys,10.3897/phytokeys.63.8895,US,Fairchild Tropical Botanic Garden,HERBARIUM
+6,UMUTZ,ZooKeys,10.3897/zookeys.522.10294;10.3897/zookeys.587.8188,JP,"Department of Zoology, University Museum",
+1,MZS,ZooKeys,10.3897/zookeys.522.10294,FR,"Universite de Strasbourg, Musee de Zoologie",
+2,SMBL,ZooKeys,10.3897/zookeys.522.10294,JP,"Seto Marine Biological Laboratory, Kyoto University",
+1,ORI,ZooKeys,10.3897/zookeys.522.10294,ZA,Ocean Research Institute,
+14,OUM,ZooKeys,10.3897/zookeys.758.24169;10.3897/zookeys.639.10893;10.3897/zookeys.596.8332,GB,Oxford University Museum of Natural History,
+7,RSKM,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.755.23939;10.3897/jhr.77.53704,CA,Royal Saskatchewan Museum,MUSEUM
+51,KUNHM,ZooKeys,10.3897/zookeys.755.23939;10.3897/zookeys.658.10928;10.3897/zookeys.622.9155,,,
+35,UCBME,ZooKeys,10.3897/zookeys.755.23939;10.3897/zookeys.646.11411,,,
+9,CUM,ZooKeys,10.3897/zookeys.755.23939,,,
+58,PCYU,ZooKeys,10.3897/zookeys.755.23939;10.3897/zookeys.591.7731,CA,The Packer Collection at York University,UNIVERSITY_COLLEGE
+20,ABS,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.755.23939;10.3897/zookeys.533.6004;10.3897/jhr.80.59466,US,Archbold Biological Station,OTHER_TYPE_RESEARCH_INSTITUTION_BIOREPOSITORY
+6,JBWM,ZooKeys,10.3897/zookeys.755.23939;10.3897/zookeys.559.6134,,,
+6,NCSU,ZooKeys,10.3897/zookeys.755.23939,US,North Carolina State University Insect Museum,MUSEUM
+15,QVM,ZooKeys,10.3897/zookeys.754.25704;10.3897/zookeys.687.14872;10.3897/zookeys.652.12035;10.3897/zookeys.632.10657,AU,Queen Victoria Museum,
+5,BOR/COL,ZooKeys,10.3897/zookeys.754.24276,,,
+2,SP,ZooKeys,10.3897/zookeys.754.24276,BR,Instituto de Botânica,HERBARIUM
+44,IBSP,ZooKeys,10.3897/zookeys.753.20805;10.3897/zookeys.589.7951;10.3897/zookeys.622.8682;10.3897/zookeys.1031.62181;10.3897/zookeys.771.24921;10.3897/zookeys.726.19778,BR,Instituto Biologico de Sao Paulo,
+18,ISLA,ZooKeys;Subterranean Biology,10.3897/zookeys.753.20805;10.3897/subtbiol.36.54034;10.3897/zookeys.790.27193;10.3897/subtbiol.27.25777;10.3897/zookeys.726.19778;10.3897/zookeys.589.7951;10.3897/zookeys.600.8580;10.3897/zookeys.622.8682;10.3897/subtbiol.37.60483,,,
+3,RMRAC,ZooKeys,10.3897/zookeys.753.22366,,,
+9,CBM,ZooKeys,10.3897/zookeys.752.23712,JP,"Natural History Museum and Institute, Chiba",HERBARIUM
+12,NTOU,ZooKeys,10.3897/zookeys.752.23712;10.3897/zookeys.858.35198;10.3897/zookeys.1008.59966,TW,"Institute of Marine Biology, National Taiwan Ocean University",
+13,LKCNHM ZRC,ZooKeys,10.3897/zookeys.752.23712,,,
+10,NWAFU,ZooKeys,10.3897/zookeys.750.23486;10.3897/zookeys.832.30301;10.3897/zookeys.880.38033;10.3897/zookeys.545.5992;10.3897/zookeys.635.9915;10.3897/zookeys.605.8944,,,
+15,MSPU,ZooKeys,10.3897/zookeys.750.22764;10.3897/zookeys.737.21191;10.3897/zookeys.673.12084;10.3897/zookeys.1005.54882;10.3897/zookeys.658.11227,,,
+1,TPM,ZooKeys,10.3897/zookeys.750.22764,,,
+2,EFC,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.742.22854;10.3897/jhr.76.38340,BR,Escola de Florestas,HERBARIUM
+2,NTUM,ZooKeys,10.3897/zookeys.740.21729,TW,National Taiwan University,
+5,KUM,ZooKeys,10.3897/zookeys.740.20458;10.3897/zookeys.987.53648;10.3897/zookeys.559.6755,GH,Resource Management Support Center,HERBARIUM
+24,MHBU,ZooKeys,10.3897/zookeys.738.19884;10.3897/zookeys.880.34712;10.3897/zookeys.770.25491;10.3897/zookeys.748.23273;10.3897/zookeys.709.14755;10.3897/zookeys.857.29011;10.3897/zookeys.852.31611;10.3897/zookeys.525.6021;10.3897/zookeys.677.10399;10.3897/zookeys.553.6654;10.3897/zookeys.595.7569;10.3897/zookeys.600.7924;10.3897/zookeys.936.48577;10.3897/zookeys.968.48723;10.3897/zookeys.604.9049;10.3897/zookeys.1040.59547,,,
+11,IAvH,ZooKeys,10.3897/zookeys.738.22273;10.3897/zookeys.714.15113;10.3897/zookeys.668.11350;10.3897/zookeys.1031.56035,CO,Instituto de Ivestigacion de los Recursos Biologicos Alexander von Humboldt,
+4,CZUG,ZooKeys,10.3897/zookeys.736.21628,MX,"Universidad de Guadalajara,Centro de Estudios en Zoologia, Entomologia",
+4,NIWA,ZooKeys,10.3897/zookeys.733.14052;10.3897/zookeys.731.19948,NZ,National Institute of Water and Atmospheric Research,OTHER_INSTITUTIONAL_TYPE
+7,CASENT,ZooKeys,10.3897/zookeys.727.20222,,,
+1,FM,ZooKeys,10.3897/zookeys.727.20222,CN,"Department of Nature, Fujian Province Museum",
+2,IMAU,ZooKeys,10.3897/zookeys.725.21267;10.3897/zookeys.1000.57577,CN,"Inner Mongolia Agricultural University, Key Laboratory of Dairy Biotechnology and Engineering",
+10,UZC,ZooKeys,10.3897/zookeys.724.21415;10.3897/zookeys.1039.66493,,,
+3,DZUB,ZooKeys,10.3897/zookeys.724.20680,,,
+1,NUYS,ZooKeys,10.3897/zookeys.721.13918,,,
+8,HIC,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.718.21151;10.3897/jhr.68.30131,US,"Hymenoptera Institute Collection, University of Kentucky",UNIVERSITY_COLLEGE
+4,NTNU-VM,ZooKeys,10.3897/zookeys.717.21885;10.3897/zookeys.845.32428,NO,NTNU Museum of Natural History and Archaeology,MUSEUM
+3,CNHE,ZooKeys,10.3897/zookeys.716.13724;10.3897/zookeys.852.28964,,,
+1,MZFC-HE,ZooKeys,10.3897/zookeys.716.13724,,,
+33,UASM,ZooKeys,10.3897/zookeys.714.15113;10.3897/zookeys.626.10033;10.3897/zookeys.1007.60012,CA,"University of Alberta, E.H. Strickland Entomological Museum",
+3,UCMS,ZooKeys,10.3897/zookeys.711.17766,,,
+6,MUSENUV,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.711.20683;10.3897/jhr.67.29733,,,
+20,LUNZ,ZooKeys,10.3897/zookeys.707.12649,NZ,Lincoln University Entomology Research Museum,
+11,CMNZ,ZooKeys,10.3897/zookeys.707.12649,NZ,Canterbury Museum,MUSEUM
+8,MONZ,ZooKeys,10.3897/zookeys.707.12649,,,
+8,AMNZ,ZooKeys,10.3897/zookeys.707.12649,NZ,Auckland Institute and Museum,MUSEUM
+37,TARI,ZooKeys,10.3897/zookeys.705.10296;10.3897/zookeys.857.34465;10.3897/zookeys.856.30838;10.3897/zookeys.912.47719;10.3897/zookeys.990.55542;10.3897/zookeys.993.53805;10.3897/zookeys.568.7125,TW,Taiwan Agricultural Research Institute,
+79,CEMT,ZooKeys,10.3897/zookeys.702.14728;10.3897/zookeys.699.12031;10.3897/zookeys.1001.58447;10.3897/zookeys.747.22731;10.3897/zookeys.743.23029;10.3897/zookeys.999.53130,,,
+72,ACUA,ZooKeys,10.3897/zookeys.701.13261;10.3897/zookeys.582.7684,,,
+137,DZUP,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.699.12031;10.3897/zookeys.854.35133;10.3897/zookeys.541.6297;10.3897/zookeys.677.12435;10.3897/zookeys.631.10718;10.3897/zookeys.628.9805;10.3897/jhr.79.57686;10.3897/zookeys.1001.58447;10.3897/zookeys.1005.57629;10.3897/zookeys.566.7344;10.3897/zookeys.566.6982;10.3897/jhr.81.60048,BR,"Universidade Federal do Parana, Colecao de Entomologia Pe. Jesus Santiago Moure",UNIVERSITY_COLLEGE
+3,MLPA,ZooKeys,10.3897/zookeys.699.12031,,,
+20,ZMHB,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.699.12031;10.3897/zookeys.879.37721;10.3897/zookeys.667.6080;10.3897/zookeys.537.6115;10.3897/zookeys.635.9915;10.3897/zookeys.609.9327;10.3897/nl.39.9090,DE,Museum fuer Naturkunde der Humboldt-Universitat,
+5,MLUH,ZooKeys,10.3897/zookeys.699.12031,DE,Martin Luther Universitaet,
+22,SDEI,ZooKeys;Journal of Hymenoptera Research;Deutsche Entomologische Zeitschrift,10.3897/zookeys.699.12031;10.3897/zookeys.664.11881;10.3897/zookeys.973.51435;10.3897/jhr.74.39299;10.3897/dez.68.60611;10.3897/jhr.72.38908;10.3897/jhr.72.39339;10.3897/zookeys.639.10893,DE,Senckenberg Deutsches Entomologisches Institut,OTHER_TYPE_RESEARCH_INSTITUTION_BIOREPOSITORY
+16,FLMNH,Zoosystematics and Evolution;ZooKeys,10.3897/zse.95.33880;10.3897/zookeys.527.6087;10.3897/zookeys.533.6004,US,Florida Museum of Natural History,MUSEUM
+3,MNHNP,Zoosystematics and Evolution,10.3897/zse.94.21754,,Museo Nacional de Historia Natural del Paraguay,
+2,MCP,Zoosystematics and Evolution,10.3897/zse.94.22106,BR,Pontificia Universidade Catolica do Rio Grande do Sul,
+19,SANC,ZooKeys,10.3897/zookeys.879.37721;10.3897/zookeys.688.13632;10.3897/zookeys.963.53470;10.3897/zookeys.558.6112,ZA,Agricultural Research Council-Plant Protection Research Institute,MUSEUM
+19,ISAM,ZooKeys,10.3897/zookeys.879.37721;10.3897/zookeys.848.34207;10.3897/zookeys.688.13632;10.3897/zookeys.963.53470,,,
+9,ISEA,ZooKeys,10.3897/zookeys.876.36743;10.3897/zookeys.662.11267;10.3897/zookeys.620.9372,,,
+1,ISB,ZooKeys,10.3897/zookeys.876.36743,RO,"Institute of Spelology ""Emile Racovita""",
+1,RAM,ZooKeys,10.3897/zookeys.871.35974,US,Raymond M. Alf Museum of Paleontology,MUSEUM
+3,HAU,ZooKeys,10.3897/zookeys.867.36247;10.3897/zookeys.760.22595;10.3897/zookeys.736.20739,,,
+3,NHT,PhytoKeys,10.3897/phytokeys.63.6262,TZ,Tropical Pesticides Research Institute,HERBARIUM
+4,DSM,PhytoKeys,10.3897/phytokeys.63.6262;10.3897/phytokeys.174.61630,DE,Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH,
+3,OWU,PhytoKeys,10.3897/phytokeys.63.6262,US,Ohio Wesleyan University Museum of Natural History,MUSEUM
+3,TFD,PhytoKeys,10.3897/phytokeys.63.6262,TZ,Tanzania Forestry Research Institute,HERBARIUM
+7,IBSC,PhytoKeys,10.3897/phytokeys.63.8016;10.3897/phytokeys.146.50728;10.3897/phytokeys.171.59562;10.3897/phytokeys.171.57277,CN,South China Botanical Garden,HERBARIUM
+2,BUPL,PhytoKeys,10.3897/phytokeys.63.7743;10.3897/phytokeys.61.6995,US,Bucknell University,HERBARIUM
+4,PERTH,PhytoKeys,10.3897/phytokeys.63.7743;10.3897/phytokeys.151.51909,AU,Western Australian Herbarium,HERBARIUM
+2,CONN,PhytoKeys,10.3897/phytokeys.63.7743;10.3897/phytokeys.61.6995,US,University of Connecticut,HERBARIUM
+1,ISTE,PhytoKeys,10.3897/phytokeys.63.8033,TR,University of Istanbul,HERBARIUM
+3,CDBI,PhytoKeys,10.3897/phytokeys.62.8101;10.3897/phytokeys.161.53010,CN,"Chengdu Institute of Biology, Chinese Academy of Sciences",HERBARIUM
+13,BKF,PhytoKeys,10.3897/phytokeys.62.7974;10.3897/phytokeys.65.8792;10.3897/phytokeys.65.7403;10.3897/phytokeys.58.6816;10.3897/phytokeys.57.6347,TH,"Department of National Parks, Wildlife and Plant Conservation",HERBARIUM
+7,QCA,PhytoKeys,10.3897/phytokeys.62.7953;10.3897/phytokeys.56.5306;10.3897/phytokeys.160.54993,,,
+1,ID,PhytoKeys,10.3897/phytokeys.62.7953,US,University of Idaho,HERBARIUM
+2,MH,PhytoKeys,10.3897/phytokeys.62.7623,IN,Tamil Nadu Agricultural University Campus at Coimbatore,HERBARIUM
+1,GOET,PhytoKeys,10.3897/phytokeys.62.7548,DE,Universität Göttingen,HERBARIUM
+5,BO,PhytoKeys,10.3897/phytokeys.62.7548;10.3897/phytokeys.61.7590,ID,Research Centre for Biology,HERBARIUM
+1,CEB,PhytoKeys,10.3897/phytokeys.62.7548,ID,Tadulako University,HERBARIUM
+1,FB,PhytoKeys,10.3897/phytokeys.62.7548,DE,Albert-Ludwigs Universität,HERBARIUM
+2,PUH,PhytoKeys,10.3897/phytokeys.61.7295,PH,University of the Philippines,HERBARIUM
+8,BHCB,PhytoKeys,10.3897/phytokeys.61.7258;10.3897/phytokeys.57.6489,BR,Universidade Federal de Minas Gerais,HERBARIUM
+2,DNA,PhytoKeys,10.3897/phytokeys.61.6995;10.3897/phytokeys.124.33526,AU,Department of Environment Parks and Water Security,HERBARIUM
+1,CTM,PhytoKeys,10.3897/phytokeys.61.6995,TN,Centre de Biotechnologie de Sfax culture collection,
+1,AMES,PhytoKeys,10.3897/phytokeys.58.6479,US,Harvard University,HERBARIUM
+1,AMO,PhytoKeys,10.3897/phytokeys.58.6479,MX,"Instituto Chinoin, A.C.",HERBARIUM
+1,CICY,PhytoKeys,10.3897/phytokeys.58.6479,MX,"Centro de Investigación Científica de Yucatán, A.C. (CICY)",HERBARIUM
+3,TI,PhytoKeys,10.3897/phytokeys.58.5292,JP,"Herbarium of the Department of Botany, University of Tokyo",
+4,BNM,PhytoKeys,10.3897/phytokeys.58.5292,CH,"Bündner Naturmuseum, Chur",MUSEUM
+3,C,PhytoKeys,10.3897/phytokeys.57.6489,DK,University of Copenhagen,HERBARIUM
+3,P,PhytoKeys,10.3897/phytokeys.57.6489,,,
+1,UFP,PhytoKeys,10.3897/phytokeys.57.6489,BR,Universidade Federal de Pernambuco,HERBARIUM
+2,AS,PhytoKeys,10.3897/phytokeys.57.5784,DE,Paleontological Collection,
+1,CEPEC,PhytoKeys,10.3897/phytokeys.57.5784,BR,"CEPEC, CEPLAC e Universidade Federal do Sul da Bahia",HERBARIUM
+1,LCU,PhytoKeys,10.3897/phytokeys.57.5784,US,Catholic University of America,HERBARIUM
+2,TCD,PhytoKeys,10.3897/phytokeys.57.5339,IE,Trinity College,HERBARIUM
+2,TEFH,PhytoKeys,10.3897/phytokeys.57.5339,HN,Universidad Nacional Autónoma de Honduras,HERBARIUM
+3,HUB,PhytoKeys,10.3897/phytokeys.56.5755;10.3897/phytokeys.65.8571,TR,Hacettepe University,HERBARIUM
+1,KNYA,PhytoKeys,10.3897/phytokeys.56.5755,TR,Selçuk University,HERBARIUM
+5,AAU,PhytoKeys,10.3897/phytokeys.56.5306,ET,"Addis Ababa University, Department of Biology",
+50,HA,PhytoKeys;ZooKeys,10.3897/phytokeys.56.5306;10.3897/zookeys.769.25258;10.3897/zookeys.523.6114;10.3897/zookeys.529.6139,EC,Universidad del Azuay,HERBARIUM
+5,QCNE,PhytoKeys,10.3897/phytokeys.56.5306,EC,Museo Ecuatoriano de Ciencias Naturales del Instituto Nacional de Biodiversidad,HERBARIUM
+4,MARY,PhytoKeys,10.3897/phytokeys.134.37979,US,University of Maryland,HERBARIUM
+1,MBFU,ZooKeys,10.3897/zookeys.862.34280,,,
+15,SBMNH,ZooKeys;Subterranean Biology,10.3897/zookeys.860.33597;10.3897/zookeys.860.19961;10.3897/zookeys.622.9411;10.3897/zookeys.615.8125;10.3897/zookeys.601.9040;10.3897/subtbiol.38.64762,US,Santa Barbara Museum of Natural History,MUSEUM
+2,NBC,ZooKeys,10.3897/zookeys.858.34663;10.3897/zookeys.906.48501,,,
+2,FSUNS,ZooKeys,10.3897/zookeys.858.34663,,"Faculty of Science, The University of Novi Sad",
+18,SZPT,ZooKeys,10.3897/zookeys.857.29011;10.3897/zookeys.852.31611;10.3897/zookeys.993.53805,CN,Shenzhen Polytechnic,
+16,KPMNH,ZooKeys,10.3897/zookeys.855.35677;10.3897/zookeys.990.55542,,,
+2,HWML,ZooKeys,10.3897/zookeys.852.28964,US,Howard W. Manter Laboratory of Parasitology,
+2,CHE,ZooKeys,10.3897/zookeys.852.28964,FR,Société Nationale des Sciences Naturelles et Mathématiques de Cherbourg,HERBARIUM
+2,NMN,ZooKeys,10.3897/zookeys.851.31802,GB,Northamptonshire Natural History Society,HERBARIUM
+21,NCSM,ZooKeys,10.3897/zookeys.846.33200;10.3897/zookeys.1030.62544,US,North Carolina Museum of Natural Sciences,MUSEUM
+20,MVZ,ZooKeys,10.3897/zookeys.846.33200;10.3897/zookeys.562.6124,US,"Museum of Vertebrate Zoology, University of California Berkeley",MUSEUM
+17,NUOL,ZooKeys,10.3897/zookeys.846.33200;10.3897/zookeys.589.7933,,,
+1,MAKURIWA,ZooKeys,10.3897/zookeys.846.31497,,,
+1,IINH,ZooKeys,10.3897/zookeys.845.32428,,,
+2,DZUC,ZooKeys,10.3897/zookeys.841.33549,PT,Departamento de Zoologia da Universidade de Coimbra,
+4,BIOUG,ZooKeys,10.3897/zookeys.841.33549;10.3897/zookeys.628.9805;10.3897/zookeys.1024.60393,CA,Centre for Biodiversity Genomics,UNIVERSITY_COLLEGE
+2,NWU,ZooKeys,10.3897/zookeys.841.32364,US,Northwestern University,HERBARIUM
+10,CBNUIC,ZooKeys,10.3897/zookeys.695.19906;10.3897/zookeys.1033.59558,,,
+2,UNHC,ZooKeys,10.3897/zookeys.688.19867,,,
+5,BYU,ZooKeys,10.3897/zookeys.528.6001,US,"Brigham Young University, Monte L. Bean Life Science Museum",UNIVERSITY_COLLEGE
+1,NMSU,ZooKeys,10.3897/zookeys.528.6001,,"New Mexico State University, Collection of Arthropods",
+16,UMS,ZooKeys,10.3897/zookeys.531.6097,MY,Universiti Malaysia Sabah,
+13,WIBF,ZooKeys,10.3897/zookeys.532.6587;10.3897/zookeys.537.6115;10.3897/zookeys.690.13751,US,West Indian Beetle Fauna Project Collection,UNIVERSITY_COLLEGE
+5,USGS,ZooKeys,10.3897/zookeys.539.6108;10.3897/zookeys.544.6074;10.3897/zookeys.562.7310,,USGS Patuxent Wildlife Research Center,
+2,NMB,ZooKeys,10.3897/zookeys.539.6108,CH,Naturhistorisches Museum Basel,MUSEUM
+1,BAB,PhytoKeys,10.3897/phytokeys.71.9203,AR,Instituto Nacional de Tecnología Agropecuaria,HERBARIUM
+11,IECA,ZooKeys,10.3897/zookeys.803.28903;10.3897/zookeys.963.54714,CZ,"Biology Centre of the Academy of Sciences of the Czech Republic, Institute of Entomology",OTHER_INSTITUTIONAL_TYPE
+10,MTQ,ZooKeys,10.3897/zookeys.695.13771;10.3897/zookeys.763.21252;10.3897/zookeys.733.20474;10.3897/zookeys.594.7539;10.3897/zookeys.646.11397,,,
+1,ASIZ,ZooKeys,10.3897/zookeys.694.14871,,,
+22,SNUC,ZooKeys,10.3897/zookeys.694.13802;10.3897/zookeys.775.22620;10.3897/zookeys.522.6109;10.3897/zookeys.740.20458;10.3897/zookeys.852.31611;10.3897/zookeys.846.32568;10.3897/zookeys.539.6256;10.3897/zookeys.568.7622;10.3897/zookeys.664.11881;10.3897/zookeys.592.8769;10.3897/zookeys.663.11635;10.3897/zookeys.987.53648,,,
+1,MMUM,ZooKeys,10.3897/zookeys.693.14769,,,
+5,MCZC,ZooKeys,10.3897/zookeys.693.13012;10.3897/zookeys.1010.58436;10.3897/zookeys.616.9532,,,
+1,IREC,ZooKeys,10.3897/zookeys.690.13751,GP,Institut de Recherches Entomologique de la Caribe,
+1,IZAC,ZooKeys,10.3897/zookeys.690.13751,CU,"Academia de Ciencias de Cuba, Instituto de Zoologia",
+2,DMSA,ZooKeys,10.3897/zookeys.688.13632,ZA,Durban Natural Science Museum,MUSEUM
+2,CBSS,ZooKeys,10.3897/zookeys.687.13844,,,
+19,SNHM,ZooKeys,10.3897/zookeys.686.11468;10.3897/zookeys.620.9372;10.3897/zookeys.789.27356;10.3897/zookeys.754.24210;10.3897/zookeys.740.20458;10.3897/zookeys.879.34404;10.3897/zookeys.534.6036;10.3897/zookeys.604.8737;10.3897/zookeys.1003.60210,,Schiele Museum of Natural History,
+2,ZAFU,ZooKeys,10.3897/zookeys.682.11767;10.3897/zookeys.991.47725,,,
+7,ASUHIC,ZooKeys,10.3897/zookeys.679.12805,,,
+3,BellMNH,ZooKeys,10.3897/zookeys.679.13472;10.3897/zookeys.601.9040,,,
+1,UPOL,ZooKeys,10.3897/zookeys.669.12608,CZ,University Palacky Olomouc,
+1,IUQ,ZooKeys,10.3897/zookeys.668.11489,CO,Laboratorio de Ictiologia,
+6,IZBE,ZooKeys,10.3897/zookeys.668.11350;10.3897/zookeys.1026.63749,EE,Institute of Zoology and Botany,
+1,UMKL,ZooKeys,10.3897/zookeys.665.11609,MY,University of Malaysia,
+15,NEFU,ZooKeys,10.3897/zookeys.662.11809;10.3897/zookeys.985.54047;10.3897/zookeys.584.8129;10.3897/zookeys.1017.62256;10.3897/zookeys.1023.61580,,,
+7,VI,ZooKeys,10.3897/zookeys.658.10928,NO,"Mykotektet, National Veterinary Institute",
+2,UV,ZooKeys,10.3897/zookeys.658.10928,CO,Departamento de Biologia de la Universidad del Valle,
+2,CI,ZooKeys,10.3897/zookeys.658.10928,US,Carnegie Institution of Washington,HERBARIUM
+6,ENT,ZooKeys,10.3897/zookeys.658.10928,UG,Ministry of Natural Resources,HERBARIUM
+11,YNU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.657.11630;10.3897/jhr.74.39299;10.3897/zookeys.562.7303,JP,Yokohama National University,HERBARIUM
+2,UFRN,MycoKeys,10.3897/mycokeys.62.39699,BR,Universidade Federal do Rio Grande do Norte,HERBARIUM
+2,LJF,MycoKeys,10.3897/mycokeys.62.39699,SI,Slovenian Forestry Institute,HERBARIUM
+5,NTNU,ZooKeys,10.3897/zookeys.915.46980;10.3897/zookeys.992.55977,CN,National Taiwan Normal University,
+2,KKU,ZooKeys,10.3897/zookeys.911.38496,TH,"Herbarium, Department of Biology, Khon Kaen University",
+44,MTD,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.907.36563;10.3897/nl.39.9090,DE,Museum of Zoology Senckenberg Dresden,
+27,MFNB,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.907.36563;10.3897/zookeys.901.39432;10.3897/zookeys.963.54714;10.3897/dez.63.7178,IT,Museo Friulano di Storia Naturale,
+1,NBCB,ZooKeys,10.3897/zookeys.906.48501,,,
+6,LAH,MycoKeys,10.3897/mycokeys.39.26743;10.3897/mycokeys.69.33563,PK,University of the Punjab,HERBARIUM
+17,YMF,MycoKeys,10.3897/mycokeys.40.23828;10.3897/mycokeys.73.54054;10.3897/mycokeys.48.32147;10.3897/mycokeys.44.30295;10.3897/mycokeys.80.64624;10.3897/mycokeys.76.57410,CN,Key Laboratory of Industrial Microbiology & Fermentation Technology,
+5,CPC,MycoKeys;ZooKeys,10.3897/mycokeys.40.28636;10.3897/zookeys.566.7344,NL,Culture collection of Pedro Crous,
+5,BJTC,MycoKeys,10.3897/mycokeys.67.50068;10.3897/mycokeys.60.46645,CN,Capital Normal University,HERBARIUM
+1,MBCG,Nota Lepidopterologica,10.3897/nl.38.5058,IT,"Museo di Scienze Naturali ""Enrico Caffi""",
+1,ZSMC,Journal of Orthoptera Research,10.3897/jor.29.51328,DE,Zoologische Staatssammlung,
+2,SNU,ZooKeys,10.3897/zookeys.546.6335,,,
+11,NRM,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.552.5956;10.3897/zookeys.596.8332;10.3897/zse.95.31488,SE,Swedish Museum of Natural History - Zoological Collections,MUSEUM
+1,AUM,ZooKeys,10.3897/zookeys.552.5956,US,"Auburn University Museum of Natural History, Entomological Museum",
+1,SY,ZooKeys,10.3897/zookeys.554.6306,CN,Shenyang Municipal Academy of Landscape Gardening,HERBARIUM
+5,NBM,ZooKeys,10.3897/zookeys.573.7878;10.3897/zookeys.573.7016,CA,New Brunswick Museum,HERBARIUM
+1,IOCAS,ZooKeys,10.3897/zookeys.577.6295,CN,"Institute of Oceanology, Chinese Academy of Scineces",
+12,OLML,ZooKeys,10.3897/zookeys.577.7301;10.3897/zookeys.1010.58759,AT,Oberösterreichisches Landesmuseum,MUSEUM
+2,CCDB,ZooKeys,10.3897/zookeys.577.7301,BR,Crustacean Collection of the Department of Biology,
+3,NARI,ZooKeys,10.3897/zookeys.577.7254;10.3897/zookeys.571.7356,PG,National Agricultural Research Institute,
+1,MZPW,ZooKeys,10.3897/zookeys.595.7569,PL,"Polish Academy of Science, Museum of the Institute of Zoology",
+1,FRCS,ZooKeys,10.3897/zookeys.596.8525,MY,Forest Research Centre,
+8,UASB,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.597.7520;10.3897/dez.66.47447,IO,University of Agricultural Sciences,
+4,INPC,ZooKeys,10.3897/zookeys.597.7520,IO,National Pusa Collections,
+10,ULLZ,ZooKeys,10.3897/zookeys.825.32271,US,"University of Louisiana at Layafette, Zoological Collection",
+4,MOUFPE,ZooKeys,10.3897/zookeys.825.32271,BR,Oceanographic Museum of the Federal University of Pernambuco,
+3,OSAKA,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.938.51614;10.3897/JHR.46.5849,,,
+1,MEU,ZooKeys,10.3897/zookeys.944.49921,,,
+5,UCZM,ZooKeys,10.3897/zookeys.944.49921,,,
+2,IZ-CAS,ZooKeys,10.3897/zookeys.945.53480;10.3897/zookeys.1037.67300,,,
+22,PBZT,ZooKeys,10.3897/zookeys.949.51269,MG,Parc Botanique et Zoologique de Tsimbazaza,
+6,SICAU,MycoKeys,10.3897/mycokeys.70.54231;10.3897/mycokeys.46.32458,,,
+3,MHND,ZooKeys,10.3897/zookeys.955.53644;10.3897/zookeys.959.53415,,,
+12,IBE,ZooKeys,10.3897/zookeys.963.53470,ES,"Institut de Biologia Evolutiva, (CSIC-UPF)",
+15,AMG,ZooKeys,10.3897/zookeys.963.53470,ZA,Albany Museum,
+35,NIBR,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.712.14955;10.3897/zookeys.999.58747;10.3897/jhr.74.39299;10.3897/zookeys.1010.59915;10.3897/zookeys.1033.59558;10.3897/zookeys.991.55370,KR,National Institute of Biological Resources,
+5,KAUM,ZooKeys,10.3897/zookeys.712.14955,JP,Kagoshima University Museum,
+5,FAKU,ZooKeys,10.3897/zookeys.712.14955,JP,Kyoto University,UNIVERSITY_COLLEGE
+3,CBU,PhytoKeys,10.3897/phytokeys.161.53019,CA,Cape Breton University,
+3,KWNU,PhytoKeys,10.3897/phytokeys.161.53019,KR,Kangwon National University,HERBARIUM
+16,CMN,ZooKeys,10.3897/zookeys.681.12522;10.3897/zookeys.743.23029,CA,Canadian Museum of Nature,MUSEUM
+15,MNHNSD,ZooKeys,10.3897/zookeys.681.12522,DO,"Museo Nacional de Historia Natural, Santo Domingo",
+17,SBNM,ZooKeys,10.3897/zookeys.681.12522,,,
+3,MZNA,ZooKeys,10.3897/zookeys.681.12942;10.3897/zookeys.989.52361,ES,"Universidad de Navarra, Museum of Zoology",UNIVERSITY_COLLEGE
+3,SMNG,ZooKeys,10.3897/zookeys.681.12942;10.3897/zookeys.1021.63147,DE,Senckenberg Museum fuer Naturkunde Goerlitz,
+5,CLEV,ZooKeys,10.3897/zookeys.680.11162,US,Cleveland Museum of Natural History,MUSEUM
+4,ZMTAU,ZooKeys,10.3897/zookeys.676.12751;10.3897/zookeys.680.12727;10.3897/zookeys.581.7455;10.3897/zookeys.567.7212,,,
+3,UMZC,ZooKeys,10.3897/zookeys.675.13252;10.3897/zookeys.522.10294,GB,University Museum of Zoology Cambridge,
+3,IFML,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.674.11435;10.3897/jhr.61.20742,,,
+5,DIBEC,ZooKeys,10.3897/zookeys.673.12084;10.3897/zookeys.737.21191;10.3897/zookeys.1021.63147,,,
+2,ITBCZ,ZooKeys,10.3897/zookeys.672.10624,,,
+20,LKCNHM,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.661.10677;10.3897/zookeys.798.28107;10.3897/JHR.50.8652;10.3897/zookeys.743.22696;10.3897/zookeys.551.6686;10.3897/zookeys.636.10592;10.3897/zookeys.627.8629;10.3897/zookeys.618.9451,SG,"Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore, Singapore",MUSEUM
+3,IWU,ZooKeys,10.3897/zookeys.660.11394;10.3897/zookeys.774.25332;10.3897/zookeys.645.11221,,,
+3,NMP6V,ZooKeys,10.3897/zookeys.660.11394;10.3897/zookeys.774.25332;10.3897/zookeys.645.11221,,,
+6,SAIAB,ZooKeys,10.3897/zookeys.657.11076;10.3897/zookeys.641.10434;10.3897/zookeys.979.56863,ZA,South African Institute for Aquatic Biodiversity,OTHER_TYPE_RESEARCH_INSTITUTION_BIOREPOSITORY
+2,MAGNT,ZooKeys,10.3897/zookeys.653.11177,AU,Museum and Art Gallery of the Northern Territory,MUSEUM
+2,ABTC,ZooKeys,10.3897/zookeys.653.11177,AU,"Australian Biological Tissue Collection, South Australian Museum",MUSEUM
+6,MAIC,ZooKeys,10.3897/zookeys.648.10935,GR,CIHEAM Mediterranean Agronomic Institute of Chania,HERBARIUM
+1,DOA,ZooKeys,10.3897/zookeys.647.10960,TH,"Department Of Agriculture, Thailand",
+3,QDPI,ZooKeys,10.3897/zookeys.646.10912,AU,Queensland Department of Primary Industries,
+1,ZMUA,ZooKeys,10.3897/zookeys.640.10674,GR,Zoological Museum of the University of Athens,MUSEUM
+1,UOA,ZooKeys,10.3897/zookeys.640.10674,GR,UOA/HCPF University of Athens/Hellenic Collection of Pathogenic Fungi,MEDICAL_RESEARCH_INSTITUTE
+21,NMS,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.639.10893;10.3897/jhr.82.64657;10.3897/jhr.72.39339,GB,National Museum of Scotland - Natural Sciences,MUSEUM
+2,MUSA,Nota Lepidopterologica;ZooKeys,10.3897/nl.43.54177;10.3897/zookeys.996.53958,,"Universidad Nacional de San Agustin, Museo de Historia Natural (Peru)",
+3,SHSU,ZooKeys,10.3897/zookeys.973.54026,,"Sam Houston State University, Vertebrate Natural History Collection",
+1,NAU,ZooKeys,10.3897/zookeys.974.55528,CN,Nanjing Agricultural University,HERBARIUM
+2,CUVC,PhytoKeys,10.3897/phytokeys.162.55891,CO,Universidad del Valle,HERBARIUM
+4,ECOCH,ZooKeys,10.3897/zookeys.637.10276;10.3897/zookeys.603.7480,MX,"Museo de Zoologia - El Colegio de la Frontera Sur, Chetumal",MUSEUM
+4,HBUM,ZooKeys,10.3897/zookeys.635.9915;10.3897/zookeys.765.24395,CN,"College of Life Sciences Hebei Univesity, Baoding",
+2,SSUC,ZooKeys,10.3897/zookeys.632.9528,CL,Pontificia Universidad Católica de Chile,HERBARIUM
+3,MEX,ZooKeys,10.3897/zookeys.626.10033,MX,Museo de Historia Natural de la Ciudad de México,HERBARIUM
+11,HNU,ZooKeys,10.3897/zookeys.626.7485;10.3897/zookeys.1009.57857;10.3897/zookeys.1023.62025;10.3897/zookeys.1034.60411;10.3897/zookeys.1037.62916,CN,Hunan Normal University,
+1,ANU,ZooKeys,10.3897/zookeys.625.9846,AU,Australian National University,
+1,MPSU,ZooKeys,10.3897/zookeys.620.9372,TH,"Department of Microbiology, Songkla University",
+16,RGM,ZooKeys,10.3897/zookeys.619.10043;10.3897/zookeys.770.25365,NL,"Naturalis Biodiversity Center, Geology & Paleontology Collections",MUSEUM
+3,UNSM,ZooKeys,10.3897/zookeys.617.9178,US,University of Nebraska State Museum,
+8,CIRAD,ZooKeys,10.3897/zookeys.615.9179,FR,Centre de Cooperation Internationale en Recherche Agronomique pour le Developpement,
+4,AHF,ZooKeys,10.3897/zookeys.615.9530,US,"Allan Hancock Foundation, University of Southern California",
+1,MZFC,ZooKeys,10.3897/zookeys.610.8605,MX,"Museo de Zoologia ""Alfonso L. Herrera""",
+3,SMOC,ZooKeys,10.3897/zookeys.609.9459;10.3897/zookeys.549.6925,CZ,Slezske Muzeum Opava,
+1,ZMFUM,ZooKeys,10.3897/zookeys.980.50934,,,
+2,NNU,ZooKeys,10.3897/zookeys.980.52186,,,
+10,PEM,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.979.56863;10.3897/zse.97.57202;10.3897/zookeys.1023.53404,ZA,Port Elizabeth Museum,MUSEUM
+3,MHNCUP,ZooKeys,10.3897/zookeys.979.56863,,,
+4,GZAC,MycoKeys,10.3897/mycokeys.74.56655;10.3897/mycokeys.80.66794,CN,Guizhou Agricultural College,HERBARIUM
+8,MUCL,MycoKeys,10.3897/mycokeys.74.57824;10.3897/mycokeys.66.50946;10.3897/mycokeys.39.27014,,,
+10,PRA,MycoKeys,10.3897/mycokeys.74.57824,CZ,"Institute of Botany, Academy of Sciences",HERBARIUM
+47,NIAES,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.990.55542;10.3897/zookeys.578.7424;10.3897/jhr.80.56178;10.3897/zookeys.1028.61018;10.3897/JHR.45.5301;10.3897/zookeys.995.55981,JP,National Institute for Agro-Environmental Sciences,
+17,EUM,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.990.55542;10.3897/jhr.53.11027,,,
+1,PERC,ZooKeys,10.3897/zookeys.989.53018,US,Purdue Entomological Research Collection,UNIVERSITY_COLLEGE
+4,CEUA,ZooKeys,10.3897/zookeys.988.49627;10.3897/zookeys.1036.64230,,,
+6,ZJU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.987.55317;10.3897/jhr.81.61892;10.3897/zookeys.843.31885,CN,Zhejiang University College of Sciences,
+16,UIMNH,ZooKeys,10.3897/zookeys.985.56974;10.3897/zookeys.562.6124,US,"University of Illinois, Museum of Natural History",MUSEUM
+2,CSFI,PhytoKeys,10.3897/phytokeys.166.55731,CN,Central-South Forestry University,HERBARIUM
+2,LE,PhytoKeys,10.3897/phytokeys.166.55731,BR,Servico de Microbiologia e Imunologia,
+5,ZMUO,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.992.53975;10.3897/jhr.72.39339,FI,University of Oulu Zoological Museum,MUSEUM
+5,DZUL,Subterranean Biology,10.3897/subtbiol.34.50231;10.3897/subtbiol.38.61733,ES,"Departamento de Zoologia, Universidad de La Laguna",
+2,KB,PhytoKeys,10.3897/phytokeys.77.11345,KR,National Institute of Biological Resources,HERBARIUM
+2,CB,PhytoKeys,10.3897/phytokeys.77.11345,AU,The CB Rhizobium Collection,
+5,RUPP,PhytoKeys;ZooKeys,10.3897/phytokeys.77.11345;10.3897/zookeys.1018.61033,KH,Royal University of Phnom Penh,HERBARIUM
+2,HHU,PhytoKeys,10.3897/phytokeys.77.11345,KR,Hallym University,
+2,KRIB,PhytoKeys,10.3897/phytokeys.77.11345,KR,Korea Research Institute of Bioscience and Biotechnology,HERBARIUM
+2,CHR,PhytoKeys,10.3897/phytokeys.75.10328,NZ,Manaaki Whenua - Landcare Research,HERBARIUM
+2,AK,PhytoKeys,10.3897/phytokeys.75.10328,NZ,Auckland War Memorial Museum,HERBARIUM
+2,WELT,PhytoKeys,10.3897/phytokeys.75.10328,NZ,Museum of New Zealand Te Papa Tongarewa,HERBARIUM
+2,WAIK,PhytoKeys,10.3897/phytokeys.75.10328,NZ,University of Waikato,HERBARIUM
+2,HUTB,PhytoKeys,10.3897/phytokeys.157.50246,CN,Hainan University,HERBARIUM
+2,JIU,PhytoKeys,10.3897/phytokeys.156.49137,CN,Jishou University,HERBARIUM
+2,GXMG,PhytoKeys,10.3897/phytokeys.153.52796,CN,Guangxi Medicinal Botanic Garden,HERBARIUM
+22,IOZ,ZooKeys,10.3897/zookeys.995.55981;10.3897/zookeys.545.6111,,,
+20,UFFE,ZooKeys,10.3897/zookeys.995.55981,,,
+1,NMP-P6V,ZooKeys,10.3897/zookeys.994.56277,,,
+1,UVGC,ZooKeys,10.3897/zookeys.993.49434,GT,Collecion de Artropodos,
+1,ECO-SC,ZooKeys,10.3897/zookeys.993.49434,,,
+2,MZLQ,Subterranean Biology,10.3897/subtbiol.36.54034;10.3897/subtbiol.27.25777,,,
+3,AD,PhytoKeys,10.3897/phytokeys.151.51909,AU,State Herbarium of South Australia,HERBARIUM
+2,HIB,PhytoKeys,10.3897/phytokeys.167.58538,CN,Wuhan Institute of Botany,HERBARIUM
+6,CBF,Zoosystematics and Evolution,10.3897/zse.96.55210;10.3897/zse.97.64766,BO,Coleccion Boliviana de Fauna,
+1,NUPEM,Zoosystematics and Evolution,10.3897/zse.96.56097,BR,Instituto de Biodiversidade e Sustentabilidade,
+2,CERPE,ZooKeys,10.3897/zookeys.999.53130;10.3897/zookeys.1001.58447,,,
+4,MNB,ZooKeys,10.3897/zookeys.999.58747,DE,Museum fuer Naturkunde der Humboldt-Universitaet,
+5,EIHU,ZooKeys,10.3897/zookeys.999.58747,,,
+5,MIIZ,ZooKeys,10.3897/zookeys.999.58747,,,
+1,BC,MycoKeys,10.3897/mycokeys.73.47287,ES,Institut Botànic de Barcelona,HERBARIUM
+10,IFP,MycoKeys,10.3897/mycokeys.72.51872;10.3897/mycokeys.66.49910;10.3897/mycokeys.78.57823;10.3897/mycokeys.29.21250;10.3897/mycokeys.51.33262,CN,"Institute of Applied Ecology, Academia Sinica",HERBARIUM
+4,MHHNU,MycoKeys,10.3897/mycokeys.70.54149,,,
+4,FH,MycoKeys,10.3897/mycokeys.69.33563,,Fort Hays,
+4,TUR,MycoKeys,10.3897/mycokeys.68.50035,FI,University of Turku,HERBARIUM
+4,WIN,MycoKeys,10.3897/mycokeys.68.50035,CA,University of Manitoba,HERBARIUM
+3,UTHSC,MycoKeys,10.3897/mycokeys.68.51667;10.3897/mycokeys.78.60063,,University of Texas Health Science Center,
+7,GACP,MycoKeys,10.3897/mycokeys.49.31904;10.3897/mycokeys.78.61836,CN,Guizhou Agricultural College,HERBARIUM
+6,SICAUCC,MycoKeys,10.3897/mycokeys.46.32458;10.3897/mycokeys.70.54231,,,
+1,NBRC,MycoKeys,10.3897/mycokeys.44.29742,JP,NITE Biological Resource Center,
+21,FMR,MycoKeys,10.3897/mycokeys.44.29742;10.3897/mycokeys.68.51667;10.3897/mycokeys.77.60862,ES,Facultad de Medicina,
+9,CESP,ZooKeys,10.3897/zookeys.1001.58447,,,
+3,UNESP,ZooKeys,10.3897/zookeys.1001.58447;10.3897/zookeys.675.12024;10.3897/zookeys.621.9662,,,
+1,GLM,MycoKeys,10.3897/mycokeys.41.28454,DE,Senckenberg Gesellschaft für Naturforschung: Senckenberg Museum für Naturkunde Görlitz,HERBARIUM
+2,MHU,Journal of Orthoptera Research,10.3897/jor.29.49821,UG,Makerere University,HERBARIUM
+4,NPC,Deutsche Entomologische Zeitschrift,10.3897/dez.66.47447,,,
+1,NMWC,Deutsche Entomologische Zeitschrift,10.3897/dez.67.46662,GB,National Museum of Wales,MUSEUM
+7,HUJ,ZooKeys,10.3897/zookeys.605.8060,IL,Hebrew University,HERBARIUM
+3,YZU,ZooKeys;MycoKeys,10.3897/zookeys.604.8203;10.3897/mycokeys.78.64853,CN,Yuzhou University,HERBARIUM
+7,NZMC,ZooKeys,10.3897/zookeys.1003.56563;10.3897/zookeys.623.10205;10.3897/zookeys.612.7873;10.3897/zookeys.1028.61018,,,
+5,MHNC,ZooKeys,10.3897/zookeys.594.8295;10.3897/zookeys.563.6084,,Museo de Historia Natural de Concepcion (Chile),
+10,UPNG,ZooKeys,10.3897/zookeys.582.7709,PG,University of Papua New Guinea,HERBARIUM
+3,FML,ZooKeys,10.3897/zookeys.588.7906;10.3897/zookeys.865.32878,AR,Fundacion Miguel Lillo,
+2,ISER,ZooKeys,10.3897/zookeys.1004.58537,RO,Institutul Speologie Emil G. Racovita,
+1,NSPM,ZooKeys,10.3897/zookeys.573.7016,CA,"The Nova Scotia Museum of Natural History, Collections",HERBARIUM
+1,JCMC,ZooKeys,10.3897/zookeys.1005.57629,,,
+8,KPM,ZooKeys,10.3897/zookeys.568.7733;10.3897/zookeys.712.14955,JP,Kanagawa Prefectural Museum of Natural History,HERBARIUM
+3,TKPM,ZooKeys,10.3897/zookeys.568.7733,JP,Tokushima Prefectural Museum,HERBARIUM
+12,CPAC,ZooKeys,10.3897/zookeys.566.6982,BR,Centro de Pesquisas Agropecuarias do Cerrado,
+16,MSB,ZooKeys,10.3897/zookeys.562.6124;10.3897/zookeys.892.38868,DE,Ludwig-Maximilians-Universität,HERBARIUM
+15,ASU,ZooKeys,10.3897/zookeys.562.6124,,,
+15,TNHC,ZooKeys,10.3897/zookeys.562.6124,US,"Texas Memorial Museum, Texas Natural History Collection",
+15,UAZ,ZooKeys,10.3897/zookeys.562.6124,US,University of Arizona,
+6,CUMV,ZooKeys,10.3897/zookeys.561.7137,US,"Cornell University, Museum of Vertebrates",UNIVERSITY_COLLEGE
+4,CNHM,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.559.6350;10.3897/dez.66.31754,US,Cincinnati Museum Center,MUSEUM
+2,NNM,ZooKeys,10.3897/zookeys.557.6298,NL,"National Museum of Natural History, Naturalis",MUSEUM
+1,CATIE,ZooKeys,10.3897/zookeys.557.7087,CR,Tropical Agricultural Research and Training Center (CATIE),HERBARIUM
+1,WII,ZooKeys,10.3897/zookeys.555.6522,IN,Wildlife Institute of India,HERBARIUM
+1,CT,ZooKeys,10.3897/zookeys.541.6058,,,
+6,USF,ZooKeys,10.3897/zookeys.533.6004,US,University of South Florida,HERBARIUM
+15,MSBA,ZooKeys,10.3897/zookeys.1007.60012;10.3897/zookeys.580.8153,,,
+12,UBCZ,ZooKeys,10.3897/zookeys.1007.60012,CA,"University of British Columbia, Spencer Museum",
+2,PC,MycoKeys,10.3897/mycokeys.76.58179,,,
+3,BRNM,MycoKeys,10.3897/mycokeys.76.58179,CZ,Moravian Museum,HERBARIUM
+4,ICXU,ZooKeys,10.3897/zookeys.1009.57556;10.3897/zookeys.736.20883,,,
+11,NARO,Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/dez.68.59641;10.3897/zookeys.902.46531,JP,National Agriculture and Food Research Organizarion,LIVING_ORGANISM_COLLECTION
+1,MUNJ,Deutsche Entomologische Zeitschrift,10.3897/dez.68.59641,,,
+1,AUG,Deutsche Entomologische Zeitschrift,10.3897/dez.68.59641,US,Augustana College,HERBARIUM
+2,UFLA,Subterranean Biology,10.3897/subtbiol.37.60483,,,
+2,MUVHN,Subterranean Biology,10.3897/subtbiol.37.60483,,,
+3,PUAC,ZooKeys,10.3897/zookeys.1010.58436;10.3897/zookeys.526.5971;10.3897/zookeys.605.9087,,,
+1,IHB,ZooKeys,10.3897/zookeys.1017.57503,CN,"Institute of Hydrobiology, Chinese Academy of Sciences",
+8,ZNHM,ZooKeys,10.3897/zookeys.1016.59699;10.3897/zookeys.1023.53404,,,
+11,BRIP,MycoKeys,10.3897/mycokeys.78.60063;10.3897/mycokeys.52.30461,AU,Department of Agriculture and Fisheries,HERBARIUM
+6,GNHM,Zoosystematics and Evolution;ZooKeys,10.3897/zse.97.60254;10.3897/zookeys.1037.64038,GR,Goulandris Natural History Museum,
+2,FRIM,MycoKeys,10.3897/mycokeys.77.57394,MY,"Forest Research Institute, Malaysia",
+2,ZT,MycoKeys,10.3897/mycokeys.77.57394,CH,Eidgenössische Technische Hochschule Zürich,HERBARIUM
+4,NTM,ZooKeys,10.3897/zookeys.1012.57172,AU,Northern Territory Museum of Arts and Sciences,
+1,USUC,Journal of Hymenoptera Research,10.3897/jhr.81.59769,,,
+7,UFES,Journal of Hymenoptera Research,10.3897/jhr.81.60048,,,
+3,ISEZ,ZooKeys,10.3897/zookeys.1021.63147;10.3897/zookeys.677.12435,,,
+1,SMNHL,ZooKeys,10.3897/zookeys.1021.63147,,,
+6,MZL,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.1023.61081;10.3897/zse.95.29487;10.3897/zookeys.1002.58017;10.3897/zookeys.1036.64880,CH,"Musée cantonal de zoologie, Lausanne",MUSEUM
+4,LIV,ZooKeys,10.3897/zookeys.1023.53404,,,
+2,SZMN,ZooKeys,10.3897/zookeys.1024.60393,RU,Siberian Zoological Museum,
+2,MUCR,ZooKeys,10.3897/zookeys.1024.56927,CR,Museo de Insectos,
+1,NMSL,Zoosystematics and Evolution,10.3897/zse.97.60099,LK,National Museum of Sri Lanka,
+8,UFMNH,ZooKeys,10.3897/zookeys.1027.54888,,,
+24,MEM,ZooKeys,10.3897/zookeys.1027.54888;10.3897/zookeys.788.26048;10.3897/zookeys.787.26948;10.3897/zookeys.527.6087;10.3897/zookeys.533.6004,US,University of Memphis,HERBARIUM
+4,DMNS,ZooKeys,10.3897/zookeys.1027.54888,US,Denver Museum of Nature & Science,MUSEUM
+2,ZMHNU,ZooKeys,10.3897/zookeys.1028.60838,,,
+31,MGCL,ZooKeys,10.3897/zookeys.1028.56784;10.3897/zookeys.541.6297;10.3897/zookeys.677.12435;10.3897/zookeys.566.6982;10.3897/zookeys.533.6004,,,
+6,FSU,ZooKeys,10.3897/zookeys.1028.56784,DE,Jena Microbial Resource Collection,
+4,KIZCAS,ZooKeys,10.3897/zookeys.1028.61018,,,
+2,CUNHM,ZooKeys,10.3897/zookeys.1031.57836,,,
+2,KUN-HKAS,MycoKeys,10.3897/mycokeys.79.66302,,,
+1,SIZK,Journal of Hymenoptera Research,10.3897/jhr.82.64599,UA,Schmaulhausen Institute of Zoology,
+2,ANDES-E,ZooKeys,10.3897/zookeys.1036.64230,,,
+2,SGO,MycoKeys,10.3897/mycokeys.80.64435,CL,Museo Nacional de Historia Natural,HERBARIUM
+4,CCTCC,MycoKeys,10.3897/mycokeys.80.64624,CN,China Center for Type Culture Collection,
+3,NASU,ZooKeys,10.3897/zookeys.1040.64280,,,
+1,DA,Deutsche Entomologische Zeitschrift,10.3897/dez.65.25747,,,
+4,SRBC,Deutsche Entomologische Zeitschrift,10.3897/dez.65.26261,,,
+47,BMPC,Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/dez.65.26693;10.3897/zookeys.951.53814;10.3897/zookeys.679.11967,,,
+3,PMSL,Deutsche Entomologische Zeitschrift,10.3897/dez.66.31754,SI,Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije),
+2,CeNak,Evolutionary Systematics,10.3897/evolsyst.2.29172,,,
+7,ZSMH,Evolutionary Systematics,10.3897/evolsyst.2.30778,,,
+4,CCB,ZooKeys,10.3897/zookeys.838.33086,IO,"Central College, Bangalore",
+13,NBAIR,ZooKeys,10.3897/zookeys.837.32057;10.3897/zookeys.772.25320;10.3897/zookeys.597.7520;10.3897/zookeys.977.57875;10.3897/zookeys.580.8090,,,
+2,SIF SB RAS,ZooKeys,10.3897/zookeys.835.33166;10.3897/zookeys.736.20739,,,
+1,INRA,ZooKeys,10.3897/zookeys.835.33166,FR,Institut National de la Recherche Agronomique,
+2,CSCS,ZooKeys,10.3897/zookeys.829.30086,,"California State University, Turlock",
+104,EMBL,ZooKeys,10.3897/zookeys.828.32200,,,
+2,ETAM,ZooKeys,10.3897/zookeys.825.29029,,,
+8,NJAU,ZooKeys,10.3897/zookeys.824.31635;10.3897/zookeys.762.23926;10.3897/zookeys.656.10738;10.3897/zookeys.574.7312,,,
+21,MNHW,ZooKeys,10.3897/zookeys.821.29019;10.3897/zookeys.523.6103;10.3897/zookeys.554.6120;10.3897/zookeys.1009.59205;10.3897/zookeys.1010.58348,,,
+9,KUEC,ZooKeys,10.3897/zookeys.820.31618,JP,Kyushu University Entomology Collection,
+6,TMU,ZooKeys,10.3897/zookeys.820.31618,,,
+16,LIPI,ZooKeys,10.3897/zookeys.820.29363;10.3897/zookeys.529.6326;10.3897/zookeys.529.6421;10.3897/zookeys.539.6541;10.3897/zookeys.660.11847;10.3897/zookeys.605.9338,,,
+4,NCHUZOOL,ZooKeys,10.3897/zookeys.817.29332;10.3897/zookeys.747.23468,,,
+1,ICML-UNAM,ZooKeys,10.3897/zookeys.817.29406,,,
+16,IEXA,ZooKeys,10.3897/zookeys.882.35532;10.3897/zookeys.747.22731;10.3897/zookeys.743.23029;10.3897/zookeys.736.21628;10.3897/zookeys.702.14728;10.3897/zookeys.993.49434,,,
+2,IFAS,ZooKeys,10.3897/zookeys.881.36744;10.3897/zookeys.1017.60990,,,
+4,FAFU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.881.34646;10.3897/JHR.46.5155,,,
+3,AICF,ZooKeys,10.3897/zookeys.881.34646,,,
+1,CZPC,ZooKeys,10.3897/zookeys.881.34821,,,
+1,FWPC,ZooKeys,10.3897/zookeys.881.34821,,,
+1,MSPC,ZooKeys,10.3897/zookeys.881.34821,IT,"Museo di Storia Naturale ""Pietro Calderini""",
+1,NMEC,ZooKeys,10.3897/zookeys.881.34821,,,
+3,BJMNH,ZooKeys,10.3897/zookeys.880.34712,,,
+20,SHNU,ZooKeys,10.3897/zookeys.880.34712;10.3897/zookeys.709.14755;10.3897/zookeys.684.13514;10.3897/zookeys.595.8784;10.3897/zookeys.936.48577;10.3897/zookeys.595.8752,,,
+1,TN,Journal of Hymenoptera Research,10.3897/JHR.45.5442,,,
+1,NTU,Journal of Hymenoptera Research,10.3897/JHR.46.5155,,,
+4,GSFPM,Journal of Hymenoptera Research;ZooKeys,10.3897/JHR.46.5763;10.3897/zookeys.537.6592;10.3897/zookeys.678.12397;10.3897/zookeys.663.11874,,,
+11,ICIPE,Journal of Hymenoptera Research;ZooKeys,10.3897/JHR.49.7714;10.3897/zookeys.585.7503,,,
+2,MHNM,Zoosystematics and Evolution;ZooKeys,10.3897/zse.94.29115;10.3897/zookeys.901.39432,FR,Muséum d'histoire naturelle de Marseille,
+13,CICCAA,Zoosystematics and Evolution;ZooKeys,10.3897/zse.94.28085;10.3897/zse.94.22685;10.3897/zse.94.21321;10.3897/zookeys.765.23157;10.3897/zse.94.22106;10.3897/zse.96.56247;10.3897/zse.97.61006,,,
+1,UEFS,Zoosystematics and Evolution,10.3897/zse.94.22685,BR,Laboratorio de Ictiologia,
+2,NMSW,Zoosystematics and Evolution,10.3897/zse.93.10995,,,
+2,Academy of Natural Sciences of Philadelphia,Zoosystematics and Evolution,10.3897/zse.93.10802,,,
+14,National Museum,Zoosystematics and Evolution,10.3897/zse.92.7629,,,
+71,Museum,Zoosystematics and Evolution;ZooKeys,10.3897/zse.92.7629;10.3897/zookeys.594.8623;10.3897/zookeys.614.9368;10.3897/zookeys.619.10043;10.3897/zookeys.596.8725;10.3897/zookeys.596.8332;10.3897/zookeys.593.8511,,,
+1,SERTC,Zoosystematics and Evolution,10.3897/zse.92.5789,,,
+3,DWBC,ZooKeys,10.3897/zookeys.893.47059,,,
+3,DPDC,ZooKeys,10.3897/zookeys.893.47059,,,
+3,SJRC,ZooKeys,10.3897/zookeys.893.47059,,,
+3,DEKC,ZooKeys,10.3897/zookeys.893.47059,,,
+3,DSC,ZooKeys,10.3897/zookeys.893.47059,,Dalton State College,
+1,MHNMC,ZooKeys,10.3897/zookeys.893.36013,,,
+2,LATLAX,ZooKeys,10.3897/zookeys.892.39558;10.3897/zookeys.802.28445,,,
+1,http://grbio.org/institution/university-new-mexico,ZooKeys,10.3897/zookeys.892.38868,,,
+5,UMIZ,ZooKeys,10.3897/zookeys.892.39524;10.3897/zookeys.763.21252,,,
+5,MBA,ZooKeys,10.3897/zookeys.811.29187,AU,Environmental Protection Agency,HERBARIUM
+9,FGMRI,ZooKeys,10.3897/zookeys.806.21916,,,
+4,LES,ZooKeys,10.3897/zookeys.806.27404,GB,Leeds Museums and Galleries,MUSEUM
+4,CNAN,ZooKeys,10.3897/zookeys.802.28445;10.3897/zookeys.1027.54888,,,
+22,ECKU,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.800.26292;10.3897/nl.40.11184,,,
+11,RCBB,ZooKeys,10.3897/zookeys.800.26292,,,
+16,RCJJ,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.800.26292;10.3897/nl.43.54916,,,
+21,RCWS,ZooKeys,10.3897/zookeys.800.26292,,,
+2,RCKO,ZooKeys,10.3897/zookeys.800.26292,,,
+3,RCGB,ZooKeys,10.3897/zookeys.800.26292;10.3897/zookeys.537.6090,,,
+20,RCZT,ZooKeys,10.3897/zookeys.800.26292,,,
+5,RCTM,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.800.26292;10.3897/nl.38.5058,,,
+2,RCEA,ZooKeys,10.3897/zookeys.800.26292,,,
+18,RCKN,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.800.26292;10.3897/nl.43.54916,,,
+6,RCMC,ZooKeys,10.3897/zookeys.800.26292,US,Rockford College,
+2,RCRH,ZooKeys,10.3897/zookeys.800.26292,,,
+1,RCJN,ZooKeys,10.3897/zookeys.800.26292,,,
+1,RCTV,ZooKeys,10.3897/zookeys.800.26292,,,
+1,RCPF,ZooKeys,10.3897/zookeys.800.26292,,,
+1,RCAW,ZooKeys,10.3897/zookeys.800.26292,,,
+5,RCAP,ZooKeys,10.3897/zookeys.800.26292,,,
+2,RCJR,ZooKeys,10.3897/zookeys.800.26292,,,
+3,RCPT,ZooKeys,10.3897/zookeys.800.26292,,,
+3,RCSP,ZooKeys,10.3897/zookeys.800.26292,,,
+1,AFRC,ZooKeys,10.3897/zookeys.798.28606,ZA,Afribugs,OTHER_INSTITUTIONAL_TYPE
+2,ZJPC,ZooKeys,10.3897/zookeys.796.21515,,,
+11,DARC,ZooKeys,10.3897/zookeys.796.22517,,,
+7,DBTC,ZooKeys,10.3897/zookeys.796.22517,,,
+11,JEEC,ZooKeys,10.3897/zookeys.796.22517,,,
+4,RLFF,ZooKeys,10.3897/zookeys.796.22517,,,
+3,CEHI,ZooKeys,10.3897/zookeys.796.24540;10.3897/zookeys.789.26165,,,
+1,DTPC,ZooKeys,10.3897/zookeys.796.20736,,,
+2,MUTPL,Journal of Hymenoptera Research,10.3897/jhr.51.9830,,,
+2,SEAG,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.51.9075;10.3897/zookeys.927.49584,,,
+1,Société Entomologique Antilles Guyane (SEAG),Journal of Hymenoptera Research,10.3897/jhr.51.9075,,,
+3,ENV,Journal of Hymenoptera Research,10.3897/jhr.52.10067;10.3897/jhr.62.21858,,,
+2,MNHT,Journal of Hymenoptera Research,10.3897/jhr.52.10067,,,
+2,RGB,Journal of Hymenoptera Research,10.3897/jhr.52.10067,,,
+3,Great Smoky Mountains National Park,Journal of Hymenoptera Research,10.3897/jhr.53.10369,,,
+21,Botanical Garden,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.53.9890;10.3897/zookeys.640.10334;10.3897/zookeys.639.10893,,,
+31,PHMB,Journal of Hymenoptera Research,10.3897/jhr.53.9890,,,
+7,University of Edinburgh,Journal of Hymenoptera Research,10.3897/jhr.53.9890,,,
+6,AEI,Journal of Hymenoptera Research,10.3897/jhr.53.9902,US,American Entomological Institute,
+1,DPPZ,Journal of Hymenoptera Research,10.3897/jhr.62.21858,,,
+2,A.E.I,Journal of Hymenoptera Research,10.3897/jhr.64.24282,,,
+29,IEBR,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.66.28881;10.3897/zookeys.723.21668;10.3897/zookeys.853.33938;10.3897/jhr.77.52797;10.3897/zookeys.996.56562;10.3897/jhr.74.47795;10.3897/zookeys.601.9165;10.3897/zookeys.576.8177;10.3897/zookeys.971.56571;10.3897/zookeys.1036.56919,VN,Institute of Ecology and Biological Resources,
+11,OÖLM,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.66.29269;10.3897/zookeys.974.54794,,,
+4,SMTP,Journal of Hymenoptera Research,10.3897/jhr.67.28810,,,
+11,CBGP,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.67.29733;10.3897/zookeys.1005.56353;10.3897/zookeys.539.6529,,,
+5,SWFU,Journal of Hymenoptera Research;ZooKeys,10.3897/jhr.68.30784;10.3897/zookeys.770.24908,,,
+9,MIUP,Journal of Hymenoptera Research,10.3897/jhr.71.35754,,,
+2,PAN,Journal of Hymenoptera Research,10.3897/jhr.72.38908,IN,Panjab University,HERBARIUM
+2,OPPC,Journal of Hymenoptera Research,10.3897/jhr.73.32256,,,
+2,GZU,MycoKeys;ZooKeys,10.3897/mycokeys.13.8824;10.3897/zookeys.709.14755,AT,Karl-Franzens-Universität Graz,HERBARIUM
+5,LMCI,ZooKeys,10.3897/zookeys.795.27070;10.3897/zookeys.996.53958,,,
+1,IADIZA,ZooKeys,10.3897/zookeys.795.27070,,,
+5,IDEA,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.795.27070;10.3897/nl.41.28570;10.3897/nl.42.38341;10.3897/nl.43.57965,CL,Instituto de Agronomia,
+17,THNHM,ZooKeys,10.3897/zookeys.795.28384;10.3897/zookeys.775.26893;10.3897/zookeys.729.21378;10.3897/zookeys.842.33609;10.3897/zookeys.980.54100;10.3897/zookeys.1028.62347,,,
+6,AJC,ZooKeys,10.3897/zookeys.795.29339,,,
+10,NPM,ZooKeys,10.3897/zookeys.794.26789;10.3897/zookeys.740.14640,,,
+13,CIUFES,ZooKeys,10.3897/zookeys.794.26789;10.3897/zookeys.561.7263,,,
+3,NPU,ZooKeys;Subterranean Biology,10.3897/zookeys.793.25005;10.3897/zookeys.710.13941;10.3897/subtbiol.37.55376,,,
+5,KAUST,ZooKeys,10.3897/zookeys.791.28775,,,
+7,IEGU,ZooKeys,10.3897/zookeys.790.26130;10.3897/zookeys.917.47326;10.3897/zookeys.563.6030;10.3897/zookeys.1025.56780,,,
+2,SEM,ZooKeys,10.3897/zookeys.789.27356;10.3897/zookeys.754.24210,,,
+3,TM,ZooKeys,10.3897/zookeys.788.26068;10.3897/zookeys.788.26480,DE,"Teylers Museum, Paleontologische",
+4,LGC,ZooKeys,10.3897/zookeys.788.26068;10.3897/zookeys.788.26480;10.3897/zookeys.527.9771,,,
+3,JS,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.788.26480;10.3897/dez.68.60611,,,
+4,DEBC,ZooKeys,10.3897/zookeys.788.26885,,,
+4,JDPC,ZooKeys,10.3897/zookeys.788.26885,,,
+4,RBNC,ZooKeys,10.3897/zookeys.788.26885,,,
+8,MWM,ZooKeys,10.3897/zookeys.788.26325;10.3897/zookeys.677.12435;10.3897/zookeys.611.9058,,,
+2,BVC,ZooKeys,10.3897/zookeys.788.26325,,Buena Vista College,
+2,MLC,ZooKeys,10.3897/zookeys.788.26325,,,
+39,CWOB,ZooKeys,10.3897/zookeys.787.26948;10.3897/zookeys.785.26674;10.3897/zookeys.528.6001;10.3897/zookeys.679.12805,,,
+23,EGRC,ZooKeys,10.3897/zookeys.787.26948,,,
+1,Princess Maha Chakri Sirindhorn Natural History Museum,ZooKeys,10.3897/zookeys.787.28098,,,
+11,GUGC,ZooKeys,10.3897/zookeys.786.26402;10.3897/zookeys.861.32594;10.3897/zookeys.854.33117;10.3897/zookeys.846.34003;10.3897/zookeys.1023.59811;10.3897/zookeys.1028.62347;10.3897/zookeys.1028.63727,,,
+1,NHMSC,ZooKeys,10.3897/zookeys.786.28386,,,
+8,CULSP,ZooKeys,10.3897/zookeys.785.26236;10.3897/zookeys.1019.61496,,,
+1,ISU,ZooKeys,10.3897/zookeys.785.28006,US,Indiana State University,
+3,UY1,ZooKeys,10.3897/zookeys.785.27422,,,
+2,CSIRO,ZooKeys,10.3897/zookeys.783.26862,AU,Australian National Fish Collection,MUSEUM
+1,IMOS,ZooKeys,10.3897/zookeys.783.26862,,,
+2,UGSB,ZooKeys,10.3897/zookeys.782.26797,,,
+3,INBAC,ZooKeys,10.3897/zookeys.780.25859,,,
+5,NMCR,ZooKeys,10.3897/zookeys.780.26388;10.3897/zookeys.879.37721,US,New Mexico State University,HERBARIUM
+1,SIO-BIC,ZooKeys,10.3897/zookeys.779.24781,,,
+5,KUNH,ZooKeys,10.3897/zookeys.778.25775,,,
+37,BOLD,ZooKeys;Nota Lepidopterologica,10.3897/zookeys.777.23212;10.3897/nl.41.22840;10.3897/zookeys.730.22869;10.3897/zookeys.687.13844;10.3897/zookeys.686.13680;10.3897/zookeys.676.12987;10.3897/zookeys.917.39270;10.3897/zookeys.681.12522;10.3897/zookeys.520.6185,,,
+6,CMPR,ZooKeys,10.3897/zookeys.777.23212,IN,Centre for Medicinal Plants Research,HERBARIUM
+1,EMSUM,ZooKeys,10.3897/zookeys.777.26745,,,
+11,SKYC,ZooKeys,10.3897/zookeys.775.26893;10.3897/zookeys.842.33609;10.3897/zookeys.651.10336,,,
+1,SYSB,ZooKeys,10.3897/zookeys.775.22620,,,
+1,MCN,ZooKeys,10.3897/zookeys.771.24921,US,McNeese State University,HERBARIUM
+3,CAVAISC,ZooKeys,10.3897/zookeys.771.24921;10.3897/zookeys.600.8580;10.3897/zookeys.632.9337,,,
+1,UNB,ZooKeys,10.3897/zookeys.771.24921,CA,University of New Brunswick,HERBARIUM
+13,SYNU,ZooKeys,10.3897/zookeys.771.23158;10.3897/zookeys.618.9451;10.3897/zookeys.1034.63388,,,
+4,MNKM,ZooKeys,10.3897/zookeys.770.24281;10.3897/zookeys.736.21628;10.3897/zookeys.637.11001,,,
+1,ICBiBE,ZooKeys,10.3897/zookeys.770.24281,,,
+2,ZMBH,ZooKeys,10.3897/zookeys.770.24908,,,
+3,CASAU,ZooKeys,10.3897/zookeys.769.26152;10.3897/zookeys.716.21349,,,
+26,JG,ZooKeys,10.3897/zookeys.769.25258,,,
+43,PGB,ZooKeys,10.3897/zookeys.769.25258;10.3897/zookeys.523.6114;10.3897/zookeys.842.33052;10.3897/zookeys.564.6560,,,
+26,DT,ZooKeys,10.3897/zookeys.769.25258,,,
+26,EZP,ZooKeys,10.3897/zookeys.769.25258,,,
+30,MZBI,ZooKeys;Deutsche Entomologische Zeitschrift,10.3897/zookeys.769.25258;10.3897/dez.63.8386,,,
+30,REI,ZooKeys,10.3897/zookeys.769.25258;10.3897/zookeys.842.33052,,,
+1,RMBH,ZooKeys,10.3897/zookeys.768.24345,,,
+23,MZUTI,ZooKeys,10.3897/zookeys.766.24523;10.3897/zookeys.673.12108;10.3897/zookeys.541.6058,,,
+1,ZMSU,ZooKeys,10.3897/zookeys.766.23239,RU,"Zoological Museum, Saratov State University",MUSEUM
+4,CWBS,ZooKeys,10.3897/zookeys.765.24366,,,
+9,IESNU,ZooKeys,10.3897/zookeys.764.22736;10.3897/zookeys.693.12965;10.3897/zookeys.657.9153;10.3897/zookeys.598.7983,,,
+3,OLL,ZooKeys,10.3897/zookeys.764.24581;10.3897/zookeys.561.7417,,,
+2,cMS,ZooKeys,10.3897/zookeys.764.24581,IN,Christian Missionary Society College,HERBARIUM
+1,cMAV,ZooKeys,10.3897/zookeys.764.24581,,,
+2,Olympic National Park,MycoKeys,10.3897/mycokeys.18.10007,,,
+2,CERC,MycoKeys,10.3897/mycokeys.26.14688,,,
+2,CSFF,MycoKeys,10.3897/mycokeys.26.14688,,,
+11,HMJAU,MycoKeys,10.3897/mycokeys.26.14919;10.3897/mycokeys.33.24704;10.3897/mycokeys.51.34956;10.3897/mycokeys.52.34647,CN,Herbarium of Mycology of Jilin Agricultural University,
+1,ITCV,MycoKeys,10.3897/mycokeys.30.22887,MX,Instituto Tecnológico de Ciudad Victoria,HERBARIUM
+1,YSU,MycoKeys,10.3897/mycokeys.32.23277,RU,Yugra State University,
+2,LESF,MycoKeys,10.3897/mycokeys.46.30951,,,
+5,GZUIFR,MycoKeys,10.3897/mycokeys.47.30740,,,
+1,ACAM,MycoKeys,10.3897/mycokeys.47.32085,GR,Agricultural University of Athens,
+1,SOMF,MycoKeys,10.3897/mycokeys.47.32085,BG,Bulgarian Academy of Sciences,HERBARIUM
+41,CFCC,MycoKeys,10.3897/mycokeys.56.36079;10.3897/mycokeys.50.32517;10.3897/mycokeys.69.54012;10.3897/mycokeys.62.47425;10.3897/mycokeys.60.46395;10.3897/mycokeys.59.38055;10.3897/mycokeys.48.31715;10.3897/mycokeys.42.29634;10.3897/mycokeys.39.26914;10.3897/mycokeys.39.27014;10.3897/mycokeys.77.59999;10.3897/mycokeys.79.65221,,,
+22,CMW,MycoKeys,10.3897/mycokeys.60.39069;10.3897/mycokeys.68.50035,ZA,Tree Pathology Cooperative Program,
+6,National Museum of Nature and Science,Nota Lepidopterologica;ZooKeys,10.3897/nl.39.9603;10.3897/zookeys.606.9310,,,
+5,KG,Nota Lepidopterologica,10.3897/nl.40.11184,KZ,Internatinal Phytochemistry Research and Production Institute,
+5,KL,Nota Lepidopterologica,10.3897/nl.40.11184,AT,Landesmuseum für Kärnten,HERBARIUM
+5,PF,Nota Lepidopterologica,10.3897/nl.40.11184,,,
+5,RS,Nota Lepidopterologica,10.3897/nl.40.11184,,,
+5,UJ,Nota Lepidopterologica,10.3897/nl.40.11184,,,
+2,KSS,Nota Lepidopterologica,10.3897/nl.40.13085,,,
+2,IBEB,Nota Lepidopterologica,10.3897/nl.41.26835,,,
+3,GBOWS,PhytoKeys,10.3897/phytokeys.109.27566,,,
+2,NOU,PhytoKeys,10.3897/phytokeys.119.32221,NC,Institut de Recherche pour le Développement (IRD),HERBARIUM
+6,GCCC,PhytoKeys,10.3897/phytokeys.128.35446;10.3897/phytokeys.127.35445;10.3897/phytokeys.146.49731,,,
+2,CNMO,Subterranean Biology,10.3897/subtbiol.29.34123,,,
+1,UFMG-AC,Subterranean Biology,10.3897/subtbiol.27.25777,,,
+1,ZUPV,Subterranean Biology,10.3897/subtbiol.25.23364,,,
+1,BOL,PhytoKeys,10.3897/phytokeys.99.24765,ZA,University of Cape Town,HERBARIUM
+2,SEABRI,PhytoKeys;ZooKeys,10.3897/phytokeys.94.21553;10.3897/zookeys.646.11049,,,
+28,IUCN,PhytoKeys;Zoosystematics and Evolution;ZooKeys,10.3897/phytokeys.83.13442;10.3897/phytokeys.78.11932;10.3897/zse.93.10188;10.3897/phytokeys.60.6406;10.3897/phytokeys.149.49533;10.3897/zookeys.675.12453;10.3897/zookeys.673.13050;10.3897/zookeys.660.11394;10.3897/zookeys.657.11076;10.3897/phytokeys.167.55107,,,
+6,LLNP,PhytoKeys,10.3897/phytokeys.81.13488;10.3897/phytokeys.62.7548,,,
+1,NIFS,PhytoKeys,10.3897/phytokeys.81.13488,,,
+3,National Tropical Botanical Garden(NTBG),PhytoKeys,10.3897/phytokeys.76.11637,,,
+3,National Tropical Botanical Garden,PhytoKeys,10.3897/phytokeys.76.11637,,,
+3,Maui Nui Plant Extinction Prevention Program (PEPP),PhytoKeys,10.3897/phytokeys.76.11637,,,
+5,Missouri Botanical Garden,PhytoKeys,10.3897/phytokeys.76.10298,,,
+1,Universidad Michoacana de San Nicolás de Hidalgo,PhytoKeys,10.3897/phytokeys.76.10921,,,
+3,Hacettepe University,PhytoKeys,10.3897/phytokeys.75.10244,,,
+3,Royal Botanic Gardens,PhytoKeys,10.3897/phytokeys.68.8803,,,
+3,Botanic Garden,PhytoKeys,10.3897/phytokeys.68.8803,,,
+3,Singapore Botanic Gardens,PhytoKeys,10.3897/phytokeys.68.8803,,,
+33,University,PhytoKeys;Deutsche Entomologische Zeitschrift;ZooKeys,10.3897/phytokeys.64.6864;10.3897/dez.63.8386;10.3897/phytokeys.65.8571;10.3897/zookeys.594.8623;10.3897/zookeys.635.10487;10.3897/zookeys.628.9805;10.3897/zookeys.618.9692;10.3897/zookeys.596.8332,,,
+4,University of Texas,PhytoKeys,10.3897/phytokeys.64.6864,,,
+4,Universidad Nacional Mayor de San Marcos,PhytoKeys,10.3897/phytokeys.64.6864,,,
+4,Universidad Nacional,PhytoKeys,10.3897/phytokeys.64.6864,,,
+12,AKM,ZooKeys,10.3897/zookeys.522.10294;10.3897/zookeys.587.8188,,,
+7,ASRU,ZooKeys,10.3897/zookeys.761.24214,,,
+1,G1,ZooKeys,10.3897/zookeys.760.24787,,,
+1,G2,ZooKeys,10.3897/zookeys.760.24787,,,
+1,CPI,ZooKeys,10.3897/zookeys.759.24742,,,
+1,Aveiro,ZooKeys,10.3897/zookeys.759.22981,,,
+1,APEM,ZooKeys,10.3897/zookeys.759.22981,,,
+3,KGB,ZooKeys,10.3897/zookeys.759.22981,,,
+1,CRS,ZooKeys,10.3897/zookeys.758.24169,,,
+1,NNML,ZooKeys,10.3897/zookeys.758.24169,,,
+30,CTMI,ZooKeys,10.3897/zookeys.755.23939;10.3897/zookeys.591.7731,,,
+3,CAB,ZooKeys,10.3897/zookeys.753.22366,,,
+3,DWC,ZooKeys,10.3897/zookeys.753.22366,US,West Chester University,HERBARIUM
+1,KCE,ZooKeys,10.3897/zookeys.753.22366,,,
+1,SMNHTAU,ZooKeys,10.3897/zookeys.753.22366,,,
+1,KBFSC,ZooKeys,10.3897/zookeys.751.22661,,,
+24,UWIM,ZooKeys,10.3897/zookeys.750.23536,US,University of Wyoming Insect Museum and Gallery,
+1,University Museum of Bergen,ZooKeys,10.3897/zookeys.749.24199,,,
+1,CAM,ZooKeys,10.3897/zookeys.748.24198,AU,Central Australian Museum,
+6,JLSHC,ZooKeys,10.3897/zookeys.747.22731,,,
+6,VMC,ZooKeys,10.3897/zookeys.747.22731,,,
+1,JB,ZooKeys,10.3897/zookeys.743.23029,,,
+1,MNHNCu,ZooKeys,10.3897/zookeys.742.21819,CU,"Museo Nacional de Historia Natural, Havana",
+4,IBGAS,ZooKeys,10.3897/zookeys.741.23223,,,
+11,MIZ,ZooKeys,10.3897/zookeys.736.21628;10.3897/zookeys.706.18081,,,
+6,MABIK,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.735.14671;10.3897/zookeys.718.19959;10.3897/zookeys.665.6150;10.3897/zse.96.54507,KR,National Marine Biodiversity Institute of Korea,
+2,CReefs,ZooKeys,10.3897/zookeys.733.20474,,,
+4,HBOI,ZooKeys,10.3897/zookeys.729.21779,,,
+5,NMT,ZooKeys,10.3897/zookeys.723.21817,,,
+1,DABFUK,ZooKeys,10.3897/zookeys.716.21349,,,
+4,UNMSM,ZooKeys,10.3897/zookeys.714.15113;10.3897/zookeys.626.10033,,,
+4,IESWU,ZooKeys,10.3897/zookeys.714.14041,,,
+1,HWIC,ZooKeys,10.3897/zookeys.709.14877,,,
+1,JSKC,ZooKeys,10.3897/zookeys.709.14877,,,
+1,TGAC,ZooKeys,10.3897/zookeys.709.14877,,,
+15,SWU,ZooKeys,10.3897/zookeys.709.14755;10.3897/zookeys.852.31611;10.3897/zookeys.1021.59526;10.3897/zookeys.1026.61570;10.3897/zookeys.1036.63232,KR,Sungshin Women's University,HERBARIUM
+14,IACC,ZooKeys,10.3897/zookeys.707.12649,BR,Instituto Agronomico de Campinas,
+2,IZSAV,ZooKeys,10.3897/zookeys.704.13304,,,
+1,CBUMAG,ZooKeys,10.3897/zookeys.703.12537,,,
+7,CEIOC,ZooKeys,10.3897/zookeys.699.12031;10.3897/zookeys.526.6154,,,
+1,UADBA-A,Zoosystematics and Evolution,10.3897/zse.93.14906,,,
+1,MZB = Museum Zoologicum Bogoriense,Zoosystematics and Evolution,10.3897/zse.91.5411,,,
+1,CHCM,ZooKeys,10.3897/zookeys.892.38447,,,
+11,KSP,ZooKeys,10.3897/zookeys.878.37403;10.3897/zookeys.960.55007;10.3897/zookeys.1026.61554,US,Pittsburg State University,HERBARIUM
+1,NRC,ZooKeys,10.3897/zookeys.869.34166,CA,"Division of Biological Sciences, National Research Council of Canada",
+1,OVF,ZooKeys,10.3897/zookeys.865.35827,,,
+1,NUoL,ZooKeys,10.3897/zookeys.864.33678,,,
+2,Environmental Resources Research Centre (ERRC),PhytoKeys,10.3897/phytokeys.62.7623,,,
+1,CSM,PhytoKeys,10.3897/phytokeys.62.7548,,,
+1,World Conservation Union (IUCN),PhytoKeys,10.3897/phytokeys.60.6406,,,
+4,LI,PhytoKeys,10.3897/phytokeys.134.37979,AT,Upper Austrian State Museum,HERBARIUM
+1,GSFGPM,ZooKeys,10.3897/zookeys.858.35012,,,
+108,AKTC,ZooKeys,10.3897/zookeys.854.35133;10.3897/zookeys.1001.58447,,,
+2,ASUC,ZooKeys,10.3897/zookeys.854.35133,,,
+64,MSCC,ZooKeys,10.3897/zookeys.854.35133;10.3897/zookeys.1001.58447,,,
+102,CHND,ZooKeys,10.3897/zookeys.854.35133;10.3897/zookeys.1001.58447,,,
+3,UMCRC,ZooKeys,10.3897/zookeys.853.30595;10.3897/zookeys.1029.63023,,,
+3,MBLI,ZooKeys,10.3897/zookeys.853.30595;10.3897/zookeys.1029.63023,,,
+2,UMO,ZooKeys,10.3897/zookeys.853.33311,US,University of Maine,
+12,YNAU,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.843.31885;10.3897/zookeys.910.35846;10.3897/zookeys.987.55317;10.3897/jhr.81.61892;10.3897/zookeys.1025.59920,,,
+2,AMK,ZooKeys,10.3897/zookeys.842.33609,,,
+3,IBBL,ZooKeys,10.3897/zookeys.831.31515,,,
+3,HDBI,ZooKeys,10.3897/zookeys.688.11261,,,
+1,LIST,ZooKeys,10.3897/zookeys.687.14872,,,
+1,MZR,ZooKeys,10.3897/zookeys.524.5990,,,
+2,BMCP,ZooKeys,10.3897/zookeys.524.5990,,,
+34,RWC,ZooKeys,10.3897/zookeys.524.6105;10.3897/zookeys.573.7878;10.3897/zookeys.573.7830;10.3897/zookeys.573.7016,,,
+49,LFC,ZooKeys,10.3897/zookeys.524.6105;10.3897/zookeys.573.7878;10.3897/zookeys.581.8014;10.3897/zookeys.593.8412;10.3897/zookeys.610.9361;10.3897/zookeys.573.7016,,,
+1,DZRJ,ZooKeys,10.3897/zookeys.526.6154,,,
+2,BIO,ZooKeys,10.3897/zookeys.527.6087,,University of the Basque Country (UPV/EHU),HERBARIUM
+10,JBSC,ZooKeys,10.3897/zookeys.527.6087,,,
+8,VABC,ZooKeys,10.3897/zookeys.527.6087,,,
+6,EHMC,ZooKeys,10.3897/zookeys.527.6087,,,
+1,TTUZ,ZooKeys,10.3897/zookeys.528.6001,,,
+1,TH,ZooKeys,10.3897/zookeys.529.6139,,,
+2,JUO,ZooKeys,10.3897/zookeys.529.6139;10.3897/zookeys.564.6560,,,
+21,MNHP,ZooKeys,10.3897/zookeys.530.6047,US,Princeton University,
+45,BOR/MOL,ZooKeys,10.3897/zookeys.531.6097,,,
+5,IBSI-Ara,ZooKeys;Zoosystematics and Evolution,10.3897/zookeys.532.6078;10.3897/zse.96.55210,,,
+1,CREAN,ZooKeys,10.3897/zookeys.532.6078,,,
+2,RHTC,ZooKeys,10.3897/zookeys.532.6587,,,
+2,ACMT,ZooKeys,10.3897/zookeys.532.6587,,,
+1,CHUX,ZooKeys,10.3897/zookeys.534.6019,,,
+5,LBP,ZooKeys,10.3897/zookeys.534.6169;10.3897/zookeys.634.9917,,,
+3,PMJ,ZooKeys,10.3897/zookeys.537.6090,DE,Phyletisches Museum,
+1,CISEC,ZooKeys,10.3897/zookeys.537.6090,,,
+1,LIPI (Indonesian Institute of Science),ZooKeys,10.3897/zookeys.539.6541,,,
+2,MNHNCL,ZooKeys,10.3897/zookeys.539.6157;10.3897/zookeys.555.6011,CL,Museo Nacional de Historia Natural de Chile,MUSEUM
+2,Muséum national d’Histoire naturelle (MNHN),ZooKeys,10.3897/zookeys.539.6664,,,
+3,AN,ZooKeys,10.3897/zookeys.541.6297,,,
+2,CXMNC,ZooKeys,10.3897/zookeys.547.9698,,,
+8,SYSBM,ZooKeys;Journal of Hymenoptera Research,10.3897/zookeys.615.9964;10.3897/zookeys.565.6304;10.3897/zookeys.1008.58854;10.3897/jhr.82.62148,,,
+6,LGBC,Deutsche Entomologische Zeitschrift,10.3897/dez.63.6615,,,
+1,RUMF,Deutsche Entomologische Zeitschrift,10.3897/dez.63.7178,JP,University museum (Fujukan),MUSEUM
+1,CG,Deutsche Entomologische Zeitschrift,10.3897/dez.63.6625,BR,Embrapa Collection of Fungi of Invertebrates,
+1,Museum National d’Histoire Naturelle,PhytoKeys,10.3897/phytokeys.71.9203,,,
+1,Royal University of Phnom Penh,PhytoKeys,10.3897/phytokeys.71.9203,,,
+1,UMT,ZooKeys,10.3897/zookeys.859.33284,ZW,Mutare Museum,HERBARIUM
+10,JDM,ZooKeys,10.3897/zookeys.700.11784,,,
+2,IBSS,ZooKeys,10.3897/zookeys.692.12062,,,
+1,ACESSD,ZooKeys,10.3897/zookeys.691.13174,,,
+1,JMLC,ZooKeys,10.3897/zookeys.690.13751,,,
+2,TGPC,ZooKeys,10.3897/zookeys.688.13632,,,
+2,SAEON,ZooKeys,10.3897/zookeys.676.12987,,,
+2,MEPN,ZooKeys,10.3897/zookeys.673.12108;10.3897/zookeys.1036.62034,,,
+1,MHNL,ZooKeys,10.3897/zookeys.670.11839,FR,Musee Guimet d'Histoire Naturelle de Lyon,
+1,UBDC,ZooKeys,10.3897/zookeys.669.12608,,,
+1,MPUJ,ZooKeys,10.3897/zookeys.668.11489,,,
+1,UARC-IC,ZooKeys,10.3897/zookeys.668.11489,,,
+2,USCO,ZooKeys,10.3897/zookeys.668.11347,,,
+4,cHay,ZooKeys,10.3897/zookeys.664.11881,,,
+8,cRou,ZooKeys,10.3897/zookeys.664.11881,,,
+2,SWIMS,ZooKeys,10.3897/zookeys.662.11908,,,
+2,BITS,ZooKeys,10.3897/zookeys.656.11676;10.3897/zookeys.663.11635,,,
+1,CLHC,ZooKeys,10.3897/zookeys.656.11676,,,
+1,CJYT,ZooKeys,10.3897/zookeys.656.11676,,,
+1,CCWI,ZooKeys,10.3897/zookeys.656.11676,,,
+1,CCZC,ZooKeys,10.3897/zookeys.656.11676,,,
+11,Tas,ZooKeys,10.3897/zookeys.652.12035,,,
+1,FDS,ZooKeys,10.3897/zookeys.651.10336,,,
+1,MCN-AM,ZooKeys,10.3897/zookeys.642.10401,,,
+1,SLPC,ZooKeys,10.3897/zookeys.637.11001,,,
+14,DNUE,Journal of Hymenoptera Research,10.3897/jhr.75.47006,,,
+3,NIAS,Journal of Hymenoptera Research,10.3897/jhr.75.47006,,,
+1,EMTU,ZooKeys,10.3897/zookeys.899.46933,,,
+2,RCNM,ZooKeys,10.3897/zookeys.917.39270,,,
+16,DTC,Evolutionary Systematics,10.3897/evolsyst.1.14969,,,
+3,CFMR,MycoKeys,10.3897/mycokeys.40.28700,US,"U.S. Forest Service, NRS, Center for Forest Mycology Research",HERBARIUM
+10,KUMCC,MycoKeys,10.3897/mycokeys.51.32272;10.3897/mycokeys.43.29365,,,
+1,RCSO,Nota Lepidopterologica,10.3897/nl.38.5058,,,
+1,RCNP,Nota Lepidopterologica,10.3897/nl.38.5058,,,
+2,JCK,Nota Lepidopterologica,10.3897/nl.40.14528,,,
+2,PGC,Nota Lepidopterologica,10.3897/nl.40.14528,US,The Petersburg Garden Club,
+1,CJ,Nota Lepidopterologica,10.3897/nl.43.48404,EC,"Centro Jambatu de Investigación y Conservación de Anfibios, Fundación Otonga",OTHER_INSTITUTIONAL_TYPE
+1,CF,Nota Lepidopterologica,10.3897/nl.43.48404,,,
+2,ZUBM,ZooKeys,10.3897/zookeys.545.6111,,,
+3,BDN,ZooKeys,10.3897/zookeys.545.6000;10.3897/zookeys.634.10323,,,
+1,BAQ,ZooKeys,10.3897/zookeys.547.9375,,,
+1,YIAU,ZooKeys,10.3897/zookeys.549.6939,,,
+1,JAZM,ZooKeys,10.3897/zookeys.549.6939,,,
+1,"Acarological Collection, Institute of Science and High Technology and Environmental Sciences, Graduate University of Advanced Technology, Kerman, Iran (ACISTE)",ZooKeys,10.3897/zookeys.549.7435,,,
+1,ACISTE,ZooKeys,10.3897/zookeys.549.7435,,,
+1,SBSHKU,ZooKeys,10.3897/zookeys.551.6686,,,
+3,ERC,ZooKeys,10.3897/zookeys.552.6096,,,
+1,IEZU,ZooKeys,10.3897/zookeys.552.6096,,,
+4,JBCB,ZooKeys,10.3897/zookeys.553.6576,,,
+1,Museum Zoologicum Bogoriense (MZB),ZooKeys,10.3897/zookeys.554.6306,,,
+2,CESC,ZooKeys,10.3897/zookeys.558.6671,,,
+2,HAASM,ZooKeys,10.3897/zookeys.559.6076,,,
+2,ICCC,ZooKeys,10.3897/zookeys.559.6812,,,
+1,OK,ZooKeys,10.3897/zookeys.564.6560,,,
+4,PPI,ZooKeys,10.3897/zookeys.565.6877,TW,National Pingtung University of Science and Technology,HERBARIUM
+4,IPNA-CSIC,Subterranean Biology,10.3897/subtbiol.35.52583;10.3897/subtbiol.34.50231;10.3897/subtbiol.38.61733,,,
+1,CEL,ZooKeys,10.3897/zookeys.571.6894,US,University of Illinois,HERBARIUM
+1,ASIZCR,ZooKeys,10.3897/zookeys.571.6894,,,
+1,Mg,ZooKeys,10.3897/zookeys.571.6894,CN,Museum of Zoology,
+1,NPUST,ZooKeys,10.3897/zookeys.571.6894,,,
+1,CCER,ZooKeys,10.3897/zookeys.571.7341,,,
+1,ILMD,ZooKeys,10.3897/zookeys.571.7341,,,
+2,VM,ZooKeys,10.3897/zookeys.572.6763,CZ,"Muzeum regionu Valašsko, p. o. (Museum of the Moravian Wallachia region, state funded organisation)",HERBARIUM
+4,MM,ZooKeys,10.3897/zookeys.572.6763;10.3897/zookeys.636.10592,FR,University of Montpellier,
+2,MR,ZooKeys,10.3897/zookeys.572.6763,,,
+2,MZ,ZooKeys,10.3897/zookeys.572.6763,,"Museum of the Earth, Polish Academy of Sciences",
+1,LD,ZooKeys,10.3897/zookeys.572.6763,,,
+4,PSWC,ZooKeys,10.3897/zookeys.572.7177;10.3897/zookeys.616.9532,,,
+3,EJNU,ZooKeys,10.3897/zookeys.574.6129,,,
+2,LTZU,ZooKeys,10.3897/zookeys.574.6129,,,
+7,JSPC,ZooKeys,10.3897/zookeys.577.7301,CZ,J. Rusek Collection,
+3,WSKC,ZooKeys,10.3897/zookeys.577.7301,,,
+4,IBER,ZooKeys,10.3897/zookeys.577.7301,,,
+2,PTLC,ZooKeys,10.3897/zookeys.577.7301,,,
+2,ZKZC,ZooKeys,10.3897/zookeys.577.7301,,,
+2,CSE,ZooKeys,10.3897/zookeys.577.7301,,,
+1,NoFC,ZooKeys,10.3897/zookeys.581.8014,,,
+1,SVK,ZooKeys,10.3897/zookeys.584.8171,,,
+3,MRGC,ZooKeys,10.3897/zookeys.584.8065,,,
+2,ANSES/LSV,ZooKeys,10.3897/zookeys.584.8065,,,
+6,PCDH,ZooKeys,10.3897/zookeys.587.7961,,,
+2,PCLB,ZooKeys,10.3897/zookeys.587.7961,,,
+3,CHNUFPI,ZooKeys,10.3897/zookeys.589.7951,,,
+2,MUN,ZooKeys,10.3897/zookeys.593.8412,,,
+2,Museo Ecuatoriano de Ciencias Naturales,ZooKeys,10.3897/zookeys.593.8063,,,
+27,Natural History Museum,ZooKeys,10.3897/zookeys.594.8623;10.3897/zookeys.593.8511,,,
+10,Jacksonville State University,ZooKeys,10.3897/zookeys.594.8623,,,
+1,CPM,ZooKeys,10.3897/zookeys.594.8768,,Christoffel Park Museum,
+2,CBWX,ZooKeys,10.3897/zookeys.595.7569,,,
+5,SHEM,ZooKeys,10.3897/zookeys.595.7569;10.3897/zookeys.604.8203;10.3897/zookeys.604.9049;10.3897/zookeys.598.7983,,,
+1,MNHAH,ZooKeys,10.3897/zookeys.596.8525,JP,"Museum of Nature and Human Activities, Hyogo",MUSEUM
+2,National Marine Fisheries Service,ZooKeys,10.3897/zookeys.596.8217,,,
+4,KAU,ZooKeys,10.3897/zookeys.597.7520,,,
+4,JBC,ZooKeys,10.3897/zookeys.597.7520,MX,Francisco Javier Clavijero Botanic Garden,
+1,FAIC,ZooKeys,10.3897/zookeys.598.8064,,,
+1,ZM–CBSU,ZooKeys,10.3897/zookeys.598.8064,,,
+3,Museum of Zoology,ZooKeys,10.3897/zookeys.614.9368,,,
+3,University of British Columbia,ZooKeys,10.3897/zookeys.614.9368,,,
+3,"Museum of Zoology, Pontificia Universidad Católica, Quito, Ecuador (QCAZ)",ZooKeys,10.3897/zookeys.614.9368,,,
+3,"Spencer Entomological Collection at the Beaty Biodiversity Museum, University of British Columbia(UBC-SEM)",ZooKeys,10.3897/zookeys.614.9368,,,
+1,CSBD,ZooKeys,10.3897/zookeys.622.9155,,,
+7,Davis Mountains State Park,ZooKeys,10.3897/zookeys.625.9891,,,
+1,CMNP,PhytoKeys,10.3897/phytokeys.151.49833,,,
+10,SEPBOP,ZooKeys,10.3897/zookeys.825.32271,,,
+4,MRACT,ZooKeys,10.3897/zookeys.901.39432,,,
+4,HOWP,ZooKeys,10.3897/zookeys.933.48771,,,
+5,UNIANDES,ZooKeys,10.3897/zookeys.937.51361,,,
+1,UKMMZ,Zoosystematics and Evolution,10.3897/zse.96.50744,,,
+1,Royal Saskatchewan Museum,Journal of Hymenoptera Research,10.3897/jhr.77.53704,,,
+2,ACG,Journal of Hymenoptera Research,10.3897/jhr.77.50577,,,
+2,JICA,Journal of Hymenoptera Research,10.3897/jhr.77.50577,US,"DOI/NPS, Jimmy Carter National Historic Site",
+1,NCA,ZooKeys,10.3897/zookeys.944.49921,,,
+1,UBDM,ZooKeys,10.3897/zookeys.946.51780,,,
+1,NHW,ZooKeys,10.3897/zookeys.951.53814,,,
+1,ANHRT,ZooKeys,10.3897/zookeys.951.53814,,,
+2,QAU,ZooKeys,10.3897/zookeys.953.49557,,,
+1,KBG,PhytoKeys,10.3897/phytokeys.157.32729,JP,Kyoto Botanical Garden,
+4,UFTC,ZooKeys,10.3897/zookeys.963.55843;10.3897/zookeys.1000.59219,,,
+1,CEFUDFJC,ZooKeys,10.3897/zookeys.963.55843,,,
+2,SMN,Deutsche Entomologische Zeitschrift,10.3897/dez.67.53199,CN,Simao District National Medical and Pharmaceutical Institute,HERBARIUM
+2,MCSN,Deutsche Entomologische Zeitschrift,10.3897/dez.67.53199,IT,"Museo Civico di Storia Naturale, Verona",
+5,PKU,ZooKeys,10.3897/zookeys.712.14955,,,
+6,NHMV,ZooKeys,10.3897/zookeys.684.13383;10.3897/zookeys.615.9179,DE,Müritzeum gGmbH / Naturhistorische Landessammlungen für Mecklenburg-Vorpommern,
+2,EMU,ZooKeys,10.3897/zookeys.671.9081,US,"Eastern Michigan University, T. L. Hankinson Vertebrate Museum",UNIVERSITY_COLLEGE
+3,ECO-CHZ,ZooKeys,10.3897/zookeys.671.12052,,,
+2,HUNAU,ZooKeys,10.3897/zookeys.668.11896;10.3897/zookeys.609.8288,,,
+4,CNIABM,ZooKeys,10.3897/zookeys.667.6080,,,
+2,SAC,ZooKeys,10.3897/zookeys.663.11320,IN,"St. Albert's College (Autonomous) Kochi, India",
+1,DCS,ZooKeys,10.3897/zookeys.663.11320,,,
+1,Museum Zoologicum Bogoriense,ZooKeys,10.3897/zookeys.660.11847,,,
+1,MNZTPT,ZooKeys,10.3897/zookeys.658.11227,,,
+3,NMMU,ZooKeys,10.3897/zookeys.657.11623,,,
+4,KYUN,ZooKeys,10.3897/zookeys.651.11235,,,
+2,South African Museum,ZooKeys,10.3897/zookeys.640.10334,,,
+1,MUZ-UV,ZooKeys,10.3897/zookeys.640.10911,,,
+3,Tullie House Museum,ZooKeys,10.3897/zookeys.639.10893,,,
+8,BZL,ZooKeys,10.3897/zookeys.639.10893,,,
+7,ZSSM,ZooKeys,10.3897/zookeys.639.10893,,,
+5,SYKE,ZooKeys,10.3897/zookeys.639.10893,,,
+3,UMC,ZooKeys,10.3897/zookeys.973.54026,,,
+3,RCEF,MycoKeys,10.3897/mycokeys.73.56905,,,
+1,GBG,PhytoKeys,10.3897/phytokeys.162.52174,SE,Gothenburg Botanical Garden,BOTANICAL_GARDEN
+4,NMNL,ZooKeys,10.3897/zookeys.974.54794,NL,Natuurmuseum Nijmegen e.o.,HERBARIUM
+1,DMC,PhytoKeys,10.3897/phytokeys.162.55550,,,
+1,Guizhou Normal University,ZooKeys,10.3897/zookeys.637.10202,,,
+1,FSJF,ZooKeys,10.3897/zookeys.636.10571,,,
+3,ZM-CBSU,ZooKeys,10.3897/zookeys.636.10571;10.3897/zookeys.579.7665;10.3897/zookeys.572.7377,,,
+3,SYUG,ZooKeys,10.3897/zookeys.635.9915,,,
+3,National Museum of Natural History,ZooKeys,10.3897/zookeys.635.10535,,,
+4,Smithsonian Institution,ZooKeys,10.3897/zookeys.635.10535;10.3897/zookeys.623.10018,,,
+6,FJIQBC,ZooKeys,10.3897/zookeys.634.10236;10.3897/zookeys.996.54187,,,
+1,Queen Victoria Museum and Art Gallery,ZooKeys,10.3897/zookeys.632.10657,,,
+1,"Queen Victoria Museum and Art Gallery, Launceston, Tasmania(QVMAG)",ZooKeys,10.3897/zookeys.632.10657,,,
+1,AUZM,ZooKeys,10.3897/zookeys.632.10130,,,
+3,Muséum National d'Histoire Naturelle,ZooKeys,10.3897/zookeys.632.9652,,,
+6,Universidade Federal do Paraná,ZooKeys,10.3897/zookeys.631.10718,,,
+3,Department of Entomology,ZooKeys,10.3897/zookeys.629.10121,,,
+4,Agriculture and Agri-Food Canada,ZooKeys,10.3897/zookeys.629.10121,,,
+3,Islamic Azad University,ZooKeys,10.3897/zookeys.629.10121,,,
+2,UNALM,ZooKeys,10.3897/zookeys.628.9805,,,
+1,Universidad de Costa Rica,ZooKeys,10.3897/zookeys.628.9805,,,
+1,MTU,ZooKeys,10.3897/zookeys.626.7485,,,
+1,VTEC,ZooKeys,10.3897/zookeys.626.9681,,,
+3,South China Agricultural University,ZooKeys,10.3897/zookeys.625.9846,,,
+4,South China Agricultural University(SCAU),ZooKeys,10.3897/zookeys.625.9846;10.3897/zookeys.564.6819,,,
+3,Anhui University(ANU),ZooKeys,10.3897/zookeys.625.9846,,,
+4,Anhui University,ZooKeys,10.3897/zookeys.625.9846,,,
+1,University of New Mexico,ZooKeys,10.3897/zookeys.623.10018,,,
+1,The Museum of Southwestern Biology,ZooKeys,10.3897/zookeys.623.10018,,,
+1,MIAvH,ZooKeys,10.3897/zookeys.623.9677,,,
+2,OCSD,ZooKeys,10.3897/zookeys.622.9411,,,
+2,CSD-EMTS,ZooKeys,10.3897/zookeys.622.9411,,,
+1,MCCF,ZooKeys,10.3897/zookeys.621.9662,,,
+1,Royal Belgian Institute of Natural Sciences,ZooKeys,10.3897/zookeys.621.9725,,,
+15,Zoological Museum,ZooKeys,10.3897/zookeys.619.10043,,,
+15,Muséum,ZooKeys,10.3897/zookeys.619.10043,,,
+19,Naturalis Biodiversity Center,ZooKeys,10.3897/zookeys.619.10043;10.3897/zookeys.606.9310,,,
+15,University of Copenhagen,ZooKeys,10.3897/zookeys.619.10043,,,
+15,University of Tokyo,ZooKeys,10.3897/zookeys.619.10043,,,
+3,Museum of Comparative Zoology,ZooKeys,10.3897/zookeys.618.9692,,,
+1,Florida Museum of Natural History,ZooKeys,10.3897/zookeys.617.9893,,,
+2,CDW,ZooKeys,10.3897/zookeys.615.9179,,,
+5,ASLAR,ZooKeys,10.3897/zookeys.615.9530,,,
+1,"Geoscience Museum, University of Göttingen, Germany(GMG)",ZooKeys,10.3897/zookeys.614.9283,,,
+1,GMG,ZooKeys,10.3897/zookeys.614.9283,,,
+1,SMRC,ZooKeys,10.3897/zookeys.614.8346,,,
+2,Universidade de Brasília,ZooKeys,10.3897/zookeys.612.7851,,,
+1,CDH,ZooKeys,10.3897/zookeys.611.9058,,,
+1,ITSZ,ZooKeys,10.3897/zookeys.610.8605,,,
+6,DLC,ZooKeys,10.3897/zookeys.610.9361,US,Duke Lemur Center,
+1,Osaka Prefecture University,ZooKeys,10.3897/zookeys.609.8288,,,
+1,"Institute of Zoology, Chinese Academy of Sciences",ZooKeys,10.3897/zookeys.609.9327,,,
+1,NTUC,ZooKeys,10.3897/zookeys.609.9327,TW,National Taiwan University,
+3,MCWNU,ZooKeys,10.3897/zookeys.609.8250,,,
+2,NHLRU,ZooKeys,10.3897/zookeys.980.54100,,,
+5,ZRCBUU,ZooKeys,10.3897/zookeys.980.54100,,,
+1,HKU,Journal of Hymenoptera Research,10.3897/jhr.79.55832,CN,The University of Hong Kong,HERBARIUM
+2,FSCV,Journal of Hymenoptera Research,10.3897/jhr.79.56839;10.3897/jhr.79.57887,,,
+1,IMBIV,PhytoKeys,10.3897/phytokeys.164.54504,,,
+10,NYNU,MycoKeys,10.3897/mycokeys.74.53433;10.3897/mycokeys.75.57192;10.3897/mycokeys.77.60077,,,
+1,CICC,MycoKeys,10.3897/mycokeys.74.53433,CN,China Center for Industrial Culture Collection,
+10,PDD,MycoKeys,10.3897/mycokeys.74.57824;10.3897/mycokeys.80.64435,NZ,Manaaki Whenua - Landcare Research,HERBARIUM
+3,LMNH,Nota Lepidopterologica,10.3897/nl.43.54916,FR,Museum d'Histoire naturelle,
+3,RCMN,Nota Lepidopterologica,10.3897/nl.43.54916,,,
+18,MNHA,ZooKeys,10.3897/zookeys.990.55542,,,
+1,LEUNA,ZooKeys,10.3897/zookeys.989.53018,,,
+1,SFC,MycoKeys,10.3897/mycokeys.75.53673,CN,Laboratory of Fishes,
+2,PNN,ZooKeys,10.3897/zookeys.988.49627,,,
+1,"Museo Nacional de Ciencias Naturales, Madrid, Spain",ZooKeys,10.3897/zookeys.987.51366,,,
+2,DOL,ZooKeys,10.3897/zookeys.987.51366,,,
+2,ICML–EMUCOP,ZooKeys,10.3897/zookeys.987.52906,,,
+1,MInRB,ZooKeys,10.3897/zookeys.984.52252,,,
+1,SEM-CAS,ZooKeys,10.3897/zookeys.991.47725,,,
+1,HSN,PhytoKeys,10.3897/phytokeys.159.56109,,,
+24,RIFID,ZooKeys,10.3897/zookeys.995.55981;10.3897/zookeys.1028.61018,,,
+1,AC,Subterranean Biology,10.3897/subtbiol.36.54034,US,Amherst College,UNIVERSITY_COLLEGE
+1,DBAULL,Subterranean Biology,10.3897/subtbiol.36.55090,,,
+4,MEL,PhytoKeys;MycoKeys,10.3897/phytokeys.151.51909;10.3897/mycokeys.80.64435,NI,Museo Entomologico de Leon,MUSEUM_HERBARIUM_PRIVATE_NON_PROFIT
+1,MISC,PhytoKeys,10.3897/phytokeys.167.55107,,,
+1,PEPP,PhytoKeys,10.3897/phytokeys.167.55107,,,
+1,MPC,ZooKeys,10.3897/zookeys.999.53130,,"Monterey Peninsula College, Life Science Museum",
+1,KKC,ZooKeys,10.3897/zookeys.999.53130,,,
+14,SMNE,ZooKeys,10.3897/zookeys.999.58747,,,
+1,GU,PhytoKeys,10.3897/phytokeys.169.58107,US,"USDA/ARS, Gardens Unit",
+1,AAFB,PhytoKeys,10.3897/phytokeys.169.58107,,,
+1,KKIC,ZooKeys,10.3897/zookeys.997.34935,,,
+1,DNP,ZooKeys,10.3897/zookeys.997.34935,,,
+1,MERBK,ZooKeys,10.3897/zookeys.997.52703,,,
+2,CWNU,ZooKeys;PhytoKeys,10.3897/zookeys.997.52857;10.3897/phytokeys.176.63378,,,
+1,STCT,ZooKeys,10.3897/zookeys.996.56562,,,
+2,CIFI,ZooKeys,10.3897/zookeys.996.57411,,,
+3,HMIM,Nota Lepidopterologica;ZooKeys,10.3897/nl.43.49128;10.3897/zookeys.1005.56353,ES,Jardí Botànic Marimurtra,HERBARIUM
+1,PSS,Nota Lepidopterologica,10.3897/nl.41.25099,,Paleontology and Stratigraphic Section of the Geological Institute of the Mongolian Academy of Sciences,
+1,EFJ,Nota Lepidopterologica,10.3897/nl.41.25099,,,
+1,FRM,Nota Lepidopterologica,10.3897/nl.41.25099,,"Friends University, Fellow-Reeve Museum of History and Science",
+2,MHKMU,MycoKeys,10.3897/mycokeys.70.54149,CN,Kunming Medical University,
+1,NNKN,MycoKeys,10.3897/mycokeys.71.53421,NL,Noordbrabants Natuurmuseum,
+1,BDNA,MycoKeys,10.3897/mycokeys.70.51569,,,
+8,NCYUCC,MycoKeys,10.3897/mycokeys.70.53674,,,
+1,GUM,MycoKeys,10.3897/mycokeys.66.50946,IR,University of Guilan,
+1,UNIPAR,MycoKeys,10.3897/mycokeys.65.47574,BJ,University of Parakou,
+1,KAS,MycoKeys,10.3897/mycokeys.65.47574,DE,University of Kassel,HERBARIUM
+12,GLMC,MycoKeys,10.3897/mycokeys.63.46836,CN,Guilin Medical College,HERBARIUM
+3,GUCC,MycoKeys,10.3897/mycokeys.63.49264;10.3897/mycokeys.57.35448,,,
+3,HGUP,MycoKeys,10.3897/mycokeys.63.49264;10.3897/mycokeys.57.35448,,,
+5,SAAS,MycoKeys,10.3897/mycokeys.61.46446,ZA,"Saasveld, Port Elizabeth Technikon",HERBARIUM
+1,NFCCI,MycoKeys,10.3897/mycokeys.45.32549,IO,National Fungal Culture Collection of India,
+1,MFLC,MycoKeys,10.3897/mycokeys.43.25081,,,
+26,AVSC,ZooKeys,10.3897/zookeys.1001.58447,,,
+13,WBWC,ZooKeys,10.3897/zookeys.1001.58447,,,
+9,CHSM,ZooKeys,10.3897/zookeys.1001.58447,,,
+7,OUMNH,ZooKeys,10.3897/zookeys.1001.58447,,,
+1,KSA,Journal of Hymenoptera Research,10.3897/jhr.76.50193,,,
+35,AdMU,ZooKeys,10.3897/zookeys.1002.58017,,,
+6,PCSD,ZooKeys,10.3897/zookeys.1002.58017,,,
+3,Everglades National Park,ZooKeys,10.3897/zookeys.603.7480,,,
+2,Museo Nacional de Ciencias Naturales,ZooKeys,10.3897/zookeys.601.8241,,,
+2,Museo Nacional de Ciencias Naturales(CSIC),ZooKeys,10.3897/zookeys.601.8241,,,
+2,NP,ZooKeys,10.3897/zookeys.1003.55541,,,
+2,CFDS,ZooKeys,10.3897/zookeys.1003.55541,,,
+4,Central Research Laboratories,ZooKeys,10.3897/zookeys.599.8168,,,
+1,UB,ZooKeys,10.3897/zookeys.596.5945,FR,Laboratoire de Biostratigraphie,
+8,ABC,ZooKeys;Subterranean Biology,10.3897/zookeys.596.8725;10.3897/subtbiol.38.61787,,,
+6,Museumof Natural History,ZooKeys,10.3897/zookeys.596.8332,,,
+6,Swedish Museumof Natural History,ZooKeys,10.3897/zookeys.596.8332,,,
+6,Oxford UniversityMuseumof Natural History,ZooKeys,10.3897/zookeys.596.8332,,,
+6,UniversityMuseumof Natural History,ZooKeys,10.3897/zookeys.596.8332,,,
+5,CQNU,ZooKeys,10.3897/zookeys.595.7734,,,
+10,LMBC,ZooKeys,10.3897/zookeys.593.7728,,,
+1,DEIM,ZooKeys,10.3897/zookeys.593.7728,,,
+9,"Natural History Museum, London",ZooKeys,10.3897/zookeys.593.8511,,,
+3,MNKB,ZooKeys,10.3897/zookeys.592.8180,,,
+19,PUCV,ZooKeys,10.3897/zookeys.591.7731,CL,Pontifical Catholic University of Valparaíso,
+7,ARC,ZooKeys,10.3897/zookeys.585.7503,CA,Atlantic Reference Centre,
+5,RSC,ZooKeys,10.3897/zookeys.585.7503,,,
+2,VMA,ZooKeys,10.3897/zookeys.588.7906,,,
+1,CMNFI,ZooKeys,10.3897/zookeys.579.7665,,,
+1,ZMUB,ZooKeys,10.3897/zookeys.577.7679,NO,"Museum of Zoology at the University of Bergen, Vertebrate collections",
+1,FZUT,ZooKeys,10.3897/zookeys.578.7424,,,
+9,AFC,ZooKeys,10.3897/zookeys.573.7830;10.3897/zookeys.573.7016,,,
+1,LUC,ZooKeys,10.3897/zookeys.573.7016,US,Loyola University of Chicago,
+1,BYUC,ZooKeys,10.3897/zookeys.572.7823,,,
+1,CJMC,ZooKeys,10.3897/zookeys.571.7356,,,
+3,JNC,ZooKeys,10.3897/zookeys.568.7733,,,
+1,COM,ZooKeys,10.3897/zookeys.566.7344,LK,Colombo Museum,
+20,CGCM,ZooKeys,10.3897/zookeys.566.7344;10.3897/zookeys.566.6982,,,
+2,OM,ZooKeys,10.3897/zookeys.566.6982,NZ,Otago Museum,
+2,RAS,ZooKeys,10.3897/zookeys.566.6982,MM,Union of Burma Applied Research Institute,HERBARIUM
+1,MHNSM,ZooKeys,10.3897/zookeys.563.6084,,,
+2,UPLBM,ZooKeys,10.3897/zookeys.559.6281,,,
+2,OC,ZooKeys,10.3897/zookeys.559.6281,US,Oberlin College,HERBARIUM
+1,DBFMNUP,ZooKeys,10.3897/zookeys.559.6350,,,
+1,BDOL,ZooKeys,10.3897/zookeys.559.6350,,,
+1,PCTW,ZooKeys,10.3897/zookeys.559.6755,,,
+1,ABPC,ZooKeys,10.3897/zookeys.558.6112,,,
+2,UNHAS,ZooKeys,10.3897/zookeys.557.6298,,,
+8,DBUO,ZooKeys,10.3897/zookeys.554.6120,,,
+28,AUMNH,ZooKeys,10.3897/zookeys.560.6264,,,
+1,NPIC,ZooKeys,10.3897/zookeys.546.6443,,,
+7,GZAAS,MycoKeys,10.3897/mycokeys.76.58465,,,
+2,GZCC,MycoKeys,10.3897/mycokeys.76.58465,,,
+1,CLH,ZooKeys,10.3897/zookeys.1008.61040,,,
+2,GEI,Journal of Hymenoptera Research,10.3897/jhr.80.57667,,,
+1,PFEC,Journal of Hymenoptera Research,10.3897/jhr.80.58737,,,
+1,MHNBA-MZUFBA,ZooKeys,10.3897/zookeys.1006.57599,,,
+2,ES,Subterranean Biology,10.3897/subtbiol.37.60483,,,
+2,"Museum für Naturkunde, Berlin, Germany",Subterranean Biology,10.3897/subtbiol.37.60483,,,
+2,NAT,Subterranean Biology,10.3897/subtbiol.37.60483,GB,Seale-Hayne Agricultural College,HERBARIUM
+2,"Museu de la Universitat de València d´Història Natural, Burjassot, València, Spain",Subterranean Biology,10.3897/subtbiol.37.60483,,,
+2,"Universidade Federal de Lavras, Brazil",Subterranean Biology,10.3897/subtbiol.37.60483,,,
+3,FKH,Zoosystematics and Evolution,10.3897/zse.97.57202,,,
+9,MZUB,ZooKeys,10.3897/zookeys.1010.58759,IT,Museo di Zoologia,
+1,CHTS,ZooKeys,10.3897/zookeys.110.59530,,,
+1,FAFS,ZooKeys,10.3897/zookeys.110.59530,,,
+6,ITS,MycoKeys,10.3897/mycokeys.78.62046;10.3897/mycokeys.78.60063,,,
+1,rpb2,MycoKeys,10.3897/mycokeys.78.62046,,,
+2,LSU,MycoKeys,10.3897/mycokeys.78.62046,,Maine Forest Service (MFS),
+1,tef1,MycoKeys,10.3897/mycokeys.78.62046,,,
+1,SSU,MycoKeys,10.3897/mycokeys.78.62046,,Saratov State University,
+2,IKI,MycoKeys,10.3897/mycokeys.78.62046,,,
+2,LBs,MycoKeys,10.3897/mycokeys.78.62046,,,
+1,MLZ,MycoKeys,10.3897/mycokeys.78.62046,US,"Moore Laboratory of Zoology, Occidental College",
+2,OCI,MycoKeys,10.3897/mycokeys.78.62046,,,
+1,VBs,MycoKeys,10.3897/mycokeys.78.62046,,,
+1,NKUA,Zoosystematics and Evolution,10.3897/zse.97.60254,,,
+1,MARBK,ZooKeys,10.3897/zookeys.1015.60095,,,
+3,UAE,ZooKeys,10.3897/zookeys.1014.60426,,,
+1,NCBS,Evolutionary Systematics,10.3897/evolsyst.5.61667,US,Connecticut Botanical Society,HERBARIUM
+4,SCC,ZooKeys,10.3897/zookeys.1019.59881,,,
+6,IMQC,ZooKeys,10.3897/zookeys.1018.61033,,,
+1,DAF,Journal of Hymenoptera Research,10.3897/jhr.81.57792,,,
+10,UNILA,Journal of Hymenoptera Research,10.3897/jhr.81.60048,,,
+6,UFPB,Journal of Hymenoptera Research,10.3897/jhr.81.60048,BR,Departamento de Sistematica e Ecologia,
+2,LFNU,ZooKeys,10.3897/zookeys.1021.58962,,,
+1,BFU,ZooKeys,10.3897/zookeys.1022.62833,,,
+1,SNP,PhytoKeys,10.3897/phytokeys.174.61630,MY,Sabah Parks,HERBARIUM
+1,Dar es–Salaam University herbarium,PhytoKeys,10.3897/phytokeys.174.61630,,,
+1,CSUFT,ZooKeys,10.3897/zookeys.1024.56399,,,
+5,BUIC,ZooKeys,10.3897/zookeys.1024.60393,,,
+4,USNMNH,ZooKeys,10.3897/zookeys.1024.56927,,,
+4,RAB,ZooKeys,10.3897/zookeys.1028.61018,MA,Institut Scientifique,HERBARIUM
+4,SYU,ZooKeys,10.3897/zookeys.1028.61018,,,
+1,FFR,Zoosystematics and Evolution,10.3897/zse.97.63691,GB,"Forfar Museum and Art Gallery, Meffan Institute",HERBARIUM
+1,ZMPC,ZooKeys,10.3897/zookeys.1029.63023,,,
+3,JHAC,ZooKeys,10.3897/zookeys.1029.63940,,,
+1,SUT,ZooKeys,10.3897/zookeys.1029.64531,,,
+2,"National Museum of Natural History, Smithsonian Institution",Subterranean Biology,10.3897/subtbiol.38.61787,,,
+2,PCNYNP,ZooKeys,10.3897/zookeys.1031.57836,,,
+1,MZUN,Subterranean Biology,10.3897/subtbiol.38.66254,IT,Museo Zoologico di Universita degli Studi,
+15,UFSC,ZooKeys,10.3897/zookeys.1033.60686,,,
+1,IMJAU,ZooKeys,10.3897/zookeys.1033.62129,,,
+3,TRU,ZooKeys,10.3897/zookeys.1034.60411,GB,Royal Cornwall Museum,HERBARIUM
+1,UFSCar,Journal of Hymenoptera Research,10.3897/jhr.82.62345,,,
+4,MSC,Journal of Hymenoptera Research,10.3897/jhr.82.64657,US,McWane Science Center,MUSEUM
+2,FCEL,ZooKeys,10.3897/zookeys.1036.63814,,,
+1,JSSNU,ZooKeys,10.3897/zookeys.1037.65481,,,
+1,DDBJ,ZooKeys,10.3897/zookeys.1038.63170,,,
+1,ICYZU,ZooKeys,10.3897/zookeys.1039.60144,,,
+2,NMSZ,ZooKeys,10.3897/zookeys.1039.61098,,,
