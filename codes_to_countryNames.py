@@ -3,8 +3,6 @@ import requests
 import pandas as pd
 import pycountry
 df = pd.read_csv('institutional_use_counts_global_countries.csv')
-#df_institutions_gbif = pd.read_csv('global_south_gbif.csv')
-#df_new = pd.merge(df_counts, df_institutions_gbif, left_on='instCode', right_on='instCode', how='left')
 global_south_africa = [
 'Angola',
 'Benin',
@@ -204,7 +202,6 @@ global_south = global_south_africa+global_south_arab+global_south_asia+global_so
 
 
 for index, row in df.iterrows():
-    print(row)
     country = row['country']
     if country is not NaN:
         if len(country) == 3:
