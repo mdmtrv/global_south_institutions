@@ -2,9 +2,6 @@ import requests
 import pandas as pd
 import pycountry
 df = pd.read_csv('institutional_use_counts_global.csv')
-#df_institutions_gbif = pd.read_csv('global_south_gbif.csv')
-#df_new = pd.merge(df_counts, df_institutions_gbif, left_on='instCode', right_on='instCode', how='left')
-
 
 for index, row in df.iterrows():
     code = row['instCode']
@@ -43,5 +40,4 @@ for index, row in df.iterrows():
                 df.loc[index, 'name'] = instName
             if instType is not None:
                 df.loc[index, 'type'] = instType
-#new_df = df['country'].apply(lambda x: pycountry.countries.get(alpha_3=x).name if len(x) == 3 else pycountry.countries.get(alpha_2=x).name)
 df.to_csv('institutional_use_counts_global_countries.csv', index=False)
