@@ -4,7 +4,7 @@ Scripts to find institutional usages in Pensoft treatments and determine whether
 The results are in 
 
 How to reproduce:
-1. Execute SPARQL query in [sparql_query.rq](https://github.com/mdmtrv/global_south/blob/main/sparql_query.rq) against the OpenBiodiv2020 repository in the [OpenBiodiv GraphDB database](http://graph.openbiodiv.net/sparql) to find institutional code usages in taxonomic literature and the corresponding article DOIs.
+1. Execute SPARQL query in [sparql_query.rq](https://github.com/mdmtrv/global_south/blob/main/sparql_query.rq) against the OpenBiodiv2020 repository in the [OpenBiodiv GraphDB database](http://graph.openbiodiv.net/sparql) to find institutional code usages in taxonomic literature and the corresponding article DOIs. Export results as CSV as institutional_use_counts_global.csv
 2. Run [process_treatements_per_institution.py](https://github.com/mdmtrv/global_south/blob/main/process_treatements_per_institution.py) to perform API calls to GBIF's API and determine the name of each institution and the country (country code) where it is located:
 
  ```python process_treatements_per_institution.py```
