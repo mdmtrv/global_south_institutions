@@ -27,8 +27,6 @@ for index, row in df.iterrows():
         req = requests.get(url)
     if req.status_code == 200:
         res = req.json()['results']
-        #print("ALTERNATIVE RESULTS")
-        #print(res)
         if len(res) > 0:
             instName = res[0].get('name')
             instType = res[0].get('type')
